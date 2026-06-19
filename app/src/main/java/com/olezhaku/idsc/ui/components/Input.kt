@@ -18,6 +18,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.focus.FocusRequester
 import androidx.compose.ui.focus.focusRequester
 import androidx.compose.ui.focus.onFocusChanged
+import androidx.compose.ui.platform.LocalFocusManager
 import androidx.compose.ui.unit.dp
 
 enum class InputType {
@@ -29,9 +30,9 @@ enum class InputType {
 fun Input(
     value: String,
     onValueChange: (String) -> Unit,
-    clearFocus: () -> Unit = {},
     type: InputType = InputType.Text
 ) {
+    val focusManager = LocalFocusManager.current
     val focusRequester = remember { FocusRequester() }
     var isFocused by remember { mutableStateOf(false) }
 
@@ -44,7 +45,7 @@ fun Input(
         onValueChange = onValueChange,
         shape = androidx.compose.foundation.shape.RoundedCornerShape(12.dp),
         singleLine = true,
-        keyboardActions = KeyboardActions(onAny = { clearFocus() }),
+        keyboardActions = KeyboardActions({ focusManager.clearFocus() }),
         trailingIcon = {
             when (type) {
                 InputType.Text -> {}

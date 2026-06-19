@@ -14,16 +14,18 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.platform.LocalFocusManager
+import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.ui.unit.dp
 import com.olezhaku.idsc.ui.components.Input
 import com.olezhaku.idsc.ui.components.InputType
+import com.olezhaku.idsc.ui.components.List
 import com.olezhaku.idsc.ui.theme.IDsCTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
+
         setContent {
             IDsCTheme {
                 MainScreen()
@@ -34,22 +36,61 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun MainScreen() {
-    val focusManager = LocalFocusManager.current
     var searchText by remember { mutableStateOf("") }
 
-    Scaffold { innerPadding ->
+    val list = listOf(
+        "Паспорт",
+        "Водительское удостоверение",
+        "Студенческий билет",
+        "Загранпаспорт",
+        "СНИЛС",
+        "Паспорт",
+        "Водительское удостоверение",
+        "Студенческий билет",
+        "Загранпаспорт",
+        "СНИЛС",
+        "Паспорт",
+        "Водительское удостоверение",
+        "Студенческий билет",
+        "Загранпаспорт",
+        "СНИЛС",
+        "Паспорт",
+        "Водительское удостоверение",
+        "Студенческий билет",
+        "Загранпаспорт",
+        "СНИЛС",
+        "Паспорт",
+        "Водительское удостоверение",
+        "Студенческий билет",
+        "Загранпаспорт",
+        "СНИЛС",
+        "Паспорт",
+        "Водительское удостоверение",
+        "Студенческий билет",
+        "Загранпаспорт",
+        "СНИЛС",
+    )
+
+    Layout {
+        Input(
+            value = searchText,
+            onValueChange = { searchText = it },
+            type = InputType.Search
+        )
+
+        List(list)
+    }
+}
+
+@Composable
+fun Layout(content: @Composable () -> Unit) {
+    Scaffold {
         Column(
             modifier = Modifier
-                .padding(innerPadding)
-                .fillMaxSize()
-                .padding(24.dp)
+                .statusBarsPadding()
+                .padding(start = 24.dp, top = 24.dp, end = 24.dp)
         ) {
-            Input(
-                value = searchText,
-                onValueChange = { searchText = it },
-                clearFocus = { focusManager.clearFocus() },
-                type = InputType.Search
-            )
+            content()
         }
     }
 }
