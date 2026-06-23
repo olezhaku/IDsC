@@ -3,6 +3,7 @@ package com.olezhaku.idsc.data
 import com.olezhaku.idsc.data.Device
 import org.json.JSONArray
 
+
 fun parseDevices(json: String): List<Device> {
     val array = JSONArray(json)
     val devices = mutableListOf<Device>()

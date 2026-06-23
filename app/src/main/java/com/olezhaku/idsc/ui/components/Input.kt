@@ -21,6 +21,7 @@ import androidx.compose.ui.focus.onFocusChanged
 import androidx.compose.ui.platform.LocalFocusManager
 import androidx.compose.ui.unit.dp
 
+
 enum class InputType {
     Text,
     Search
@@ -55,7 +56,8 @@ fun Input(
                         onClick = {
                             focusRequester.requestFocus()
                             if (value.isNotEmpty()) onValueChange("")
-                        }) {
+                        }
+                    ) {
                         Icon(
                             imageVector =
                                 if (value.isNotEmpty())

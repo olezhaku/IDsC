@@ -5,18 +5,18 @@ import androidx.navigation.NavHostController
 import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.olezhaku.idsc.ui.screens.DeviceDetailsScreen
 import com.olezhaku.idsc.ui.screens.DevicesScreen
 
+
 @Composable
 fun AppNavHost(navHostController: NavHostController) {
     NavHost(
-        navHostController,
-        Destination.Devices.route
+        navController = navHostController,
+        startDestination = Destination.Devices.route
     ) {
-        composable(Destination.Devices.route) {
+        composable(route = Destination.Devices.route) {
             DevicesScreen(
                 onDeviceClick = { deviceId ->
                     navHostController.navigate(
@@ -27,10 +27,10 @@ fun AppNavHost(navHostController: NavHostController) {
         }
 
         composable(
-            Destination.DeviceDetails.route,
-            listOf(
+            route = Destination.DeviceDetails.route,
+            arguments = listOf(
                 navArgument(Destination.DEVICE_ID) {
-                    NavType.StringType
+                    type = NavType.StringType
                 }
             )
         ) { backStackEntry ->
@@ -40,9 +40,7 @@ fun AppNavHost(navHostController: NavHostController) {
 
             DeviceDetailsScreen(
                 deviceId = deviceId,
-                onBackClick = {
-                    navHostController.popBackStack()
-                }
+                onBackClick = { navHostController.popBackStack() }
             )
         }
     }

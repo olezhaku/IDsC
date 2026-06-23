@@ -7303,7 +7303,7 @@
     "manufacturer": "HTC",
     "serial": "RKFB7UBOD5ZRH40D",
     "build_id": "OPM1.240511.510",
-    "chipset": "MT6752Qualcomm"
+    "chipset": "MT6752"
   },
   {
     "id": 563,
@@ -7316,7 +7316,7 @@
     "manufacturer": "HTC",
     "serial": "LX94M59RPQRE4YRG",
     "build_id": "PKQ1.240328.844",
-    "chipset": "MT6752Qualcomm"
+    "chipset": "MT6752"
   },
   {
     "id": 564,
@@ -7394,7 +7394,7 @@
     "manufacturer": "HTC",
     "serial": "VLSKS8OW3SAWLK0N",
     "build_id": "PKQ1.240526.768",
-    "chipset": "MT6752Qualcomm"
+    "chipset": "MT6752"
   },
   {
     "id": 570,
@@ -7407,7 +7407,7 @@
     "manufacturer": "HTC",
     "serial": "CQY0HKJ6B6A63DCJ",
     "build_id": "QKQ1.241007.183",
-    "chipset": "MT6752Qualcomm"
+    "chipset": "MT6752"
   },
   {
     "id": 571,
@@ -7420,7 +7420,7 @@
     "manufacturer": "HTC",
     "serial": "Y57SAHSH57UGR5GL",
     "build_id": "PKQ1.250321.157",
-    "chipset": "MT6752Qualcomm"
+    "chipset": "MT6752"
   },
   {
     "id": 572,
@@ -7628,7 +7628,7 @@
     "manufacturer": "HTC",
     "serial": "KJ2ZFQDI2LL0PDDB",
     "build_id": "OPM1.240103.478",
-    "chipset": "MT6752Qualcomm"
+    "chipset": "MT6752"
   },
   {
     "id": 588,
@@ -7771,7 +7771,7 @@
     "manufacturer": "HTC",
     "serial": "XC3A8DSR9T6FSZGM",
     "build_id": "RKQ1.241030.095",
-    "chipset": "MT6752Qualcomm"
+    "chipset": "MT6752"
   },
   {
     "id": 599,
@@ -7784,7 +7784,7 @@
     "manufacturer": "HTC",
     "serial": "8GAH5TQ2VIZPKH6G",
     "build_id": "QKQ1.250225.820",
-    "chipset": "MT6752Qualcomm"
+    "chipset": "MT6752"
   },
   {
     "id": 600,
@@ -7888,7 +7888,7 @@
     "manufacturer": "HTC",
     "serial": "NVF46I2T5TRRW8EH",
     "build_id": "QKQ1.250828.641",
-    "chipset": "MT6752Qualcomm"
+    "chipset": "MT6752"
   },
   {
     "id": 608,

@@ -1,5 +1,6 @@
 package com.olezhaku.idsc.navigation
 
+
 sealed class Destination(val route: String) {
     data object Devices : Destination(ROUTE_DEVICES)
     data object DeviceDetails : Destination("$ROUTE_DEVICE/{$DEVICE_ID}") {

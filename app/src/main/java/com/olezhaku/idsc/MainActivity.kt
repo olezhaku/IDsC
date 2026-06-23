@@ -9,6 +9,7 @@ import com.olezhaku.idsc.navigation.AppNavHost
 import com.olezhaku.idsc.ui.screens.DevicesScreen
 import com.olezhaku.idsc.ui.theme.IDsCTheme
 
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

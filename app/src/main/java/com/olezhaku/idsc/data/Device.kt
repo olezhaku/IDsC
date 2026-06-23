@@ -1,5 +1,6 @@
 package com.olezhaku.idsc.data
 
+
 data class Device(
     val id: Int,
     val brand: String,

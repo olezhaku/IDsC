@@ -18,8 +18,12 @@ import androidx.compose.ui.unit.dp
 import com.olezhaku.idsc.data.Device
 import kotlinx.coroutines.delay
 
+
 @Composable
-fun DeviceList(devices: List<Device>, onDeviceClick: (deviceId: String) -> Unit) {
+fun DeviceList(
+    devices: List<Device>,
+    onDeviceClick: (deviceId: String) -> Unit
+) {
     val keyboardController = LocalSoftwareKeyboardController.current
     val listState = rememberLazyListState()
 

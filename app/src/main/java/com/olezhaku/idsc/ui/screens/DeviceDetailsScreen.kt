@@ -1,17 +1,26 @@
 package com.olezhaku.idsc.ui.screens
 
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.width
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.filled.ArrowBack
+import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.HorizontalDivider
+import androidx.compose.material3.Icon
+import androidx.compose.material3.IconButton
 import androidx.compose.material3.Text
+import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
-import androidx.compose.runtime.setValue
+import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.unit.dp
 import com.olezhaku.idsc.data.parseDevices
-import com.olezhaku.idsc.ui.components.Input
-import com.olezhaku.idsc.ui.components.InputType
+import com.olezhaku.idsc.ui.components.FAB
+import com.olezhaku.idsc.ui.components.FABType
 import com.olezhaku.idsc.ui.layouts.Layout
-import com.olezhaku.idsc.ui.widgets.DeviceList
+
 
 @Composable
 fun DeviceDetailsScreen(deviceId: String, onBackClick: () -> Unit) {
@@ -22,24 +31,52 @@ fun DeviceDetailsScreen(deviceId: String, onBackClick: () -> Unit) {
     }
 
     val device = remember(deviceId, devices) {
-        devices.firstOrNull { it.id.toString() == deviceId }
+        devices.first { it.id.toString() == deviceId }
+    }
+    val fields = remember(device) {
+        listOf(
+            "ID" to device.id,
+            "Brand" to device.brand,
+            "Marketing name" to device.marketing_name,
+            "Model" to device.model,
+            "Board" to device.board,
+            "Build ID" to device.build_id,
+            "Serial" to device.serial,
+            "Chipset" to device.chipset
+        )
     }
 
-    Layout {
-        if (device == null) {
-            Text("Device not found")
-        } else {
-            Text("ID: ${device.id}")
-            Text("Board: ${device.board}")
-            Text("Brand: ${device.brand}")
-            Text("Build ID: ${device.build_id}")
-            Text("Chipset: ${device.chipset}")
-            Text("Device: ${device.device}")
-            Text("Fingerprint: ${device.fingerprint}")
-            Text("Manufacturer: ${device.manufacturer}")
-            Text("Marketing name: ${device.marketing_name}")
-            Text("Model: ${device.model}")
-            Text("Serial: ${device.serial}")
+    Layout(
+        topBar = {
+            @OptIn(ExperimentalMaterial3Api::class)
+            TopAppBar(
+                title = { Text("Device: $deviceId/${devices.size}") },
+                navigationIcon = {
+                    IconButton(onClick = onBackClick) {
+                        Icon(
+                            imageVector = Icons.AutoMirrored.Filled.ArrowBack,
+                            contentDescription = ""
+                        )
+                    }
+                }
+            )
+        },
+        floatingActionButton = {
+            FAB(
+                type = FABType.Run,
+                onClick = {
+                    //run script
+                }
+            )
+        }
+    ) {
+        fields.forEachIndexed { index, (key, value) ->
+            Row(Modifier.padding(vertical = 3.dp)) {
+                Text("$key:", Modifier.weight(0.4f))
+                Text(value.toString(), Modifier.weight(0.6f))
+            }
+
+            if (index != fields.lastIndex) HorizontalDivider()
         }
     }
 }

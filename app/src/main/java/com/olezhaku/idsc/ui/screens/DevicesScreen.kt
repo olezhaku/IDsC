@@ -7,10 +7,13 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.platform.LocalContext
 import com.olezhaku.idsc.data.parseDevices
+import com.olezhaku.idsc.ui.components.FAB
+import com.olezhaku.idsc.ui.components.FABType
 import com.olezhaku.idsc.ui.components.Input
 import com.olezhaku.idsc.ui.components.InputType
 import com.olezhaku.idsc.ui.layouts.Layout
 import com.olezhaku.idsc.ui.widgets.DeviceList
+
 
 @Composable
 fun DevicesScreen(onDeviceClick: (deviceId: String) -> Unit) {
@@ -30,8 +33,22 @@ fun DevicesScreen(onDeviceClick: (deviceId: String) -> Unit) {
         }
     }
 
-    Layout {
-        Input(searchText, { searchText = it }, InputType.Search)
+    Layout(
+        floatingActionButton = {
+            FAB(
+                type = FABType.Random,
+                onClick = {
+                    val randomDevice = devices.random()
+                    onDeviceClick(randomDevice.id.toString())
+                }
+            )
+        }
+    ) {
+        Input(
+            value = searchText,
+            onValueChange = { searchText = it },
+            type = InputType.Search
+        )
 
         DeviceList(filteredDevices, onDeviceClick)
     }

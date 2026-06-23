@@ -8,11 +8,19 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 
+
 @Composable
-fun Layout(content: @Composable () -> Unit) {
-    Scaffold {
+fun Layout(
+    topBar: @Composable () -> Unit = {},
+    floatingActionButton: @Composable () -> Unit = {},
+    content: @Composable () -> Unit
+) {
+    Scaffold(
+        topBar = topBar,
+        floatingActionButton = floatingActionButton
+    ) {
         Column(
-            modifier = Modifier
+            Modifier
                 .statusBarsPadding()
                 .padding(start = 24.dp, top = 24.dp, end = 24.dp)
         ) {
