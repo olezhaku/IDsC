@@ -5,7 +5,7 @@ import java.util.TimeZone
 import kotlin.random.Random
 
 
-data class GeneratedBuildDate(
+data class BuildDate(
     val year: String,
     val month: String,
     val day: String,
@@ -40,7 +40,7 @@ private fun getBuildIdDatePart(buildId: String): String {
     return datePart
 }
 
-fun generateBuildDate(buildId: String): GeneratedBuildDate {
+fun generateBuildDate(buildId: String): BuildDate {
     val datePart = getBuildIdDatePart(buildId)
 
     val year = "20${datePart.substring(0, 2)}"
@@ -63,7 +63,7 @@ fun generateBuildDate(buildId: String): GeneratedBuildDate {
     val weekday = WEEKDAY_NAMES[calendar.get(Calendar.DAY_OF_WEEK) - 1]
     val monthName = MONTH_NAMES[month.toInt() - 1]
 
-    return GeneratedBuildDate(
+    return BuildDate(
         year = year,
         month = month,
         day = day,
