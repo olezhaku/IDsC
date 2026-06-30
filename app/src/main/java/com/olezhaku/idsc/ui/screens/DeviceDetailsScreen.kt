@@ -2,9 +2,6 @@ package com.olezhaku.idsc.ui.screens
 
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.width
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
@@ -13,6 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
@@ -20,11 +18,16 @@ import com.olezhaku.idsc.data.parseDevices
 import com.olezhaku.idsc.ui.components.FAB
 import com.olezhaku.idsc.ui.components.FABType
 import com.olezhaku.idsc.ui.layouts.Layout
+import com.olezhaku.idsc.ui.widgets.runWithToast
+import com.olezhaku.idsc.utils.ProductPropsInstaller
+import kotlinx.coroutines.launch
 
 
 @Composable
 fun DeviceDetailsScreen(deviceId: String, onBackClick: () -> Unit) {
     val context = LocalContext.current
+    val scope = rememberCoroutineScope()
+
     val devices = remember {
         val json = context.assets.open("devices.json").bufferedReader().use { it.readText() }
         parseDevices(json)
@@ -33,6 +36,7 @@ fun DeviceDetailsScreen(deviceId: String, onBackClick: () -> Unit) {
     val device = remember(deviceId, devices) {
         devices.first { it.id.toString() == deviceId }
     }
+
     val fields = remember(device) {
         listOf(
             "ID" to device.id,
@@ -44,6 +48,21 @@ fun DeviceDetailsScreen(deviceId: String, onBackClick: () -> Unit) {
             "Serial" to device.serial,
             "Chipset" to device.chipset
         )
+    }
+
+    fun installProductProps() {
+        scope.launch {
+            context.runWithToast(
+                loadingMessage = "Saving configuration...",
+                successMessage = "Configuration saved. Reboot to apply changes.",
+                errorMessage = "Failed to save configuration."
+            ) {
+                ProductPropsInstaller.install(
+                    context = context,
+                    device = device
+                )
+            }
+        }
     }
 
     Layout(
@@ -64,9 +83,7 @@ fun DeviceDetailsScreen(deviceId: String, onBackClick: () -> Unit) {
         floatingActionButton = {
             FAB(
                 type = FABType.Run,
-                onClick = {
-                    //run script
-                }
+                onClick = { installProductProps() }
             )
         }
     ) {

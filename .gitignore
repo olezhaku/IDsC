@@ -9,34 +9,8 @@
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
 .DS_Store
-# /build
 /captures
 .externalNativeBuild
 .cxx
 local.properties
-
-# *.apk
-# *.ap_
-# *.aab
-# *.dev
-# bin/
-# gen/
-# Thumbs.db
-# .idea
-# build/
-# .navigation
-# captures/
-# output.json
-# obj/
-# keys/
-# photos_signed_debug.apk.idsig
-# photos_signed_release.apk.idsig
-# photos_signed_universal.apk.idsig
-# /gradle/wrapper/gradle-wrapper.jar
-# /gradlew
-# /gradlew.bat
-# .kotlin
-# .idea/gradle.xml
-# /baselineprofile/
-# outputs/
-# apksigner/
+.kotlin

@@ -1,55 +1,48 @@
 package com.olezhaku.idsc.utils
 
-import android.content.Context
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
-import java.io.File
+import java.io.IOException
 import java.util.concurrent.TimeUnit
 
 class NoRootError : Exception("Root not available")
+class TimeoutError : Exception("Timed out")
 
-object Shell {
+object RootShell {
     private const val TIMEOUT_MS = 15_000L
 
-    private suspend fun exec(command: String): String = withContext(Dispatchers.IO) {
-        val process = Runtime.getRuntime().exec(arrayOf("sh", "-c", command))
+    suspend fun run(command: String) = withContext(Dispatchers.IO) {
+        val process = try {
+            Runtime.getRuntime().exec("su")
+        } catch (e: IOException) {
+            throw NoRootError()
+        }
+
+        process.outputStream.bufferedWriter().use { writer ->
+            writer.write(command)
+            writer.newLine()
+            writer.write("exit")
+            writer.newLine()
+        }
 
         val finished = process.waitFor(TIMEOUT_MS, TimeUnit.MILLISECONDS)
-
-        if (!finished) {
-            process.destroyForcibly()
-            throw RuntimeException("Command timed out: $command")
-        }
 
         val stdout = process.inputStream.bufferedReader().readText()
         val stderr = process.errorStream.bufferedReader().readText()
 
-        if (process.exitValue() != 0) {
-            throw RuntimeException(stderr.ifBlank { "Command failed: $command" })
+        if (!finished) {
+            process.destroyForcibly()
+            throw TimeoutError()
         }
 
-        stdout
-    }
+        val exitCode = process.exitValue()
 
-    suspend fun executeScript(context: Context, script: String): String = withContext(Dispatchers.IO) {
-        val suProbe = exec("which su")
-        if (suProbe.trim().isEmpty()) {
-            throw NoRootError()
-        }
-
-        val file = File(context.cacheDir, "run-${System.currentTimeMillis()}.sh")
-
-        try {
-            file.writeText(script)
-            file.setExecutable(true, false)
-
-            exec("chmod 755 ${file.absolutePath}")
-
-            exec("su -c ${file.absolutePath}")
-        } finally {
-            runCatching {
-                file.delete()
-            }
+        if (exitCode != 0) {
+            throw RuntimeException(
+                stderr.ifBlank {
+                    stdout.ifBlank { "Failed with exit code $exitCode" }
+                }
+            )
         }
     }
 }
