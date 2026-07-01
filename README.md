@@ -1,46 +1,74 @@
-# IDSC
+# IDsC
 
-IDSC is an Expo-based Android utility for applying device identity profiles on rooted devices.
+IDsC is an Android utility for applying device identity profiles on rooted Android devices.
+
+The app lets you select a predefined device profile and generate a shell script that applies device identity-related system properties.
 
 ## What It Does
 
-- Lets you choose a device profile from a bundled catalog
-- Generates a shell script for applying that profile
-- Updates device-related properties such as fingerprints, model metadata, build info, and visible device naming values
-- Persists the generated script for reuse after reboot
+- Provides a bundled catalog of Android device profiles
+- Generates a shell script for the selected profile
+- Updates device-related values such as:
+  - build fingerprint
+  - model name
+  - manufacturer
+  - brand
+  - device name
+  - product name
+  - other build metadata
+
+- Saves the generated script for reuse after reboot
+- Targets rooted Android devices
 
 ## Stack
 
-- Expo
-- React Native
-- Expo Router
-- TypeScript
+- Kotlin
+- Android
+- Jetpack Compose
+- Material 3
+- Navigation Compose
+
+## Requirements
+
+- Android device
+- Root access
+- Android 14 or newer
 
 ## Development
 
-Install dependencies:
+Clone the repository:
 
 ```bash
-npm install
+git clone https://github.com/olezhaku/IDsC.git
+cd IDsC
 ```
 
-Start the project:
+Build debug APK:
 
 ```bash
-npm run start
+./gradlew assembleDebug
 ```
 
-Run on Android:
+Build release APK:
 
 ```bash
-npm run android
+./gradlew assembleRelease
+```
+
+The generated APK files can be found in:
+
+```text
+app/build/outputs/apk/
 ```
 
 ## Notes
 
-- This project targets rooted Android devices.
-- The Android native project is committed in the repository.
-- Review and test generated scripts carefully before using them on real devices.
+- This project is intended for rooted Android devices only.
+- Generated scripts modify device identity-related properties.
+- Review generated scripts before applying them.
+- Use at your own risk.
+- Some changes may require a reboot to take effect.
+- Behavior may vary depending on ROM, Android version, root solution, and device configuration.
 
 ## License
 

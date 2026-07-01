@@ -2,6 +2,8 @@ package com.olezhaku.idsc.ui.screens
 
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.padding
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
@@ -39,14 +41,16 @@ fun DeviceDetailsScreen(deviceId: String, onBackClick: () -> Unit) {
 
     val fields = remember(device) {
         listOf(
-            "ID" to device.id,
             "Brand" to device.brand,
             "Marketing name" to device.marketing_name,
+            "Manufacturer" to device.manufacturer,
             "Model" to device.model,
+            "Device" to device.device,
             "Board" to device.board,
+            "Chipset" to device.chipset,
             "Build ID" to device.build_id,
-            "Serial" to device.serial,
-            "Chipset" to device.chipset
+            "Fingerprint" to device.fingerprint,
+            "Serial" to device.serial
         )
     }
 

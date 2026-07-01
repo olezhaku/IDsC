@@ -23067,11 +23067,11 @@
     "marketing_name": "Xperia Z2",
     "device": "D6502",
     "model": "D6502",
-    "fingerprint": "sony/D6502/D6502:14/61.2.240610.364/50092839:user/release-keys",
+    "fingerprint": "sony/D6502/D6502:14/SKQ1.240610.364/50092839:user/release-keys",
     "board": "D6502",
     "manufacturer": "Sony",
     "serial": "E05JYBB9QJA8PTJ0",
-    "build_id": "61.2.240610.364",
+    "build_id": "SKQ1.240610.364",
     "chipset": "SM8974AB"
   },
   {
