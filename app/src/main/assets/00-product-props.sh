@@ -21,7 +21,7 @@ fi
 
 log "config loaded"
 
-required="FP BRAND MARKETING DEVICE MODEL BOARD MANUFACTURER SERIAL BUILD_ID CHIPSET BUILD_DATE BUILD_TIME BUILD_DATE_STR BUILD_UTC INCREMENTAL BRAND_LOWER SECURITY_PATCH GIT_BUILDTIME"
+required="FP BRAND MARKETING DEVICE MODEL MANUFACTURER SERIAL BUILD_ID CHIPSET BUILD_DATE BUILD_TIME BUILD_DATE_STR BUILD_UTC INCREMENTAL BRAND_LOWER SECURITY_PATCH GIT_BUILDTIME"
 
 for key in $required; do
   eval "value=\${$key}"
@@ -146,7 +146,7 @@ rp ro.sys.hxy_bt "$MARKETING"
 rp ro.wifi.hotspot "$MARKETING"
 
 rp ro.product.nickname "$MARKETING"
-rp ro.product.board "$BOARD"
+rp ro.product.board "$DEVICE"
 rp ro.product.brand "$BRAND"
 rp ro.product.model "$MODEL"
 rp ro.product.device "$DEVICE"
