@@ -46,7 +46,6 @@ fun DeviceDetailsScreen(deviceId: String, onBackClick: () -> Unit) {
             "Manufacturer" to device.manufacturer,
             "Model" to device.model,
             "Device" to device.device,
-            "Board" to device.board,
             "Chipset" to device.chipset,
             "Build ID" to device.build_id,
             "Fingerprint" to device.fingerprint,

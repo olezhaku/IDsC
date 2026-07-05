@@ -19,7 +19,6 @@ fun parseDevices(json: String): List<Device> {
                 device = item.getString("device"),
                 model = item.getString("model"),
                 fingerprint = item.getString("fingerprint"),
-                board = item.getString("board"),
                 manufacturer = item.getString("manufacturer"),
                 serial = item.getString("serial"),
                 build_id = item.getString("build_id"),

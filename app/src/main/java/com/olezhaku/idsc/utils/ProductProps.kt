@@ -20,6 +20,7 @@ object ProductPropsInstaller {
     ) {
         installScript(context)
         writeConfig(device)
+        writeRuntimeSettings(device)
     }
 
     private suspend fun installScript(context: Context) {
@@ -28,18 +29,17 @@ object ProductPropsInstaller {
             .bufferedReader()
             .use { it.readText() }
 
+        // Keep the managed boot script in sync with the bundled asset on every apply.
         RootShell.run(
             """
 mkdir -p '$IDSC_DIR'
 mkdir -p '$POST_FS_DATA_DIR'
 
-if [ ! -f '$SCRIPT_PATH' ]; then
-    cat > '$SCRIPT_PATH' <<'EOF_IDSC_SCRIPT'
+cat > '$SCRIPT_PATH' <<'EOF_IDSC_SCRIPT'
 $script
 EOF_IDSC_SCRIPT
 
-    chmod 755 '$SCRIPT_PATH'
-fi
+chmod 755 '$SCRIPT_PATH'
             """.trimIndent()
         )
     }
@@ -56,6 +56,18 @@ $config
 EOF_IDSC_CONFIG
 
 chmod 644 '$CONFIG_PATH'
+            """.trimIndent()
+        )
+    }
+
+    private suspend fun writeRuntimeSettings(device: Device) {
+        val marketingName = normalizeMarketingName(device.marketing_name)
+
+        RootShell.run(
+            """
+settings put global device_name ${shellQuote(marketingName)} 2>/dev/null || true
+settings put global wifi_ap_ssid ${shellQuote(marketingName)} 2>/dev/null || true
+settings put global wifi_p2p_device_name ${shellQuote(marketingName)} 2>/dev/null || true
             """.trimIndent()
         )
     }

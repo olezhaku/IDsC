@@ -202,15 +202,12 @@ rp ro.product.vendor_dlkm.device "$DEVICE"
 rp ro.product.vendor_dlkm.name "$DEVICE"
 rp ro.product.vendor_dlkm.manufacturer "$MANUFACTURER"
 
-# USB gadget
-echo "$MANUFACTURER" >/config/usb_gadget/g1/strings/0x409/manufacturer 2>/dev/null || true
-echo "$MARKETING" >/config/usb_gadget/g1/strings/0x409/product 2>/dev/null || true
-echo "$SERIAL" >/config/usb_gadget/g1/strings/0x409/serialnumber 2>/dev/null || true
-
-# Runtime settings
-settings put global device_name "$MARKETING" 2>/dev/null || true
-settings put global wifi_ap_ssid "$MARKETING" 2>/dev/null || true
-settings put global wifi_p2p_device_name "$MARKETING" 2>/dev/null || true
+# USB gadget can be unavailable during post-fs-data.
+(
+  echo "$MANUFACTURER" >/config/usb_gadget/g1/strings/0x409/manufacturer 2>/dev/null || true
+  echo "$MARKETING" >/config/usb_gadget/g1/strings/0x409/product 2>/dev/null || true
+  echo "$SERIAL" >/config/usb_gadget/g1/strings/0x409/serialnumber 2>/dev/null || true
+) &
 
 log "props applied successfully"
 exit 0

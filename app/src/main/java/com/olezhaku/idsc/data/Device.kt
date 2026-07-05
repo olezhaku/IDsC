@@ -8,9 +8,11 @@ data class Device(
     val device: String,
     val model: String,
     val fingerprint: String,
-    val board: String,
     val manufacturer: String,
     val serial: String,
     val build_id: String,
     val chipset: String
-)
+) {
+    val board: String
+        get() = device
+}

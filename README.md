@@ -20,6 +20,19 @@ The app lets you select a predefined device profile and generate a shell script 
 - Saves the generated script for reuse after reboot
 - Targets rooted Android devices
 
+## Screenshots
+
+<p>
+  <img src="./docs/screenshots/device-search.png" width="240" alt="Device profile search" />
+  <img src="./docs/screenshots/device-details.png" width="240" alt="Selected device profile details" />
+</p>
+
+<p>
+  <img src="./docs/screenshots/device-info-general.png" width="240" alt="Device Info HW general tab after applying a profile" />
+  <img src="./docs/screenshots/device-info-soc.png" width="240" alt="Device Info HW SoC tab after applying a profile" />
+  <img src="./docs/screenshots/device-info-system.png" width="240" alt="Device Info HW system tab after applying a profile" />
+</p>
+
 ## Stack
 
 - Kotlin
