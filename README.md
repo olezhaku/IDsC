@@ -1,47 +1,54 @@
-# IDSC
+<p align="center">
+  <img src="./docs/icon.svg" width="96" alt="IDsC icon" />
+</p>
 
-IDSC is an Expo-based Android utility for applying device identity profiles on rooted devices.
+# IDsC
+
+IDsC is an Android utility for applying device identity profiles on rooted Android devices.
+
+The app lets you select a predefined device profile and apply device identity-related system properties.
 
 ## What It Does
 
-- Lets you choose a device profile from a bundled catalog
-- Generates a shell script for applying that profile
-- Updates device-related properties such as fingerprints, model metadata, build info, and visible device naming values
-- Persists the generated script for reuse after reboot
+- Provides a bundled catalog of Android device profiles
+- Applies the selected profile
+- Updates device-related values such as:
+  - build fingerprint
+  - model name
+  - manufacturer
+  - brand
+  - device name
+  - product name
+  - other build metadata
 
-## Stack
+- Targets rooted devices
 
-- Expo
-- React Native
-- Expo Router
-- TypeScript
+## Screenshots
 
-## Development
+<p>
+  <img src="./docs/screenshots/device-search.png" width="240" alt="Device profile search" />
+  <img src="./docs/screenshots/device-details.png" width="240" alt="Selected device profile details" />
+</p>
 
-Install dependencies:
+<p>
+  <img src="./docs/screenshots/device-info-general.png" width="240" alt="Device Info HW general tab after applying a profile" />
+  <img src="./docs/screenshots/device-info-soc.png" width="240" alt="Device Info HW SoC tab after applying a profile" />
+  <img src="./docs/screenshots/device-info-system.png" width="240" alt="Device Info HW system tab after applying a profile" />
+</p>
 
-```bash
-npm install
-```
+## Requirements
 
-Start the project:
-
-```bash
-npm run start
-```
-
-Run on Android:
-
-```bash
-npm run android
-```
+- Android 14 or newer
+- Root access
 
 ## Notes
 
-- This project targets rooted Android devices.
-- The Android native project is committed in the repository.
-- Review and test generated scripts carefully before using them on real devices.
+- This project is intended for rooted Android devices only.
+- Applied profiles modify device identity-related properties.
+- Use at your own risk.
+- Some changes may require a reboot to take effect.
+- Behavior may vary depending on ROM, Android version, root solution, and device configuration.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 or later. See the [LICENSE](./LICENSE) file for details.
