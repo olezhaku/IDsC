@@ -18,7 +18,10 @@ enum class FABType {
 
 @Composable
 fun FAB(type: FABType, onClick: () -> Unit) {
-    FloatingActionButton(onClick = onClick, Modifier.padding(end = 24.dp)) {
+    FloatingActionButton(
+        onClick = onClick,
+        Modifier.padding(end = 24.dp, bottom = 24.dp)
+    ) {
         when (type) {
             FABType.Random -> {
                 Icon(
