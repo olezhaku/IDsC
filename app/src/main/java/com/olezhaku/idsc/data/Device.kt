@@ -12,7 +12,4 @@ data class Device(
     val serial: String,
     val build_id: String,
     val chipset: String
-) {
-    val board: String
-        get() = device
-}
+)

@@ -6,7 +6,6 @@ import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.navigation.compose.rememberNavController
 import com.olezhaku.idsc.navigation.AppNavHost
-import com.olezhaku.idsc.ui.screens.DevicesScreen
 import com.olezhaku.idsc.ui.theme.IDsCTheme
 
 

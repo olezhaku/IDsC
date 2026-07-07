@@ -16,7 +16,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalSoftwareKeyboardController
 import androidx.compose.ui.unit.dp
 import com.olezhaku.idsc.data.Device
-import kotlinx.coroutines.delay
 
 
 @Composable
@@ -32,9 +31,6 @@ fun DeviceList(
             .collect { isScrolling ->
                 if (isScrolling) {
                     keyboardController?.hide()
-                } else {
-                    delay(300)
-                    keyboardController?.show()
                 }
             }
     }

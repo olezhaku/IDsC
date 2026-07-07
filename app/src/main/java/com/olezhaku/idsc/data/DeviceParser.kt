@@ -1,6 +1,5 @@
 package com.olezhaku.idsc.data
 
-import com.olezhaku.idsc.data.Device
 import org.json.JSONArray
 
 
