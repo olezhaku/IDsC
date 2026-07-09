@@ -40,6 +40,7 @@ fun DeviceDetailsScreen(deviceId: String, onBackClick: () -> Unit) {
 
     val fields = remember(device) {
         listOf(
+            "ID" to device.id,
             "Brand" to device.brand,
             "Marketing name" to device.marketingName,
             "Manufacturer" to device.manufacturer,
