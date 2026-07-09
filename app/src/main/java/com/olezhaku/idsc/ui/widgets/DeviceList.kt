@@ -43,7 +43,7 @@ fun DeviceList(
                     .clickable { onDeviceClick(device.id.toString()) }
             ) {
                 Text(
-                    "${device.id}. ${device.manufacturer} | ${device.marketing_name} | ${device.chipset}",
+                    "${device.id}. ${device.manufacturer} | ${device.marketingName} | ${device.chipset}",
                     Modifier.padding(12.dp)
                 )
             }

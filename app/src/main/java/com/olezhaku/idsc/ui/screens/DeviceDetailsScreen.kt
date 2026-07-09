@@ -16,7 +16,7 @@ import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
-import com.olezhaku.idsc.data.parseDevices
+import com.olezhaku.idsc.data.loadDevices
 import com.olezhaku.idsc.ui.components.FAB
 import com.olezhaku.idsc.ui.components.FABType
 import com.olezhaku.idsc.ui.layouts.Layout
@@ -31,8 +31,7 @@ fun DeviceDetailsScreen(deviceId: String, onBackClick: () -> Unit) {
     val scope = rememberCoroutineScope()
 
     val devices = remember {
-        val json = context.assets.open("devices.json").bufferedReader().use { it.readText() }
-        parseDevices(json)
+        loadDevices(context)
     }
 
     val device = remember(deviceId, devices) {
@@ -42,12 +41,12 @@ fun DeviceDetailsScreen(deviceId: String, onBackClick: () -> Unit) {
     val fields = remember(device) {
         listOf(
             "Brand" to device.brand,
-            "Marketing name" to device.marketing_name,
+            "Marketing name" to device.marketingName,
             "Manufacturer" to device.manufacturer,
             "Model" to device.model,
             "Device" to device.device,
             "Chipset" to device.chipset,
-            "Build ID" to device.build_id,
+            "Build ID" to device.buildId,
             "Fingerprint" to device.fingerprint,
             "Serial" to device.serial
         )

@@ -14,13 +14,13 @@ fun parseDevices(json: String): List<Device> {
             Device(
                 id = item.getInt("id"),
                 brand = item.getString("brand"),
-                marketing_name = item.getString("marketing_name"),
+                marketingName = item.getString("marketing_name"),
                 device = item.getString("device"),
                 model = item.getString("model"),
                 fingerprint = item.getString("fingerprint"),
                 manufacturer = item.getString("manufacturer"),
                 serial = item.getString("serial"),
-                build_id = item.getString("build_id"),
+                buildId = item.getString("build_id"),
                 chipset = item.getString("chipset")
             )
         )

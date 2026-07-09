@@ -4,7 +4,7 @@ import com.olezhaku.idsc.data.Device
 
 
 fun createConfig(device: Device): String {
-    val randomizedBuildDate = generateBuildDate(device.build_id)
+    val randomizedBuildDate = generateBuildDate(device.buildId)
 
     val incremental = device.fingerprint
         .split("/")
@@ -13,7 +13,7 @@ fun createConfig(device: Device): String {
         ?.getOrNull(0)
         .orEmpty()
 
-    val marketingName = normalizeMarketingName(device.marketing_name)
+    val marketingName = normalizeMarketingName(device.marketingName)
 
     return """
 FP=${shellQuote(device.fingerprint)}
@@ -24,7 +24,7 @@ MODEL=${shellQuote(device.model)}
 BOARD=${shellQuote(device.device)}
 MANUFACTURER=${shellQuote(device.manufacturer)}
 SERIAL=${shellQuote(device.serial)}
-BUILD_ID=${shellQuote(device.build_id)}
+BUILD_ID=${shellQuote(device.buildId)}
 CHIPSET=${shellQuote(device.chipset)}
 BUILD_DATE=${shellQuote(randomizedBuildDate.buildDate)}
 BUILD_TIME=${shellQuote(randomizedBuildDate.buildTime)}
