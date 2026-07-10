@@ -38,6 +38,10 @@ It can also expose the selected profile name over MTP when the Xposed module is 
   <img src="./docs/screenshots/device-info-system.png" width="240" alt="Device Info HW system tab after applying a profile" />
 </p>
 
+<p>
+  <img src="./docs/screenshots/mtp-device-name.png" width="320" alt="Spoofed MTP device name" />>
+</p>
+
 ## Requirements
 
 - Android 14 or newer
