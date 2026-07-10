@@ -39,7 +39,7 @@ It can also expose the selected profile name over MTP when the Xposed module is 
 </p>
 
 <p>
-  <img src="./docs/screenshots/mtp-device-name.png" width="320" alt="Spoofed MTP device name" />>
+  <img src="./docs/screenshots/mtp-device-name.png" width="320" alt="Spoofed MTP device name" />
 </p>
 
 ## Requirements
