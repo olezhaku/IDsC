@@ -61,7 +61,7 @@ chmod 644 '$CONFIG_PATH'
     }
 
     private suspend fun writeRuntimeSettings(device: Device) {
-        val marketingName = normalizeMarketingName(device.marketing_name)
+        val marketingName = normalizeMarketingName(device.marketingName)
 
         RootShell.run(
             """

@@ -6,7 +6,7 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.platform.LocalContext
-import com.olezhaku.idsc.data.parseDevices
+import com.olezhaku.idsc.data.loadDevices
 import com.olezhaku.idsc.ui.components.FAB
 import com.olezhaku.idsc.ui.components.FABType
 import com.olezhaku.idsc.ui.components.Input
@@ -21,14 +21,13 @@ fun DevicesScreen(onDeviceClick: (deviceId: String) -> Unit) {
 
     val context = LocalContext.current
     val devices = remember {
-        val json = context.assets.open("devices.json").bufferedReader().use { it.readText() }
-        parseDevices(json)
+        loadDevices(context)
     }
 
     val filteredDevices = remember(searchText, devices) {
         devices.filter {
             it.manufacturer.contains(searchText, ignoreCase = true) ||
-                    it.marketing_name.contains(searchText, ignoreCase = true) ||
+                    it.marketingName.contains(searchText, ignoreCase = true) ||
                     it.chipset.contains(searchText, ignoreCase = true)
         }
     }
