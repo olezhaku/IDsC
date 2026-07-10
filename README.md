@@ -7,11 +7,13 @@
 IDsC is an Android utility for applying device identity profiles on rooted Android devices.
 
 The app lets you select a predefined device profile and apply device identity-related system properties.
+It can also expose the selected profile name over MTP when the Xposed module is enabled.
 
 ## What It Does
 
 - Provides a bundled catalog of Android device profiles
 - Applies the selected profile
+- Changes the MTP device name through LSPosed/Xposed
 - Updates device-related values such as:
   - build fingerprint
   - model name
@@ -40,10 +42,12 @@ The app lets you select a predefined device profile and apply device identity-re
 
 - Android 14 or newer
 - Root access
+- LSPosed/Xposed for MTP device name spoofing
 
 ## Notes
 
 - This project is intended for rooted Android devices only.
+- MTP name spoofing requires enabling the module in LSPosed/Xposed.
 - Applied profiles modify device identity-related properties.
 - Use at your own risk.
 - Some changes may require a reboot to take effect.

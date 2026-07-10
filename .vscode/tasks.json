@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Android: Run App",
+      "type": "shell",
+      "command": ".\\.vscode\\run-android.bat",
+      "problemMatcher": []
+    }
+  ]
+}
