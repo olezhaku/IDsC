@@ -24,17 +24,23 @@ suspend fun Context.runWithToast(
             "Root not found or access denied.",
             Toast.LENGTH_LONG
         ).show()
+
+        throw e
     } catch (e: TimeoutError) {
         Toast.makeText(
             this,
             "Timed out.",
             Toast.LENGTH_LONG
         ).show()
+
+        throw e
     } catch (e: Exception) {
         Toast.makeText(
             this,
             e.message ?: errorMessage,
             Toast.LENGTH_LONG
         ).show()
+
+        throw e
     }
 }

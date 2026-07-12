@@ -1,5 +1,9 @@
 package com.olezhaku.idsc.navigation
 
+import androidx.compose.animation.AnimatedContentTransitionScope
+import androidx.compose.animation.EnterTransition
+import androidx.compose.animation.ExitTransition
+import androidx.compose.animation.core.tween
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.NavType
@@ -14,7 +18,21 @@ import com.olezhaku.idsc.ui.screens.DevicesScreen
 fun AppNavHost(navHostController: NavHostController) {
     NavHost(
         navController = navHostController,
-        startDestination = Destination.Devices.route
+        startDestination = Destination.Devices.route,
+        enterTransition = {
+            slideIntoContainer(
+                AnimatedContentTransitionScope.SlideDirection.Left,
+                tween(300)
+            )
+        },
+        exitTransition = { ExitTransition.None },
+        popExitTransition = {
+            slideOutOfContainer(
+                AnimatedContentTransitionScope.SlideDirection.Right,
+                tween(300)
+            )
+        },
+        popEnterTransition = { EnterTransition.None }
     ) {
         composable(route = Destination.Devices.route) {
             DevicesScreen(
