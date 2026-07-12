@@ -11,6 +11,9 @@ import androidx.compose.material3.IconButton
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.setValue
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Modifier
@@ -29,11 +32,10 @@ import kotlinx.coroutines.launch
 fun DeviceDetailsScreen(deviceId: String, onBackClick: () -> Unit) {
     val context = LocalContext.current
     val scope = rememberCoroutineScope()
+    var fabType by remember { mutableStateOf(FABType.Run) }
+    var isRunning by remember { mutableStateOf(false) }
 
-    val devices = remember {
-        loadDevices(context)
-    }
-
+    val devices = remember { loadDevices(context) }
     val device = remember(deviceId, devices) {
         devices.first { it.id.toString() == deviceId }
     }
@@ -55,15 +57,26 @@ fun DeviceDetailsScreen(deviceId: String, onBackClick: () -> Unit) {
 
     fun installProductProps() {
         scope.launch {
-            context.runWithToast(
-                loadingMessage = "Saving configuration...",
-                successMessage = "Configuration saved. Reboot to apply changes.",
-                errorMessage = "Failed to save configuration."
-            ) {
-                ProductPropsInstaller.install(
-                    context = context,
-                    device = device
-                )
+            isRunning = true
+            fabType = FABType.Run
+
+            try {
+                context.runWithToast(
+                    loadingMessage = "Saving configuration...",
+                    successMessage = "Configuration saved. Reboot to apply changes.",
+                    errorMessage = "Failed to save configuration."
+                ) {
+                    ProductPropsInstaller.install(
+                        context = context,
+                        device = device
+                    )
+                }
+
+                fabType = FABType.Success
+            } catch (e: Exception) {
+                fabType = FABType.Error
+            } finally {
+                isRunning = false
             }
         }
     }
@@ -85,7 +98,8 @@ fun DeviceDetailsScreen(deviceId: String, onBackClick: () -> Unit) {
         },
         floatingActionButton = {
             FAB(
-                type = FABType.Run,
+                type = fabType,
+                isRunning = isRunning,
                 onClick = { installProductProps() }
             )
         }
