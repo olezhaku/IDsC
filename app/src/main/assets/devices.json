@@ -21,7 +21,7 @@
     "manufacturer": "Acer",
     "serial": "3BCRS91BAC087D5C",
     "build_id": "SKQ1.250603.090",
-    "chipset": "SM7227"
+    "chipset": "MSM7227"
   },
   {
     "id": 3,
@@ -129,7 +129,7 @@
     "manufacturer": "Acer",
     "serial": "XQ0VFZU2ANKWI3ZL",
     "build_id": "SKQ1.250803.995",
-    "chipset": "SM8260A"
+    "chipset": "MSM8260A"
   },
   {
     "id": 12,
@@ -225,7 +225,7 @@
     "manufacturer": "Acer",
     "serial": "AFCUXI3WYGUVT4QE",
     "build_id": "SKQ1.250516.431",
-    "chipset": "MT6582"
+    "chipset": "MSM8926"
   },
   {
     "id": 20,
@@ -261,7 +261,7 @@
     "manufacturer": "Acer",
     "serial": "LJDM29PAF1JNEY24",
     "build_id": "SKQ1.240408.520",
-    "chipset": "SM8992"
+    "chipset": "MSM8992"
   },
   {
     "id": 23,
@@ -297,7 +297,7 @@
     "manufacturer": "Acer",
     "serial": "R0L4GQFSLG4BIGB1",
     "build_id": "SKQ1.251124.237",
-    "chipset": "SM8974"
+    "chipset": "MT6589"
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@
     "manufacturer": "Acer",
     "serial": "48UNVJD53IPI63W1",
     "build_id": "SKQ1.250603.314",
-    "chipset": "SM8974"
+    "chipset": "MSM8974"
   },
   {
     "id": 27,
@@ -321,7 +321,7 @@
     "manufacturer": "Acer",
     "serial": "LDU32BVD43JFH1IQ",
     "build_id": "SKQ1.250411.747",
-    "chipset": "SM8974"
+    "chipset": "MSM8974"
   },
   {
     "id": 28,
@@ -369,7 +369,7 @@
     "manufacturer": "Acer",
     "serial": "E36KHQJ5Y02O6BY7",
     "build_id": "SKQ1.250102.601",
-    "chipset": "MT6735"
+    "chipset": "MT6572"
   },
   {
     "id": 32,
@@ -381,7 +381,7 @@
     "manufacturer": "Acer",
     "serial": "EKCFXQLA1S0NZDH5",
     "build_id": "SKQ1.241023.294",
-    "chipset": "SM8909"
+    "chipset": "MSM8909"
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@
     "manufacturer": "Acer",
     "serial": "RDE120IQQ7DETV5K",
     "build_id": "SKQ1.240913.751",
-    "chipset": "SM8909"
+    "chipset": "MSM8909"
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@
     "manufacturer": "Acer",
     "serial": "LEZ7C69M5JMEN8YF",
     "build_id": "SKQ1.250307.591",
-    "chipset": "MT6732M"
+    "chipset": "MT6572"
   },
   {
     "id": 35,
@@ -429,7 +429,7 @@
     "manufacturer": "Acer",
     "serial": "LBZIBMLJTK41YWUU",
     "build_id": "SKQ1.250427.268",
-    "chipset": "MT6735"
+    "chipset": "MT6572"
   },
   {
     "id": 37,
@@ -465,7 +465,7 @@
     "manufacturer": "Acer",
     "serial": "FW505OGCDXWL26TJ",
     "build_id": "SKQ1.250625.154",
-    "chipset": "MT6735"
+    "chipset": "MT6753"
   },
   {
     "id": 40,
@@ -765,7 +765,7 @@
     "manufacturer": "AllView",
     "serial": "ECZLDYLBLQ7YR3FJ",
     "build_id": "SKQ1.250923.711",
-    "chipset": "MT6755"
+    "chipset": "MT6735M"
   },
   {
     "id": 65,
@@ -777,7 +777,7 @@
     "manufacturer": "AllView",
     "serial": "AWDNOQV7W79QS614",
     "build_id": "SKQ1.251026.527",
-    "chipset": "MT6580"
+    "chipset": "MT8321"
   },
   {
     "id": 66,
@@ -789,7 +789,7 @@
     "manufacturer": "AllView",
     "serial": "P6XPKY0AIYV7TTR2",
     "build_id": "SKQ1.250325.671",
-    "chipset": "MT6755"
+    "chipset": "MT6582"
   },
   {
     "id": 67,
@@ -849,7 +849,7 @@
     "manufacturer": "AllView",
     "serial": "V1LP79EDPB5JLS26",
     "build_id": "SKQ1.240606.758",
-    "chipset": "MT6755"
+    "chipset": "MT6735"
   },
   {
     "id": 72,
@@ -897,7 +897,7 @@
     "manufacturer": "AllView",
     "serial": "ARWMH1DWT038AR20",
     "build_id": "SKQ1.250509.348",
-    "chipset": "MT6580"
+    "chipset": "MT6750"
   },
   {
     "id": 76,
@@ -909,7 +909,7 @@
     "manufacturer": "AllView",
     "serial": "BL10S0IAGUP6ATWP",
     "build_id": "SKQ1.250723.656",
-    "chipset": "MT6580"
+    "chipset": "MT6753"
   },
   {
     "id": 77,
@@ -945,7 +945,7 @@
     "manufacturer": "AllView",
     "serial": "A9SPJA90QQKCD9KD",
     "build_id": "SKQ1.241224.664",
-    "chipset": "SM8228"
+    "chipset": "MSM8228"
   },
   {
     "id": 80,
@@ -957,7 +957,7 @@
     "manufacturer": "AllView",
     "serial": "A4HRTED35RXSEKZ2",
     "build_id": "SKQ1.250618.940",
-    "chipset": "MT6735"
+    "chipset": "MT6582"
   },
   {
     "id": 81,
@@ -981,7 +981,7 @@
     "manufacturer": "AllView",
     "serial": "OMULLVKZYCZ2VKPB",
     "build_id": "SKQ1.250726.523",
-    "chipset": "SM8228"
+    "chipset": "MSM8926"
   },
   {
     "id": 83,
@@ -1005,7 +1005,7 @@
     "manufacturer": "AllView",
     "serial": "0LQJBB0TU61ZXOXZ",
     "build_id": "SKQ1.250716.524",
-    "chipset": "MT6753"
+    "chipset": "MT6735"
   },
   {
     "id": 85,
@@ -1017,7 +1017,7 @@
     "manufacturer": "AllView",
     "serial": "HLAHN5M76EMISMHD",
     "build_id": "SKQ1.240917.655",
-    "chipset": "MT6737"
+    "chipset": "MT6580"
   },
   {
     "id": 86,
@@ -1029,7 +1029,7 @@
     "manufacturer": "AllView",
     "serial": "R8IO5D8GYW6MIADG",
     "build_id": "SKQ1.241208.439",
-    "chipset": "MT6735"
+    "chipset": "MT6580"
   },
   {
     "id": 87,
@@ -1089,7 +1089,7 @@
     "manufacturer": "AllView",
     "serial": "UE3T01821HD0V0OD",
     "build_id": "SKQ1.250304.258",
-    "chipset": "MT6753"
+    "chipset": "MT6737"
   },
   {
     "id": 92,
@@ -1101,7 +1101,7 @@
     "manufacturer": "AllView",
     "serial": "6JWGBI9PWC6QL28U",
     "build_id": "SKQ1.240916.341",
-    "chipset": "MT6582"
+    "chipset": "MT6737"
   },
   {
     "id": 93,
@@ -1197,7 +1197,7 @@
     "manufacturer": "AllView",
     "serial": "91GO4ZNH869VZZAM",
     "build_id": "SKQ1.251008.129",
-    "chipset": "MT8321A"
+    "chipset": "MT8732"
   },
   {
     "id": 101,
@@ -1209,7 +1209,7 @@
     "manufacturer": "AllView",
     "serial": "4TSUB3WY98X5H7XU",
     "build_id": "SKQ1.240527.744",
-    "chipset": "MT8321A"
+    "chipset": "MT8735"
   },
   {
     "id": 102,
@@ -1341,7 +1341,7 @@
     "manufacturer": "AllView",
     "serial": "FAXEU783RX587S4Q",
     "build_id": "SKQ1.251001.339",
-    "chipset": "MT6755"
+    "chipset": "MT6735"
   },
   {
     "id": 113,
@@ -1353,7 +1353,7 @@
     "manufacturer": "AllView",
     "serial": "CYSV2LXTFDAORFT4",
     "build_id": "SKQ1.240612.335",
-    "chipset": "MT6755"
+    "chipset": "MT6735"
   },
   {
     "id": 114,
@@ -1389,7 +1389,7 @@
     "manufacturer": "AllView",
     "serial": "IGFEU8KSYL7F2CTM",
     "build_id": "SKQ1.250206.687",
-    "chipset": "MT6592"
+    "chipset": "MT6735"
   },
   {
     "id": 117,
@@ -1521,7 +1521,7 @@
     "manufacturer": "AllView",
     "serial": "ZN58CIOH5JPGI2AI",
     "build_id": "SKQ1.240331.891",
-    "chipset": "MT6735"
+    "chipset": "MT6750"
   },
   {
     "id": 128,
@@ -1689,7 +1689,7 @@
     "manufacturer": "Archos",
     "serial": "G5P0DUKBDF9F0VSN",
     "build_id": "SKQ1.250103.870",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 142,
@@ -1725,7 +1725,7 @@
     "manufacturer": "Archos",
     "serial": "TNXEO8NEPZ68APHM",
     "build_id": "SKQ1.250803.355",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 145,
@@ -1785,7 +1785,7 @@
     "manufacturer": "Archos",
     "serial": "V4Q6GEDPQNXMZSEF",
     "build_id": "SKQ1.251004.462",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 150,
@@ -1797,7 +1797,7 @@
     "manufacturer": "Archos",
     "serial": "TA0JGE4DS40PG1QT",
     "build_id": "SKQ1.250416.520",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 151,
@@ -1821,7 +1821,7 @@
     "manufacturer": "Archos",
     "serial": "JFCGOYC0PF70FDM2",
     "build_id": "SKQ1.241007.383",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 153,
@@ -1833,7 +1833,7 @@
     "manufacturer": "Archos",
     "serial": "6CFWIXLQ1XX5QS6K",
     "build_id": "SKQ1.250113.442",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 154,
@@ -1845,7 +1845,7 @@
     "manufacturer": "Archos",
     "serial": "JEG95MLJKA8Z3493",
     "build_id": "SKQ1.250316.333",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 155,
@@ -1881,7 +1881,7 @@
     "manufacturer": "Archos",
     "serial": "HFA914F177PMS3L1",
     "build_id": "SKQ1.250529.078",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 158,
@@ -1905,7 +1905,7 @@
     "manufacturer": "Archos",
     "serial": "DMHKLP4KRFVQWGJJ",
     "build_id": "SKQ1.250212.739",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 160,
@@ -1917,7 +1917,7 @@
     "manufacturer": "Archos",
     "serial": "OBW15TC5FVUTFR1T",
     "build_id": "SKQ1.240805.731",
-    "chipset": "SM8939"
+    "chipset": "MSM8939"
   },
   {
     "id": 161,
@@ -1929,7 +1929,7 @@
     "manufacturer": "Archos",
     "serial": "18X7Z2SBSFYY135P",
     "build_id": "SKQ1.250611.379",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 162,
@@ -1941,7 +1941,7 @@
     "manufacturer": "Archos",
     "serial": "9UJ33W756RWZHYX4",
     "build_id": "SKQ1.241026.748",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 163,
@@ -1965,7 +1965,7 @@
     "manufacturer": "Archos",
     "serial": "0CBTZW2N2P104AKY",
     "build_id": "SKQ1.250105.843",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 165,
@@ -1977,7 +1977,7 @@
     "manufacturer": "Archos",
     "serial": "89ITEZ34CXYEYWVZ",
     "build_id": "SKQ1.250617.110",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 166,
@@ -2025,7 +2025,7 @@
     "manufacturer": "Archos",
     "serial": "0I47Y9W9DYQ9FQQK",
     "build_id": "SKQ1.240211.302",
-    "chipset": "SM8909"
+    "chipset": "MSM8909"
   },
   {
     "id": 170,
@@ -2037,7 +2037,7 @@
     "manufacturer": "Archos",
     "serial": "7DEGK66LC4QO9T76",
     "build_id": "SKQ1.250710.597",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 171,
@@ -2073,7 +2073,7 @@
     "manufacturer": "Archos",
     "serial": "0YI6Z857LFZ729Z8",
     "build_id": "SKQ1.250329.452",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 174,
@@ -2097,7 +2097,7 @@
     "manufacturer": "Archos",
     "serial": "PJ5I630EME31DRGY",
     "build_id": "SKQ1.240415.305",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 176,
@@ -2121,7 +2121,7 @@
     "manufacturer": "Archos",
     "serial": "PIDLOH66I7J4MCA5",
     "build_id": "SKQ1.241001.075",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 178,
@@ -2133,7 +2133,7 @@
     "manufacturer": "Archos",
     "serial": "B863YK2VAIHZPU0P",
     "build_id": "SKQ1.250708.547",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 179,
@@ -2145,7 +2145,7 @@
     "manufacturer": "Archos",
     "serial": "WYOL8X8V9Z8KYTG9",
     "build_id": "SKQ1.240831.970",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 180,
@@ -2157,7 +2157,7 @@
     "manufacturer": "Archos",
     "serial": "ETJZY4NB5XUM6VTM",
     "build_id": "SKQ1.240210.531",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 181,
@@ -2205,7 +2205,7 @@
     "manufacturer": "Archos",
     "serial": "KU01NXRLE1AIZQBT",
     "build_id": "SKQ1.250420.954",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 185,
@@ -2217,7 +2217,7 @@
     "manufacturer": "Archos",
     "serial": "PA8LTJDB5P95UTSA",
     "build_id": "SKQ1.240720.527",
-    "chipset": "SM8909"
+    "chipset": "MSM8909"
   },
   {
     "id": 186,
@@ -2253,7 +2253,7 @@
     "manufacturer": "Archos",
     "serial": "VLYIXNZGOXFGDF5E",
     "build_id": "SKQ1.251107.272",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 189,
@@ -2313,7 +2313,7 @@
     "manufacturer": "Archos",
     "serial": "TSIA2KGBZ8UIU0UJ",
     "build_id": "SKQ1.241126.753",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 194,
@@ -2325,7 +2325,7 @@
     "manufacturer": "Archos",
     "serial": "WTN0MNKJF7WS3WUA",
     "build_id": "SKQ1.250318.846",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 195,
@@ -2337,7 +2337,7 @@
     "manufacturer": "Archos",
     "serial": "JS56V9ABJ8Q26E9Y",
     "build_id": "SKQ1.241111.346",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 196,
@@ -2361,7 +2361,7 @@
     "manufacturer": "Archos",
     "serial": "R55HQZHRVFRI7ORK",
     "build_id": "SKQ1.240928.545",
-    "chipset": "SM8909"
+    "chipset": "MSM8909"
   },
   {
     "id": 198,
@@ -2409,7 +2409,7 @@
     "manufacturer": "Archos",
     "serial": "ZI7ULOWGVR0LWMKQ",
     "build_id": "SKQ1.251015.428",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 202,
@@ -2433,7 +2433,7 @@
     "manufacturer": "Archos",
     "serial": "NYQVVW8UH316LGYV",
     "build_id": "SKQ1.241027.369",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 204,
@@ -2445,7 +2445,7 @@
     "manufacturer": "Archos",
     "serial": "YG91Y5BTG2VQP0I6",
     "build_id": "SKQ1.250704.971",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 205,
@@ -2469,7 +2469,7 @@
     "manufacturer": "Archos",
     "serial": "3M29Z6HO78ZP0DNS",
     "build_id": "SKQ1.241014.869",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 207,
@@ -2505,7 +2505,7 @@
     "manufacturer": "Archos",
     "serial": "D65DU0JULJCXW8QL",
     "build_id": "SKQ1.250409.414",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 210,
@@ -2529,7 +2529,7 @@
     "manufacturer": "Archos",
     "serial": "BSGJYQQSGJ5DGUCN",
     "build_id": "SKQ1.250826.236",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 212,
@@ -2553,7 +2553,7 @@
     "manufacturer": "Archos",
     "serial": "FMJ2FCHJHC3H2PGC",
     "build_id": "SKQ1.240818.524",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 214,
@@ -2589,7 +2589,7 @@
     "manufacturer": "Archos",
     "serial": "387DKFKF9HGLSVL6",
     "build_id": "SKQ1.250930.203",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 217,
@@ -2601,7 +2601,7 @@
     "manufacturer": "Archos",
     "serial": "MSNL1KA4ME7VTRAO",
     "build_id": "SKQ1.250212.010",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 218,
@@ -2649,7 +2649,7 @@
     "manufacturer": "Archos",
     "serial": "AYB7NA780W1C22SY",
     "build_id": "SKQ1.241105.881",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 222,
@@ -2673,7 +2673,7 @@
     "manufacturer": "Archos",
     "serial": "ET74ZNF6WR8ASC11",
     "build_id": "SKQ1.250128.750",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 224,
@@ -2721,7 +2721,7 @@
     "manufacturer": "Archos",
     "serial": "OH8BV3KQZKZO1A8F",
     "build_id": "SKQ1.240307.639",
-    "chipset": "SM8225Q"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 228,
@@ -2793,7 +2793,7 @@
     "manufacturer": "Archos",
     "serial": "1VH3BSEW30LV9BMZ",
     "build_id": "SKQ1.241002.145",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 234,
@@ -2841,7 +2841,7 @@
     "manufacturer": "Archos",
     "serial": "UI5EPWGYR7BY142H",
     "build_id": "SKQ1.240105.024",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 238,
@@ -2937,7 +2937,7 @@
     "manufacturer": "Archos",
     "serial": "OHTDNA4WTH61HXJY",
     "build_id": "SKQ1.250909.706",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 246,
@@ -2949,7 +2949,7 @@
     "manufacturer": "Archos",
     "serial": "QN8QR9ET1L6DK184",
     "build_id": "SKQ1.251014.947",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 247,
@@ -2961,7 +2961,7 @@
     "manufacturer": "Archos",
     "serial": "XZ2B4UA0IP4PB3XT",
     "build_id": "SKQ1.241009.352",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 248,
@@ -2973,7 +2973,7 @@
     "manufacturer": "Archos",
     "serial": "XCFHUYDIFAJ7TL0O",
     "build_id": "SKQ1.250918.777",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 249,
@@ -3237,7 +3237,7 @@
     "manufacturer": "Asus",
     "serial": "0U3JJKRE4CVBPFS8",
     "build_id": "WW.250220.575",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 271,
@@ -3249,7 +3249,7 @@
     "manufacturer": "Asus",
     "serial": "CAGGOMNFCGQP5X5M",
     "build_id": "SKQ1.250803.478",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 272,
@@ -3261,7 +3261,7 @@
     "manufacturer": "Asus",
     "serial": "G4PZUH7IUMLRM76C",
     "build_id": "RKQ1.250418.195",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 273,
@@ -3273,7 +3273,7 @@
     "manufacturer": "Asus",
     "serial": "KQDC87Q9223W4C8U",
     "build_id": "SKQ1.240112.242",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 274,
@@ -3285,7 +3285,7 @@
     "manufacturer": "Asus",
     "serial": "NT6DG6V6H79ZSQLC",
     "build_id": "SKQ1.240802.180",
-    "chipset": "SM8916"
+    "chipset": "MSM8939"
   },
   {
     "id": 275,
@@ -3297,7 +3297,7 @@
     "manufacturer": "Asus",
     "serial": "KA67A1JN8UK3A5GL",
     "build_id": "TKQ1.251203.720",
-    "chipset": "SM8916"
+    "chipset": "MSM8939"
   },
   {
     "id": 276,
@@ -3309,7 +3309,7 @@
     "manufacturer": "Asus",
     "serial": "2FJF1YA2IWNE2NQ4",
     "build_id": "WW.251012.217",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 277,
@@ -3321,7 +3321,7 @@
     "manufacturer": "Asus",
     "serial": "UVR36BTQPMGP1BAQ",
     "build_id": "QKQ1.250106.033",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 278,
@@ -3333,7 +3333,7 @@
     "manufacturer": "Asus",
     "serial": "0OO7TUVG484LFSQ8",
     "build_id": "RKQ1.250310.776",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 279,
@@ -3345,7 +3345,7 @@
     "manufacturer": "Asus",
     "serial": "7JMKT9V41L31RRKH",
     "build_id": "RKQ1.250503.350",
-    "chipset": "SM8937"
+    "chipset": "MSM8937"
   },
   {
     "id": 280,
@@ -3357,7 +3357,7 @@
     "manufacturer": "Asus",
     "serial": "BDT6X1B8I78ZDVRS",
     "build_id": "RKQ1.250420.319",
-    "chipset": "SM8916"
+    "chipset": "MSM8996"
   },
   {
     "id": 281,
@@ -3369,7 +3369,7 @@
     "manufacturer": "Asus",
     "serial": "3T5UHRJ7JTRYKZLX",
     "build_id": "TKQ1.251227.610",
-    "chipset": "SM8916"
+    "chipset": "MSM8937"
   },
   {
     "id": 282,
@@ -3393,7 +3393,7 @@
     "manufacturer": "Asus",
     "serial": "DL76RE6RG209NHN1",
     "build_id": "RKQ1.251114.981",
-    "chipset": "SM8937"
+    "chipset": "MSM8937"
   },
   {
     "id": 284,
@@ -3405,7 +3405,7 @@
     "manufacturer": "Asus",
     "serial": "MDF71RDZ6B926M5K",
     "build_id": "QKQ1.250208.011",
-    "chipset": "SM8937"
+    "chipset": "MSM8976"
   },
   {
     "id": 285,
@@ -3417,7 +3417,7 @@
     "manufacturer": "Asus",
     "serial": "6DRTNOZHOPLK3EZR",
     "build_id": "QKQ1.240702.500",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 286,
@@ -3429,7 +3429,7 @@
     "manufacturer": "Asus",
     "serial": "7ADAU6D9H03F0Q8U",
     "build_id": "RKQ1.250313.511",
-    "chipset": "MT6737M"
+    "chipset": "MT6750"
   },
   {
     "id": 287,
@@ -3441,7 +3441,7 @@
     "manufacturer": "Asus",
     "serial": "QZYAHF8IGXA35CTK",
     "build_id": "WW.250216.109",
-    "chipset": "SM8917"
+    "chipset": "MSM8917"
   },
   {
     "id": 288,
@@ -3453,7 +3453,7 @@
     "manufacturer": "Asus",
     "serial": "O85F54UHKT38ISI8",
     "build_id": "TKQ1.260103.956",
-    "chipset": "SM8937"
+    "chipset": "MSM8937"
   },
   {
     "id": 289,
@@ -3465,7 +3465,7 @@
     "manufacturer": "Asus",
     "serial": "XLZF7QNWMGKW4EBC",
     "build_id": "RKQ1.240223.498",
-    "chipset": "SM8998"
+    "chipset": "MSM8998"
   },
   {
     "id": 290,
@@ -3477,7 +3477,7 @@
     "manufacturer": "Asus",
     "serial": "FEB5FDSA6O7AL3VQ",
     "build_id": "QKQ1.241206.875",
-    "chipset": "SM8937"
+    "chipset": "MSM8937"
   },
   {
     "id": 291,
@@ -3489,7 +3489,7 @@
     "manufacturer": "Asus",
     "serial": "V6L2GCXE9G122PR6",
     "build_id": "RKQ1.250430.652",
-    "chipset": "SM8937"
+    "chipset": "MSM8937"
   },
   {
     "id": 292,
@@ -3501,7 +3501,7 @@
     "manufacturer": "Asus",
     "serial": "ZVWBU8KTRULH7JD2",
     "build_id": "QKQ1.240914.817",
-    "chipset": "SM8937"
+    "chipset": "MSM8953"
   },
   {
     "id": 293,
@@ -3525,7 +3525,7 @@
     "manufacturer": "Asus",
     "serial": "7SJQ5RCSAZU2Q1Q7",
     "build_id": "TKQ1.250415.737",
-    "chipset": "SM8937"
+    "chipset": "SDM630"
   },
   {
     "id": 295,
@@ -3537,7 +3537,7 @@
     "manufacturer": "Asus",
     "serial": "L4LGPA8ZTHWVW9WC",
     "build_id": "SKQ1.241028.050",
-    "chipset": "SM8937"
+    "chipset": "MSM8937"
   },
   {
     "id": 296,
@@ -3621,7 +3621,7 @@
     "manufacturer": "Asus",
     "serial": "EBQP7YCN8D8AZBQJ",
     "build_id": "TKQ1.240608.327",
-    "chipset": "SM8996"
+    "chipset": "MSM8996"
   },
   {
     "id": 303,
@@ -3633,7 +3633,7 @@
     "manufacturer": "Asus",
     "serial": "UFTVZDLCR3X96XT4",
     "build_id": "WW.250910.136",
-    "chipset": "SM8996"
+    "chipset": "MSM8996"
   },
   {
     "id": 304,
@@ -3657,7 +3657,7 @@
     "manufacturer": "Asus",
     "serial": "9AHETGZ7VUY5HEP6",
     "build_id": "TKQ1.240511.680",
-    "chipset": "MT6580"
+    "chipset": "MSM8916"
   },
   {
     "id": 306,
@@ -3669,7 +3669,7 @@
     "manufacturer": "Asus",
     "serial": "OR224RDBJ05KWN5I",
     "build_id": "TKQ1.250724.631",
-    "chipset": "SM8953"
+    "chipset": "MSM8916"
   },
   {
     "id": 307,
@@ -3681,7 +3681,7 @@
     "manufacturer": "Asus",
     "serial": "1S0LURFBMSV4XYFC",
     "build_id": "WW.251108.213",
-    "chipset": "MT6580"
+    "chipset": "MSM8212"
   },
   {
     "id": 308,
@@ -3705,7 +3705,7 @@
     "manufacturer": "Asus",
     "serial": "S5TS36KOUDL99TK4",
     "build_id": "TKQ1.240708.770",
-    "chipset": "MT6580"
+    "chipset": "MSM8916"
   },
   {
     "id": 310,
@@ -3717,7 +3717,7 @@
     "manufacturer": "Asus",
     "serial": "NNGXPR2C73QQ9UN6",
     "build_id": "TKQ1.240620.852",
-    "chipset": "SM8998"
+    "chipset": "MSM8928"
   },
   {
     "id": 311,
@@ -3729,7 +3729,7 @@
     "manufacturer": "Asus",
     "serial": "PT2DFWQSSKALAGPP",
     "build_id": "SKQ1.240115.758",
-    "chipset": "SM8953"
+    "chipset": "MSM8916"
   },
   {
     "id": 312,
@@ -3753,7 +3753,7 @@
     "manufacturer": "Asus",
     "serial": "VXSM8EXP5S5JM0R7",
     "build_id": "TKQ1.250305.251",
-    "chipset": "MT6580"
+    "chipset": "MT6580M"
   },
   {
     "id": 314,
@@ -3777,7 +3777,7 @@
     "manufacturer": "Asus",
     "serial": "7S5DLE1Q62UT2GLF",
     "build_id": "WW.250725.014",
-    "chipset": "SM8917"
+    "chipset": "MSM8917"
   },
   {
     "id": 316,
@@ -3789,7 +3789,7 @@
     "manufacturer": "Asus",
     "serial": "NVCXOXWMFU35FEN7",
     "build_id": "SKQ1.241106.018",
-    "chipset": "SM8917"
+    "chipset": "MSM8917"
   },
   {
     "id": 317,
@@ -3801,7 +3801,7 @@
     "manufacturer": "Asus",
     "serial": "7DVSENIYD077YJIP",
     "build_id": "RKQ1.260118.815",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 318,
@@ -3813,7 +3813,7 @@
     "manufacturer": "Asus",
     "serial": "4ZGSP37VH6JDXLTA",
     "build_id": "TKQ1.250509.910",
-    "chipset": "SM8917"
+    "chipset": "MSM8917"
   },
   {
     "id": 319,
@@ -3825,7 +3825,7 @@
     "manufacturer": "Asus",
     "serial": "8J8OLC0C80WVXDOS",
     "build_id": "TKQ1.241010.246",
-    "chipset": "SM8917"
+    "chipset": "MSM8917"
   },
   {
     "id": 320,
@@ -3837,7 +3837,7 @@
     "manufacturer": "Asus",
     "serial": "FU8QIEPPQ61NSA1A",
     "build_id": "RKQ1.251013.006",
-    "chipset": "SM8917"
+    "chipset": "MSM8917"
   },
   {
     "id": 321,
@@ -3849,7 +3849,7 @@
     "manufacturer": "Asus",
     "serial": "VTBQN6NE4COOD6RO",
     "build_id": "SKQ1.240907.630",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 322,
@@ -3873,7 +3873,7 @@
     "manufacturer": "Asus",
     "serial": "CF21U8OEQC14S8PN",
     "build_id": "SKQ1.260120.377",
-    "chipset": "SM8939"
+    "chipset": "MSM8939"
   },
   {
     "id": 324,
@@ -3897,7 +3897,7 @@
     "manufacturer": "Asus",
     "serial": "1Y35BZTZOCQ8CCH2",
     "build_id": "RKQ1.240130.509",
-    "chipset": "SM8917"
+    "chipset": "MSM8917"
   },
   {
     "id": 326,
@@ -3909,7 +3909,7 @@
     "manufacturer": "Asus",
     "serial": "QDXUCKCXBP5NIE66",
     "build_id": "QKQ1.250214.849",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 327,
@@ -3921,7 +3921,7 @@
     "manufacturer": "Asus",
     "serial": "2YOO50WAVUBUM0PW",
     "build_id": "QKQ1.251027.903",
-    "chipset": "SM8916"
+    "chipset": "MSM8956"
   },
   {
     "id": 328,
@@ -3957,7 +3957,7 @@
     "manufacturer": "Asus",
     "serial": "4KVRI6E94H5KKNFF",
     "build_id": "WW.241004.387",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 331,
@@ -3969,7 +3969,7 @@
     "manufacturer": "Asus",
     "serial": "1EXR5GYOQWCCFVJN",
     "build_id": "QKQ1.240926.079",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 332,
@@ -3981,7 +3981,7 @@
     "manufacturer": "Asus",
     "serial": "53AA0CBSB6Q4PR3B",
     "build_id": "WW.240323.723",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 333,
@@ -3993,7 +3993,7 @@
     "manufacturer": "Asus",
     "serial": "RUK73ENYBF2WJF4V",
     "build_id": "TKQ1.251014.416",
-    "chipset": "SM8916"
+    "chipset": "MT8163"
   },
   {
     "id": 334,
@@ -4041,7 +4041,7 @@
     "manufacturer": "Billion",
     "serial": "0Y0H1328QBZL0H7P",
     "build_id": "SKQ1.251221.791",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 338,
@@ -4053,7 +4053,7 @@
     "manufacturer": "BlackBerry",
     "serial": "2NUVQORKAAGUJU2V",
     "build_id": "SKQ1.250918.938",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 339,
@@ -4065,7 +4065,7 @@
     "manufacturer": "BlackBerry",
     "serial": "L2X97WS2Z6557QGD",
     "build_id": "SKQ1.250913.661",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 340,
@@ -4077,7 +4077,7 @@
     "manufacturer": "BlackBerry",
     "serial": "YAHS51T073X84G82",
     "build_id": "SKQ1.240319.727",
-    "chipset": "SM8960"
+    "chipset": "MSM8960"
   },
   {
     "id": 341,
@@ -4149,7 +4149,7 @@
     "manufacturer": "Blackview",
     "serial": "DNXOL6X21FAU8OCI",
     "build_id": "QKQ1.241109.778",
-    "chipset": "MT6789"
+    "chipset": "MT6580A"
   },
   {
     "id": 347,
@@ -4293,7 +4293,7 @@
     "manufacturer": "Blu",
     "serial": "40W1P9AUBTPRTW11",
     "build_id": "SKQ1.241203.310",
-    "chipset": "MT6570"
+    "chipset": "MT6580"
   },
   {
     "id": 359,
@@ -4305,7 +4305,7 @@
     "manufacturer": "Blu",
     "serial": "3R00S7G5C62TOV72",
     "build_id": "SKQ1.250514.531",
-    "chipset": "MT6762G"
+    "chipset": "MT6750"
   },
   {
     "id": 360,
@@ -4317,7 +4317,7 @@
     "manufacturer": "Blu",
     "serial": "Z1RJ391MNAD1XYFD",
     "build_id": "SKQ1.241111.618",
-    "chipset": "MT6761"
+    "chipset": "MT6739"
   },
   {
     "id": 361,
@@ -4341,7 +4341,7 @@
     "manufacturer": "Blu",
     "serial": "G44LOBPFQOPX0JBF",
     "build_id": "QKQ1.250205.342",
-    "chipset": "MT6737"
+    "chipset": "MT6737T"
   },
   {
     "id": 363,
@@ -4365,7 +4365,7 @@
     "manufacturer": "Blu",
     "serial": "8BXA1LG91O2N87KV",
     "build_id": "QKQ1.250626.744",
-    "chipset": "MT6570"
+    "chipset": "MT6589M"
   },
   {
     "id": 365,
@@ -4377,7 +4377,7 @@
     "manufacturer": "Blu",
     "serial": "XAXEY3FGR1J463J4",
     "build_id": "RKQ1.240407.244",
-    "chipset": "MT6570"
+    "chipset": "MT6580"
   },
   {
     "id": 366,
@@ -4389,7 +4389,7 @@
     "manufacturer": "Blu",
     "serial": "LCUSNA1B0AF74GW5",
     "build_id": "SKQ1.250821.577",
-    "chipset": "MT6570"
+    "chipset": "MT6572"
   },
   {
     "id": 367,
@@ -4413,7 +4413,7 @@
     "manufacturer": "Blu",
     "serial": "G5DAQMH8FJNRC2Q4",
     "build_id": "RKQ1.251121.589",
-    "chipset": "MT6570"
+    "chipset": "MT6737"
   },
   {
     "id": 369,
@@ -4449,7 +4449,7 @@
     "manufacturer": "Blu",
     "serial": "LYP295XB71KTG4NA",
     "build_id": "QKQ1.240223.811",
-    "chipset": "MT6570"
+    "chipset": "MT6580"
   },
   {
     "id": 372,
@@ -4521,7 +4521,7 @@
     "manufacturer": "Blu",
     "serial": "B5PI920CG5J2XY8N",
     "build_id": "RKQ1.250227.239",
-    "chipset": "MT6761"
+    "chipset": "MT6753"
   },
   {
     "id": 378,
@@ -4533,7 +4533,7 @@
     "manufacturer": "Blu",
     "serial": "EF89HJQBG622KXGB",
     "build_id": "RKQ1.251227.580",
-    "chipset": "MT6755"
+    "chipset": "MT6795"
   },
   {
     "id": 379,
@@ -4569,7 +4569,7 @@
     "manufacturer": "Blu",
     "serial": "UPYROW0BL56GKRC6",
     "build_id": "QKQ1.241026.046",
-    "chipset": "MT6739"
+    "chipset": "MT6753"
   },
   {
     "id": 382,
@@ -4617,7 +4617,7 @@
     "manufacturer": "Blu",
     "serial": "HU7F8FIAH6Q46AQ0",
     "build_id": "SKQ1.250919.858",
-    "chipset": "MT6755"
+    "chipset": "MT6753"
   },
   {
     "id": 386,
@@ -4701,7 +4701,7 @@
     "manufacturer": "Blu",
     "serial": "BM1V9NY26EZGMSC1",
     "build_id": "RKQ1.250121.177",
-    "chipset": "MT6762"
+    "chipset": "MT6757"
   },
   {
     "id": 393,
@@ -4725,7 +4725,7 @@
     "manufacturer": "Blu",
     "serial": "HU28AWMNLIDYVCQD",
     "build_id": "RKQ1.250607.823",
-    "chipset": "MT6737"
+    "chipset": "MT6753"
   },
   {
     "id": 395,
@@ -4749,7 +4749,7 @@
     "manufacturer": "Blu",
     "serial": "OPQLNO9FLEZTJTPK",
     "build_id": "QKQ1.251111.267",
-    "chipset": "MT6739"
+    "chipset": "MSM8917"
   },
   {
     "id": 397,
@@ -4761,7 +4761,7 @@
     "manufacturer": "Blu",
     "serial": "BUVDB5EETM5U7XM9",
     "build_id": "RKQ1.250209.198",
-    "chipset": "MT6737"
+    "chipset": "MT6762"
   },
   {
     "id": 398,
@@ -4797,7 +4797,7 @@
     "manufacturer": "Cat",
     "serial": "MN7L7XGVEI897H0J",
     "build_id": "QKQ1.241104.103",
-    "chipset": "SM8909"
+    "chipset": "MSM8909"
   },
   {
     "id": 401,
@@ -4857,7 +4857,7 @@
     "manufacturer": "Coolpad",
     "serial": "07UGIVEKVFNHWM5G",
     "build_id": "SKQ1.250428.508",
-    "chipset": "MT6789"
+    "chipset": "MT6758"
   },
   {
     "id": 406,
@@ -5013,7 +5013,7 @@
     "manufacturer": "Coolpad",
     "serial": "VU1CQY86PWPSBJ2I",
     "build_id": "SKQ1.241121.285",
-    "chipset": "SM8952"
+    "chipset": "MSM8952"
   },
   {
     "id": 419,
@@ -5073,7 +5073,7 @@
     "manufacturer": "Coolpad",
     "serial": "A3ZYHOJCVXLR5CI8",
     "build_id": "QKQ1.250726.565",
-    "chipset": "SM8952"
+    "chipset": "MSM8952"
   },
   {
     "id": 424,
@@ -5085,7 +5085,7 @@
     "manufacturer": "Coolpad",
     "serial": "IWGQZ1FSH5SI2Z20",
     "build_id": "RKQ1.240308.444",
-    "chipset": "SM8917"
+    "chipset": "MSM8917"
   },
   {
     "id": 425,
@@ -5673,7 +5673,7 @@
     "manufacturer": "Gigabyte",
     "serial": "M9I4ECKZJO3U2T4P",
     "build_id": "SKQ1.251014.653",
-    "chipset": "SM7225"
+    "chipset": "MSM7225"
   },
   {
     "id": 474,
@@ -5685,7 +5685,7 @@
     "manufacturer": "Gigabyte",
     "serial": "VVYSX4WSR2QF4PQE",
     "build_id": "SKQ1.250227.597",
-    "chipset": "SM7227T"
+    "chipset": "MSM7227T"
   },
   {
     "id": 475,
@@ -5709,7 +5709,7 @@
     "manufacturer": "Gigabyte",
     "serial": "XWO2VC37BG7XD2J2",
     "build_id": "SKQ1.250809.291",
-    "chipset": "SM7227T"
+    "chipset": "MSM7227T"
   },
   {
     "id": 477,
@@ -5721,7 +5721,7 @@
     "manufacturer": "Gigabyte",
     "serial": "47NI9FN2MW0IU299",
     "build_id": "SKQ1.260108.671",
-    "chipset": "SM7227T"
+    "chipset": "MSM7227T"
   },
   {
     "id": 478,
@@ -5733,7 +5733,7 @@
     "manufacturer": "Gigabyte",
     "serial": "6L191WVLSMWLWAB0",
     "build_id": "SKQ1.250511.096",
-    "chipset": "SM7227T"
+    "chipset": "MSM7227T"
   },
   {
     "id": 479,
@@ -5745,7 +5745,7 @@
     "manufacturer": "Gigabyte",
     "serial": "7KW18B3TS27EIIVU",
     "build_id": "SKQ1.241104.810",
-    "chipset": "SM8225"
+    "chipset": "MSM8225"
   },
   {
     "id": 480,
@@ -5985,7 +5985,7 @@
     "manufacturer": "Gionee",
     "serial": "ULWTZ6P2C9NNRAZU",
     "build_id": "QKQ1.250915.026",
-    "chipset": "SM8976"
+    "chipset": "MSM8976"
   },
   {
     "id": 500,
@@ -5997,7 +5997,7 @@
     "manufacturer": "Gionee",
     "serial": "0WR4M2NZODAMAY2X",
     "build_id": "QKQ1.241225.840",
-    "chipset": "SM8976"
+    "chipset": "MSM8976"
   },
   {
     "id": 501,
@@ -6009,7 +6009,7 @@
     "manufacturer": "Gionee",
     "serial": "LW8MT7BS6QKGWAMJ",
     "build_id": "RKQ1.240426.834",
-    "chipset": "SM8940"
+    "chipset": "MSM8940"
   },
   {
     "id": 502,
@@ -6057,7 +6057,7 @@
     "manufacturer": "Gionee",
     "serial": "83BUXFBLV1ABKFZX",
     "build_id": "QKQ1.241121.817",
-    "chipset": "SM8937"
+    "chipset": "MSM8937"
   },
   {
     "id": 506,
@@ -6069,7 +6069,7 @@
     "manufacturer": "Gionee",
     "serial": "PI5KALRFPS6FJGIZ",
     "build_id": "RKQ1.240406.766",
-    "chipset": "SM8937"
+    "chipset": "MSM8937"
   },
   {
     "id": 507,
@@ -6153,7 +6153,7 @@
     "manufacturer": "Google",
     "serial": "K8GPJR62AU2ZUS8A",
     "build_id": "SP1A.240612.364",
-    "chipset": "SM8998"
+    "chipset": "MSM8998"
   },
   {
     "id": 514,
@@ -6165,7 +6165,7 @@
     "manufacturer": "Google",
     "serial": "AB2KQTS61JBRKDOP",
     "build_id": "AP1A.251105.915",
-    "chipset": "SM8998"
+    "chipset": "MSM8998"
   },
   {
     "id": 515,
@@ -6441,7 +6441,7 @@
     "manufacturer": "Google",
     "serial": "63TZ7J103XDHJSR3",
     "build_id": "UD1A.241220.845",
-    "chipset": "SM8996"
+    "chipset": "MSM8996"
   },
   {
     "id": 538,
@@ -6453,7 +6453,7 @@
     "manufacturer": "Haier",
     "serial": "4D6XZVHKUPG12K0E",
     "build_id": "SKQ1.240304.383",
-    "chipset": "SM8937"
+    "chipset": "MSM8937"
   },
   {
     "id": 539,
@@ -7281,7 +7281,7 @@
     "manufacturer": "HTC",
     "serial": "EU1MMATLH8NND2UB",
     "build_id": "QKQ1.250403.342",
-    "chipset": "SM8994"
+    "chipset": "MSM8994"
   },
   {
     "id": 608,
@@ -7293,7 +7293,7 @@
     "manufacturer": "HTC",
     "serial": "783PIY8UYN6ATCL2",
     "build_id": "OPM1.260103.201",
-    "chipset": "MT6755"
+    "chipset": "MT6737T"
   },
   {
     "id": 609,
@@ -7305,7 +7305,7 @@
     "manufacturer": "HTC",
     "serial": "XMJSHKAEME79P1ZT",
     "build_id": "QKQ1.240910.280",
-    "chipset": "MSM8974 v3"
+    "chipset": "MSM8928"
   },
   {
     "id": 610,
@@ -7353,7 +7353,7 @@
     "manufacturer": "HTC",
     "serial": "XCFMMJCX4R95WVV0",
     "build_id": "OPM1.241120.838",
-    "chipset": "MT6739"
+    "chipset": "MSM8940"
   },
   {
     "id": 614,
@@ -7389,7 +7389,7 @@
     "manufacturer": "HTC",
     "serial": "WPHKOS60RVDWE79V",
     "build_id": "RKQ1.250628.609",
-    "chipset": "SM7125"
+    "chipset": "MSM8225"
   },
   {
     "id": 617,
@@ -7401,7 +7401,7 @@
     "manufacturer": "HTC",
     "serial": "KZP8XTD4190SZK9C",
     "build_id": "PKQ1.240403.026",
-    "chipset": "MT6739"
+    "chipset": "MT6582M"
   },
   {
     "id": 618,
@@ -7413,7 +7413,7 @@
     "manufacturer": "HTC",
     "serial": "L6XBBYERYW8WEUU4",
     "build_id": "PKQ1.241014.300",
-    "chipset": "SM7125"
+    "chipset": "MT6582"
   },
   {
     "id": 619,
@@ -7425,7 +7425,7 @@
     "manufacturer": "HTC",
     "serial": "DWSEVW6JS2OTKV9F",
     "build_id": "PKQ1.251028.440",
-    "chipset": "SM7125"
+    "chipset": "MSM8225Q"
   },
   {
     "id": 620,
@@ -7461,7 +7461,7 @@
     "manufacturer": "HTC",
     "serial": "YFJVASHU4QCTBL0N",
     "build_id": "OPM1.240101.385",
-    "chipset": "MT6739"
+    "chipset": "MSM8916"
   },
   {
     "id": 623,
@@ -7485,7 +7485,7 @@
     "manufacturer": "HTC",
     "serial": "O7I6PKVOM033L8BN",
     "build_id": "RKQ1.251006.723",
-    "chipset": "SM8928"
+    "chipset": "MSM8928"
   },
   {
     "id": 625,
@@ -7497,7 +7497,7 @@
     "manufacturer": "HTC",
     "serial": "JGVE9QATJTNZKF61",
     "build_id": "RKQ1.250731.629",
-    "chipset": "SM7125"
+    "chipset": "MSM8909"
   },
   {
     "id": 626,
@@ -7509,7 +7509,7 @@
     "manufacturer": "HTC",
     "serial": "RKFB7UBOD5ZRH40D",
     "build_id": "OPM1.240511.510",
-    "chipset": "MT6752"
+    "chipset": "MSM8909"
   },
   {
     "id": 627,
@@ -7533,7 +7533,7 @@
     "manufacturer": "HTC",
     "serial": "695NUUFKG8VG634S",
     "build_id": "OPM1.250916.850",
-    "chipset": "SM7125"
+    "chipset": "MSM8909"
   },
   {
     "id": 629,
@@ -7581,7 +7581,7 @@
     "manufacturer": "HTC",
     "serial": "CCJJGIFDZ9IXHEY9",
     "build_id": "RKQ1.241027.802",
-    "chipset": "SM7125"
+    "chipset": "MSM8916"
   },
   {
     "id": 633,
@@ -7605,7 +7605,7 @@
     "manufacturer": "HTC",
     "serial": "CQY0HKJ6B6A63DCJ",
     "build_id": "QKQ1.241007.183",
-    "chipset": "MT6752"
+    "chipset": "MSM8909"
   },
   {
     "id": 635,
@@ -7617,7 +7617,7 @@
     "manufacturer": "HTC",
     "serial": "Y57SAHSH57UGR5GL",
     "build_id": "PKQ1.250321.157",
-    "chipset": "MT6752"
+    "chipset": "MT6753"
   },
   {
     "id": 636,
@@ -7629,7 +7629,7 @@
     "manufacturer": "HTC",
     "serial": "6WLEB0H8H38G0NQI",
     "build_id": "RKQ1.260102.323",
-    "chipset": "SM7125"
+    "chipset": "MSM8928"
   },
   {
     "id": 637,
@@ -7653,7 +7653,7 @@
     "manufacturer": "HTC",
     "serial": "VFCQS9OH6LHK9KIK",
     "build_id": "QKQ1.250203.101",
-    "chipset": "SM8255"
+    "chipset": "MSM8255"
   },
   {
     "id": 639,
@@ -7677,7 +7677,7 @@
     "manufacturer": "HTC",
     "serial": "O97N10DQ3TL3C75C",
     "build_id": "OPM1.240405.226",
-    "chipset": "SM8928"
+    "chipset": "MSM8928"
   },
   {
     "id": 641,
@@ -7689,7 +7689,7 @@
     "manufacturer": "HTC",
     "serial": "U05I4PM70R2NEJZZ",
     "build_id": "QKQ1.240518.847",
-    "chipset": "SM8928"
+    "chipset": "MSM8928"
   },
   {
     "id": 642,
@@ -7701,7 +7701,7 @@
     "manufacturer": "HTC",
     "serial": "KZKO2WZCIQ4R06GC",
     "build_id": "QKQ1.240919.690",
-    "chipset": "SM8928"
+    "chipset": "MSM8928"
   },
   {
     "id": 643,
@@ -7713,7 +7713,7 @@
     "manufacturer": "HTC",
     "serial": "EHWJILMD1AJBKPZL",
     "build_id": "PKQ1.240801.925",
-    "chipset": "SM8939"
+    "chipset": "MSM8939"
   },
   {
     "id": 644,
@@ -7725,7 +7725,7 @@
     "manufacturer": "HTC",
     "serial": "Z03YNJKG7E90VVEO",
     "build_id": "PKQ1.250330.059",
-    "chipset": "SM8939"
+    "chipset": "MSM8939"
   },
   {
     "id": 645,
@@ -7737,7 +7737,7 @@
     "manufacturer": "HTC",
     "serial": "2EKLBLGN2HWZ5K3N",
     "build_id": "RKQ1.250209.696",
-    "chipset": "SM8939"
+    "chipset": "MSM8939"
   },
   {
     "id": 646,
@@ -7749,7 +7749,7 @@
     "manufacturer": "HTC",
     "serial": "IZXR832QS04V9IQ9",
     "build_id": "OPM1.250125.766",
-    "chipset": "SM8939"
+    "chipset": "MSM8939"
   },
   {
     "id": 647,
@@ -7761,7 +7761,7 @@
     "manufacturer": "HTC",
     "serial": "DHLGOD2PMGNUXI1H",
     "build_id": "PKQ1.250313.566",
-    "chipset": "SM8928"
+    "chipset": "MSM8928"
   },
   {
     "id": 648,
@@ -7773,7 +7773,7 @@
     "manufacturer": "HTC",
     "serial": "NV8RMPR1H9AGDHDZ",
     "build_id": "PKQ1.250125.553",
-    "chipset": "SM8939"
+    "chipset": "MSM8939"
   },
   {
     "id": 649,
@@ -7785,7 +7785,7 @@
     "manufacturer": "HTC",
     "serial": "WL1TJ2DP0F6RYK2U",
     "build_id": "PKQ1.240217.405",
-    "chipset": "SM8939"
+    "chipset": "MT6795"
   },
   {
     "id": 650,
@@ -7797,7 +7797,7 @@
     "manufacturer": "HTC",
     "serial": "PPA32A5Z7BZSN6ST",
     "build_id": "OPM1.240407.357",
-    "chipset": "SM7225A"
+    "chipset": "MSM7225A"
   },
   {
     "id": 651,
@@ -7821,7 +7821,7 @@
     "manufacturer": "HTC",
     "serial": "YN115RW0FN1VMR88",
     "build_id": "QKQ1.240621.505",
-    "chipset": "SM8939"
+    "chipset": "MSM8939"
   },
   {
     "id": 653,
@@ -7833,7 +7833,7 @@
     "manufacturer": "HTC",
     "serial": "XCFXAM1PS0FZPVP7",
     "build_id": "PKQ1.241116.726",
-    "chipset": "MSM8974 v3"
+    "chipset": "MSM8974AB"
   },
   {
     "id": 654,
@@ -7845,7 +7845,7 @@
     "manufacturer": "HTC",
     "serial": "LQK1UA48B63SCZGX",
     "build_id": "QKQ1.240717.120",
-    "chipset": "SM8255"
+    "chipset": "MSM8255"
   },
   {
     "id": 655,
@@ -7857,7 +7857,7 @@
     "manufacturer": "HTC",
     "serial": "4USTKS0AJX3VGQV7",
     "build_id": "RKQ1.240116.955",
-    "chipset": "SM8255"
+    "chipset": "MSM8255"
   },
   {
     "id": 656,
@@ -7869,7 +7869,7 @@
     "manufacturer": "HTC",
     "serial": "KOMJEGWMJYW4DS9H",
     "build_id": "PKQ1.250616.585",
-    "chipset": "SM8255"
+    "chipset": "MSM8255"
   },
   {
     "id": 657,
@@ -7881,7 +7881,7 @@
     "manufacturer": "HTC",
     "serial": "TK8FIRMS4QX5FZ6Y",
     "build_id": "RKQ1.251213.340",
-    "chipset": "SM8255"
+    "chipset": "MSM8225"
   },
   {
     "id": 658,
@@ -7893,7 +7893,7 @@
     "manufacturer": "HTC",
     "serial": "V1IBY1Z8THSBO1G4",
     "build_id": "QKQ1.250723.652",
-    "chipset": "SM8255"
+    "chipset": "MSM7227A"
   },
   {
     "id": 659,
@@ -7905,7 +7905,7 @@
     "manufacturer": "HTC",
     "serial": "RMPKNXJIHLY8FTTE",
     "build_id": "RKQ1.251227.348",
-    "chipset": "SM7225A"
+    "chipset": "MSM7227A"
   },
   {
     "id": 660,
@@ -7917,7 +7917,7 @@
     "manufacturer": "HTC",
     "serial": "DZVN32LX7JMGGM0O",
     "build_id": "QKQ1.240802.481",
-    "chipset": "SM8225"
+    "chipset": "MSM8225"
   },
   {
     "id": 661,
@@ -7929,7 +7929,7 @@
     "manufacturer": "HTC",
     "serial": "VEG08FS2T3JGNCJ3",
     "build_id": "PKQ1.240324.175",
-    "chipset": "SM7125"
+    "chipset": "MT6582"
   },
   {
     "id": 662,
@@ -7965,7 +7965,7 @@
     "manufacturer": "HTC",
     "serial": "V4J57E65ZQQV5416",
     "build_id": "QKQ1.250705.856",
-    "chipset": "SM8928"
+    "chipset": "MSM8928"
   },
   {
     "id": 665,
@@ -7977,7 +7977,7 @@
     "manufacturer": "HTC",
     "serial": "I3MGVI8DYIVA6A1W",
     "build_id": "QKQ1.250328.989",
-    "chipset": "SM8660"
+    "chipset": "MSM8660"
   },
   {
     "id": 666,
@@ -7989,7 +7989,7 @@
     "manufacturer": "HTC",
     "serial": "XBSO3CK8UY3SQ7P5",
     "build_id": "PKQ1.250919.488",
-    "chipset": "SM7200A"
+    "chipset": "MSM7200A"
   },
   {
     "id": 667,
@@ -8001,7 +8001,7 @@
     "manufacturer": "HTC",
     "serial": "QM2BFLXNGPYJHZTG",
     "build_id": "OPM1.240120.988",
-    "chipset": "SM8255"
+    "chipset": "MT6762"
   },
   {
     "id": 668,
@@ -8073,7 +8073,7 @@
     "manufacturer": "HTC",
     "serial": "KTD22QAMXGQHVHD5",
     "build_id": "QKQ1.240101.581",
-    "chipset": "SM8974AB"
+    "chipset": "MSM8926"
   },
   {
     "id": 674,
@@ -8085,7 +8085,7 @@
     "manufacturer": "HTC",
     "serial": "YL4CI1CZ6CIF86M1",
     "build_id": "PKQ1.241209.484",
-    "chipset": "SM8998"
+    "chipset": "MSM8998"
   },
   {
     "id": 675,
@@ -8097,7 +8097,7 @@
     "manufacturer": "HTC",
     "serial": "H454WTZIU4WAS45Q",
     "build_id": "OPM1.240524.179",
-    "chipset": "SM8976"
+    "chipset": "MSM8976"
   },
   {
     "id": 676,
@@ -8109,7 +8109,7 @@
     "manufacturer": "HTC",
     "serial": "T5V4LAF1WMY3ZG8S",
     "build_id": "QKQ1.240125.147",
-    "chipset": "SM8998"
+    "chipset": "MSM8998"
   },
   {
     "id": 677,
@@ -8145,7 +8145,7 @@
     "manufacturer": "HTC",
     "serial": "N55J4ACGPXRE1BZE",
     "build_id": "QKQ1.241107.250",
-    "chipset": "SM7227"
+    "chipset": "MT6762"
   },
   {
     "id": 680,
@@ -8181,7 +8181,7 @@
     "manufacturer": "HTC",
     "serial": "6S2J8GCAK02XCSV8",
     "build_id": "PKQ1.241126.427",
-    "chipset": "SM8974AB"
+    "chipset": "MSM8975AC"
   },
   {
     "id": 683,
@@ -8193,7 +8193,7 @@
     "manufacturer": "HTC",
     "serial": "HB1PYC1O68E4QKPR",
     "build_id": "PKQ1.250404.939",
-    "chipset": "SM8974AB"
+    "chipset": "MSM8974AB"
   },
   {
     "id": 684,
@@ -8205,7 +8205,7 @@
     "manufacturer": "HTC",
     "serial": "Q9HHBFEBZN1QWQ24",
     "build_id": "QKQ1.240320.442",
-    "chipset": "SM8952"
+    "chipset": "MSM8952"
   },
   {
     "id": 685,
@@ -8217,7 +8217,7 @@
     "manufacturer": "HTC",
     "serial": "R2I89VOUY02ZUFT1",
     "build_id": "PKQ1.250213.115",
-    "chipset": "SM8952"
+    "chipset": "MT6755"
   },
   {
     "id": 686,
@@ -8229,7 +8229,7 @@
     "manufacturer": "HTC",
     "serial": "2HM2U8VQNSHTOAYJ",
     "build_id": "OPM1.240726.851",
-    "chipset": "SM8939"
+    "chipset": "MSM8939"
   },
   {
     "id": 687,
@@ -8241,7 +8241,7 @@
     "manufacturer": "HTC",
     "serial": "YW2D0VKKZ4OOGC2C",
     "build_id": "PKQ1.260126.368",
-    "chipset": "SM8994"
+    "chipset": "MSM8994"
   },
   {
     "id": 688,
@@ -8253,7 +8253,7 @@
     "manufacturer": "HTC",
     "serial": "IGYWAWDWWB3AXLP3",
     "build_id": "PKQ1.260112.481",
-    "chipset": "SM8994"
+    "chipset": "MSM8994"
   },
   {
     "id": 689,
@@ -8265,7 +8265,7 @@
     "manufacturer": "HTC",
     "serial": "88BXHCA3KF0AMMJ2",
     "build_id": "RKQ1.250123.419",
-    "chipset": "SM8290"
+    "chipset": "MSM8290"
   },
   {
     "id": 690,
@@ -8277,7 +8277,7 @@
     "manufacturer": "HTC",
     "serial": "8HZ7GQ58D04A280J",
     "build_id": "OPM1.240908.249",
-    "chipset": "SM8290"
+    "chipset": "MT6795"
   },
   {
     "id": 691,
@@ -8289,7 +8289,7 @@
     "manufacturer": "HTC",
     "serial": "4LOJPZP9EX5ESTA3",
     "build_id": "RKQ1.251111.184",
-    "chipset": "SM8290"
+    "chipset": "MSM8625"
   },
   {
     "id": 692,
@@ -8301,7 +8301,7 @@
     "manufacturer": "HTC",
     "serial": "FLB735WZKV9KSSBW",
     "build_id": "RKQ1.241224.378",
-    "chipset": "SM8290"
+    "chipset": "MSM8960"
   },
   {
     "id": 693,
@@ -8313,7 +8313,7 @@
     "manufacturer": "HTC",
     "serial": "CCOUR0EEAFRIW9YB",
     "build_id": "RKQ1.250220.120",
-    "chipset": "SM8255"
+    "chipset": "MSM8255"
   },
   {
     "id": 694,
@@ -8337,7 +8337,7 @@
     "manufacturer": "HTC",
     "serial": "9H5H89J5VXP1YHXJ",
     "build_id": "RKQ1.250220.680",
-    "chipset": "SM8260"
+    "chipset": "MSM8260"
   },
   {
     "id": 696,
@@ -8361,7 +8361,7 @@
     "manufacturer": "HTC",
     "serial": "9L2QA2TFX4I8T53U",
     "build_id": "QKQ1.240116.857",
-    "chipset": "SM8996"
+    "chipset": "MSM8996"
   },
   {
     "id": 698,
@@ -8385,7 +8385,7 @@
     "manufacturer": "HTC",
     "serial": "UB1H3RJUTJGZARBC",
     "build_id": "PKQ1.250324.763",
-    "chipset": "SM7225"
+    "chipset": "MSM7225"
   },
   {
     "id": 700,
@@ -8397,7 +8397,7 @@
     "manufacturer": "HTC",
     "serial": "G7MK8QONIWOZR3UL",
     "build_id": "PKQ1.250401.321",
-    "chipset": "SM7227"
+    "chipset": "MSM7227"
   },
   {
     "id": 701,
@@ -8421,7 +8421,7 @@
     "manufacturer": "HTC",
     "serial": "N8XJI7IFOQOLTLO6",
     "build_id": "RKQ1.250603.516",
-    "chipset": "MT6739"
+    "chipset": "MT6763"
   },
   {
     "id": 703,
@@ -8481,7 +8481,7 @@
     "manufacturer": "HTC",
     "serial": "6TCS1SX1AEDCLJD7",
     "build_id": "OPM1.241109.446",
-    "chipset": "SM7227"
+    "chipset": "MSM7227"
   },
   {
     "id": 708,
@@ -8493,7 +8493,7 @@
     "manufacturer": "HTC",
     "serial": "D5HBZB829TODMUFT",
     "build_id": "RKQ1.241205.017",
-    "chipset": "SM7227"
+    "chipset": "MSM7227"
   },
   {
     "id": 709,
@@ -8505,7 +8505,7 @@
     "manufacturer": "HTC",
     "serial": "UDB4YDVGKBL5N3R7",
     "build_id": "QKQ1.251009.060",
-    "chipset": "SM7225"
+    "chipset": "MT6763"
   },
   {
     "id": 710,
@@ -8793,7 +8793,7 @@
     "manufacturer": "HUAWEI",
     "serial": "591LPE4T8FZ2B0Z0",
     "build_id": "QKQ1.251017.303",
-    "chipset": "Hi6260"
+    "chipset": "MSM8917"
   },
   {
     "id": 734,
@@ -8805,7 +8805,7 @@
     "manufacturer": "HUAWEI",
     "serial": "ZOZVWAZ5VIEXTLT3",
     "build_id": "RKQ1.251115.908",
-    "chipset": "Hi6260"
+    "chipset": "SDM660"
   },
   {
     "id": 735,
@@ -8817,7 +8817,7 @@
     "manufacturer": "HUAWEI",
     "serial": "FPKPCKMGGAMPPE26",
     "build_id": "SKQ1.251014.425",
-    "chipset": "Hi6260"
+    "chipset": "MT6580M"
   },
   {
     "id": 736,
@@ -8829,7 +8829,7 @@
     "manufacturer": "HUAWEI",
     "serial": "2FZAVYRHYJEA3T6I",
     "build_id": "PKQ1.241031.301",
-    "chipset": "Hi6260"
+    "chipset": "MT6737M"
   },
   {
     "id": 737,
@@ -8853,7 +8853,7 @@
     "manufacturer": "HUAWEI",
     "serial": "UCQG3ZH4JT68P20W",
     "build_id": "TKQ1.241127.504",
-    "chipset": "Hi6260"
+    "chipset": "MT6761"
   },
   {
     "id": 739,
@@ -8889,7 +8889,7 @@
     "manufacturer": "HUAWEI",
     "serial": "MGZATL5KNV9GDORC",
     "build_id": "SKQ1.251028.926",
-    "chipset": "Hi6260"
+    "chipset": "MT6739"
   },
   {
     "id": 742,
@@ -8901,7 +8901,7 @@
     "manufacturer": "HUAWEI",
     "serial": "A8A7KE05AJARPWCH",
     "build_id": "TKQ1.250729.247",
-    "chipset": "MT6761"
+    "chipset": "MT6737T"
   },
   {
     "id": 743,
@@ -8913,7 +8913,7 @@
     "manufacturer": "HUAWEI",
     "serial": "IRKNGBH2QIZNAR8G",
     "build_id": "TKQ1.241008.456",
-    "chipset": "MT6761"
+    "chipset": "MSM8917"
   },
   {
     "id": 744,
@@ -8937,7 +8937,7 @@
     "manufacturer": "HUAWEI",
     "serial": "68XW79UR1I3F94CC",
     "build_id": "SKQ1.250513.116",
-    "chipset": "Hi6260"
+    "chipset": "MSM8917"
   },
   {
     "id": 746,
@@ -8973,7 +8973,7 @@
     "manufacturer": "HUAWEI",
     "serial": "IJNZLFL2O043PXFN",
     "build_id": "TKQ1.240411.091",
-    "chipset": "Hi6260"
+    "chipset": "MSM8937"
   },
   {
     "id": 749,
@@ -9093,7 +9093,7 @@
     "manufacturer": "HUAWEI",
     "serial": "NK443M4NPCBJWFYG",
     "build_id": "QKQ1.250727.435",
-    "chipset": "Hi6260"
+    "chipset": "MSM8953"
   },
   {
     "id": 759,
@@ -9189,7 +9189,7 @@
     "manufacturer": "INFINIX",
     "serial": "T425SMOKABV2VKVD",
     "build_id": "SKQ1.240902.930",
-    "chipset": "MT6789"
+    "chipset": "MT6737W"
   },
   {
     "id": 767,
@@ -9573,7 +9573,7 @@
     "manufacturer": "INFINIX",
     "serial": "UK77WNQR6H6FC6H2",
     "build_id": "QKQ1.240303.144",
-    "chipset": "MT6789"
+    "chipset": "MT6753"
   },
   {
     "id": 799,
@@ -9981,7 +9981,7 @@
     "manufacturer": "Kyocera",
     "serial": "FBB06KWRQ34UVD2Y",
     "build_id": "RKQ1.260101.062",
-    "chipset": "SM8952"
+    "chipset": "MSM8952"
   },
   {
     "id": 833,
@@ -9993,7 +9993,7 @@
     "manufacturer": "Kyocera",
     "serial": "OYW0DRNPLEU8CIWY",
     "build_id": "QKQ1.240827.592",
-    "chipset": "SM8928"
+    "chipset": "MSM8928"
   },
   {
     "id": 834,
@@ -10005,7 +10005,7 @@
     "manufacturer": "Kyocera",
     "serial": "LN3Y3FDAGLZBP7PW",
     "build_id": "RKQ1.241226.469",
-    "chipset": "SM8928"
+    "chipset": "MSM8928"
   },
   {
     "id": 835,
@@ -10017,7 +10017,7 @@
     "manufacturer": "Kyocera",
     "serial": "2RANRIIAOX9XGYYU",
     "build_id": "QKQ1.240304.503",
-    "chipset": "SM8952"
+    "chipset": "MSM8952"
   },
   {
     "id": 836,
@@ -10053,7 +10053,7 @@
     "manufacturer": "Kyocera",
     "serial": "52PRFX1LHG0SQ0BE",
     "build_id": "RKQ1.240831.489",
-    "chipset": "SM8928"
+    "chipset": "MSM8928"
   },
   {
     "id": 839,
@@ -10077,7 +10077,7 @@
     "manufacturer": "Kyocera",
     "serial": "6ORCCPOTMJTDTN1Y",
     "build_id": "QKQ1.241018.865",
-    "chipset": "SM8960"
+    "chipset": "MSM8960"
   },
   {
     "id": 841,
@@ -10089,7 +10089,7 @@
     "manufacturer": "Kyocera",
     "serial": "ITRG73R1016HN3WG",
     "build_id": "QKQ1.251120.439",
-    "chipset": "SM8212"
+    "chipset": "MSM8212"
   },
   {
     "id": 842,
@@ -10101,7 +10101,7 @@
     "manufacturer": "Kyocera",
     "serial": "J2NIGPXW9B6CXBH7",
     "build_id": "RKQ1.250719.305",
-    "chipset": "SM8960"
+    "chipset": "MSM8960"
   },
   {
     "id": 843,
@@ -10473,7 +10473,7 @@
     "manufacturer": "Leeco",
     "serial": "1EB3YXQPEKTJ3OUQ",
     "build_id": "SKQ1.250910.011",
-    "chipset": "SM8996"
+    "chipset": "MSM8996"
   },
   {
     "id": 874,
@@ -10485,7 +10485,7 @@
     "manufacturer": "Leeco",
     "serial": "DPUCO4XX3Q4PMEA4",
     "build_id": "SKQ1.240726.086",
-    "chipset": "SM8996"
+    "chipset": "MSM8996"
   },
   {
     "id": 875,
@@ -10497,7 +10497,7 @@
     "manufacturer": "Leeco",
     "serial": "OQS134T1I1T5Y2PT",
     "build_id": "SKQ1.250731.750",
-    "chipset": "SM8976"
+    "chipset": "MSM8976"
   },
   {
     "id": 876,
@@ -10509,7 +10509,7 @@
     "manufacturer": "Lenovo",
     "serial": "SG9Z6ZXOAQ1OJ1Z6",
     "build_id": "RKQ1.240309.940",
-    "chipset": "SM4250"
+    "chipset": "MT6752"
   },
   {
     "id": 877,
@@ -10545,7 +10545,7 @@
     "manufacturer": "Lenovo",
     "serial": "PGM3QFYZXM8BGP3A",
     "build_id": "SKQ1.251004.213",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 880,
@@ -10557,7 +10557,7 @@
     "manufacturer": "Lenovo",
     "serial": "SUNOLPQB7TVUZCDV",
     "build_id": "QKQ1.240329.706",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 881,
@@ -10569,7 +10569,7 @@
     "manufacturer": "Lenovo",
     "serial": "97KHVU4GMC7UASKM",
     "build_id": "RKQ1.240405.331",
-    "chipset": "MT6797D"
+    "chipset": "MT6762"
   },
   {
     "id": 882,
@@ -10622,7 +10622,7 @@
   {
     "id": 886,
     "brand": "Lenovo",
-    "marketing_name": "Lenovo Legion Tab (8.8\\\u0027\\\u0027,3)",
+    "marketing_name": "Lenovo Legion Tab (8.8\\'\\',3)",
     "device": "TB321FU",
     "model": "TB321FU",
     "fingerprint": "lenovo/TB321FU/TB321FU:14/SKQ1.240612.083/28754179:user/release-keys",
@@ -10641,7 +10641,7 @@
     "manufacturer": "Lenovo",
     "serial": "7GLCMDLTSHE6HODW",
     "build_id": "SKQ1.260124.699",
-    "chipset": "SM8929"
+    "chipset": "MSM8929"
   },
   {
     "id": 888,
@@ -10653,7 +10653,7 @@
     "manufacturer": "Lenovo",
     "serial": "IZ6HF6NO9UBSX0FD",
     "build_id": "QKQ1.240925.104",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 889,
@@ -10665,7 +10665,7 @@
     "manufacturer": "Lenovo",
     "serial": "PRJZBM44HOHUH9RF",
     "build_id": "RKQ1.241228.344",
-    "chipset": "SM8953"
+    "chipset": "MT8735"
   },
   {
     "id": 890,
@@ -10677,7 +10677,7 @@
     "manufacturer": "Lenovo",
     "serial": "P47P1Q2IEV2J7QI6",
     "build_id": "TKQ1.240812.565",
-    "chipset": "MT6789"
+    "chipset": "MT8783"
   },
   {
     "id": 891,
@@ -10689,7 +10689,7 @@
     "manufacturer": "Lenovo",
     "serial": "OXO78KL6C0U34XS7",
     "build_id": "RKQ1.241108.226",
-    "chipset": "SM8250"
+    "chipset": "MSM8976"
   },
   {
     "id": 892,
@@ -10701,7 +10701,7 @@
     "manufacturer": "Lenovo",
     "serial": "9MN47VFDYN3IMF6X",
     "build_id": "RKQ1.241022.889",
-    "chipset": "SM8250"
+    "chipset": "SDM636"
   },
   {
     "id": 893,
@@ -10713,7 +10713,7 @@
     "manufacturer": "Lenovo",
     "serial": "3OHELO71VDIHZ166",
     "build_id": "SKQ1.240706.495",
-    "chipset": "SM8953"
+    "chipset": "MT6589"
   },
   {
     "id": 894,
@@ -10797,7 +10797,7 @@
     "manufacturer": "Lenovo",
     "serial": "32BZHBEUCYKGE9ES",
     "build_id": "RKQ1.240330.968",
-    "chipset": "SM8917"
+    "chipset": "MSM8917"
   },
   {
     "id": 901,
@@ -10953,7 +10953,7 @@
     "manufacturer": "Lenovo",
     "serial": "SFG47CVKG7U2S1M3",
     "build_id": "QKQ1.250609.587",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 914,
@@ -10989,7 +10989,7 @@
     "manufacturer": "Lenovo",
     "serial": "BU3C5EYFYZSWZAJB",
     "build_id": "TKQ1.251111.191",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 917,
@@ -11241,7 +11241,7 @@
     "manufacturer": "Lenovo",
     "serial": "BNW11UWIVNZUFWEW",
     "build_id": "QKQ1.241211.465",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 938,
@@ -11277,7 +11277,7 @@
     "manufacturer": "Lenovo",
     "serial": "4Y7BL4TTI5SMEJNR",
     "build_id": "RKQ1.251221.614",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 941,
@@ -11301,7 +11301,7 @@
     "manufacturer": "Lenovo",
     "serial": "F2D6ZTHS21RXC8U1",
     "build_id": "SKQ1.260111.010",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 943,
@@ -11313,7 +11313,7 @@
     "manufacturer": "Lenovo",
     "serial": "RR47S8FOH9BVUO62",
     "build_id": "RKQ1.240306.787",
-    "chipset": "SM8917"
+    "chipset": "MSM8917"
   },
   {
     "id": 944,
@@ -11325,7 +11325,7 @@
     "manufacturer": "Lenovo",
     "serial": "TGSIBA44QC1DXAW6",
     "build_id": "QKQ1.240526.714",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 945,
@@ -11337,7 +11337,7 @@
     "manufacturer": "Lenovo",
     "serial": "08R0NBV9TYWWETX9",
     "build_id": "SKQ1.240129.186",
-    "chipset": "SM8917"
+    "chipset": "MSM8917"
   },
   {
     "id": 946,
@@ -11349,7 +11349,7 @@
     "manufacturer": "Lenovo",
     "serial": "HHKNEP8X4PFON54W",
     "build_id": "QKQ1.250328.034",
-    "chipset": "SM8917"
+    "chipset": "MSM8917"
   },
   {
     "id": 947,
@@ -11361,7 +11361,7 @@
     "manufacturer": "Lenovo",
     "serial": "SDC3VKU6JXCE2UPE",
     "build_id": "SKQ1.240203.811",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 948,
@@ -11373,7 +11373,7 @@
     "manufacturer": "Lenovo",
     "serial": "1O8N4EY56HCXO1YR",
     "build_id": "TKQ1.240128.132",
-    "chipset": "SM8917"
+    "chipset": "MSM8917"
   },
   {
     "id": 949,
@@ -11385,7 +11385,7 @@
     "manufacturer": "Lenovo",
     "serial": "CWUZLZG8UXLJDGB1",
     "build_id": "QKQ1.250129.921",
-    "chipset": "SM8929"
+    "chipset": "MSM8929"
   },
   {
     "id": 950,
@@ -11421,7 +11421,7 @@
     "manufacturer": "Lenovo",
     "serial": "AJR78LTLRNYGSQ18",
     "build_id": "TKQ1.240326.924",
-    "chipset": "SM8650"
+    "chipset": "MSM8953"
   },
   {
     "id": 953,
@@ -11445,7 +11445,7 @@
     "manufacturer": "Lenovo",
     "serial": "1HCWGDL2V5TNUWEA",
     "build_id": "SKQ1.251029.174",
-    "chipset": "SM8250"
+    "chipset": "SDM710"
   },
   {
     "id": 955,
@@ -11457,7 +11457,7 @@
     "manufacturer": "Lenovo",
     "serial": "IGVCQY10OKOOHO3C",
     "build_id": "QKQ1.241007.615",
-    "chipset": "SM8250"
+    "chipset": "SM8150"
   },
   {
     "id": 956,
@@ -11469,7 +11469,7 @@
     "manufacturer": "Lenovo",
     "serial": "8OZ7V6HT7043FTLU",
     "build_id": "TKQ1.251205.919",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 957,
@@ -11493,7 +11493,7 @@
     "manufacturer": "Lenovo",
     "serial": "CHCLSXCIODWVLHQ7",
     "build_id": "TKQ1.250521.779",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 959,
@@ -11601,7 +11601,7 @@
     "manufacturer": "Lenovo",
     "serial": "FJ8I4BMC62BXQR8W",
     "build_id": "QKQ1.240706.624",
-    "chipset": "SM8953"
+    "chipset": "MSM8953"
   },
   {
     "id": 968,
@@ -11673,7 +11673,7 @@
     "manufacturer": "Lenovo",
     "serial": "JANTT0LB2QE0N5QF",
     "build_id": "SKQ1.240204.582",
-    "chipset": "SM8909"
+    "chipset": "MSM8909"
   },
   {
     "id": 974,
@@ -11685,7 +11685,7 @@
     "manufacturer": "Lenovo",
     "serial": "OJI6UZ7ZY2DPYEMX",
     "build_id": "QKQ1.260101.427",
-    "chipset": "SM8909"
+    "chipset": "MSM8909"
   },
   {
     "id": 975,
@@ -11697,7 +11697,7 @@
     "manufacturer": "Lenovo",
     "serial": "FZI4N8OFYA3OFUJX",
     "build_id": "TKQ1.240417.758",
-    "chipset": "SM8909"
+    "chipset": "MSM8909"
   },
   {
     "id": 976,
@@ -11709,7 +11709,7 @@
     "manufacturer": "LeTV",
     "serial": "MC1LVQWQ90GZIGNV",
     "build_id": "SKQ1.251106.229",
-    "chipset": "SM8994"
+    "chipset": "MSM8994"
   },
   {
     "id": 977,
@@ -12033,7 +12033,7 @@
     "manufacturer": "OnePlus",
     "serial": "EJLA82D67DIPRFDS",
     "build_id": "RKQ1.251122.325",
-    "chipset": "SM8350"
+    "chipset": "SM8250"
   },
   {
     "id": 1004,
@@ -12345,7 +12345,7 @@
     "manufacturer": "OnePlus",
     "serial": "C7HJE2JSNPRTOL8E",
     "build_id": "NKQ1.240221.829",
-    "chipset": "SM6375"
+    "chipset": "SM4250"
   },
   {
     "id": 1030,
@@ -12465,7 +12465,7 @@
     "manufacturer": "OnePlus",
     "serial": "AAGZOKLWV52RNC31",
     "build_id": "RKQ1.250513.300",
-    "chipset": "SM8998"
+    "chipset": "MSM8998"
   },
   {
     "id": 1040,
@@ -12477,7 +12477,7 @@
     "manufacturer": "OnePlus",
     "serial": "H2Y3ZMK0Z2J28HA6",
     "build_id": "PKQ1.240712.045",
-    "chipset": "SM8998"
+    "chipset": "MSM8998"
   },
   {
     "id": 1041,
@@ -12645,7 +12645,7 @@
     "manufacturer": "Oppo",
     "serial": "UMILLG3SGIQ0KR2O",
     "build_id": "RKQ1.251204.114",
-    "chipset": "SM4250"
+    "chipset": "MT6853V"
   },
   {
     "id": 1055,
@@ -12933,7 +12933,7 @@
     "manufacturer": "Oppo",
     "serial": "CNDU69B8OE5GPPBZ",
     "build_id": "SKQ1.250608.888",
-    "chipset": "MT6835"
+    "chipset": "MSM8909W"
   },
   {
     "id": 1079,
@@ -13161,7 +13161,7 @@
     "manufacturer": "Oppo",
     "serial": "J1YV02H7N3DECI0X",
     "build_id": "QKQ1.251126.356",
-    "chipset": "SM6450"
+    "chipset": "MT6779V"
   },
   {
     "id": 1098,
@@ -13365,7 +13365,7 @@
     "manufacturer": "Panasonic",
     "serial": "6WK3498YVIVB4OXD",
     "build_id": "RKQ1.260129.032",
-    "chipset": "SM8937"
+    "chipset": "MSM8937"
   },
   {
     "id": 1115,
@@ -13449,7 +13449,7 @@
     "manufacturer": "Panasonic",
     "serial": "0DKAI5W5XAX7WR72",
     "build_id": "RKQ1.240829.753",
-    "chipset": "SM8909"
+    "chipset": "MSM8909"
   },
   {
     "id": 1122,
@@ -13473,7 +13473,7 @@
     "manufacturer": "Panasonic",
     "serial": "AOC6DM63FF1ZQ5BB",
     "build_id": "RKQ1.241201.865",
-    "chipset": "SM8909"
+    "chipset": "MSM8909"
   },
   {
     "id": 1124,
@@ -13509,7 +13509,7 @@
     "manufacturer": "Panasonic",
     "serial": "BE8A8A891CZ31B21",
     "build_id": "QKQ1.251025.069",
-    "chipset": "SM8909"
+    "chipset": "MSM8909"
   },
   {
     "id": 1127,
@@ -13521,7 +13521,7 @@
     "manufacturer": "Philips",
     "serial": "X3HC73XVD8HAMJ4T",
     "build_id": "SKQ1.240805.570",
-    "chipset": "SM8225"
+    "chipset": "MSM8225"
   },
   {
     "id": 1128,
@@ -13953,7 +13953,7 @@
     "manufacturer": "Xiaomi",
     "serial": "VJFXCL88K34IQFDN",
     "build_id": "QKQ1.250826.773",
-    "chipset": "SM6375"
+    "chipset": "SM7325"
   },
   {
     "id": 1164,
@@ -13965,7 +13965,7 @@
     "manufacturer": "Xiaomi",
     "serial": "P48RX0VEE0UQ1I5P",
     "build_id": "SKQ1.240413.169",
-    "chipset": "SM6375"
+    "chipset": "MT6896Z"
   },
   {
     "id": 1165,
@@ -14145,7 +14145,7 @@
     "manufacturer": "Razer",
     "serial": "BPQE76ABB8O8DKM6",
     "build_id": "SKQ1.251205.841",
-    "chipset": "SM8998"
+    "chipset": "MSM8998"
   },
   {
     "id": 1180,
@@ -14361,7 +14361,7 @@
     "manufacturer": "Realme",
     "serial": "G55K9ZDOB9E36QID",
     "build_id": "RKQ1.241113.300",
-    "chipset": "SM7435"
+    "chipset": "SDM660"
   },
   {
     "id": 1198,
@@ -14421,7 +14421,7 @@
     "manufacturer": "Realme",
     "serial": "LHXGB9JT0NRI78M7",
     "build_id": "QKQ1.250428.891",
-    "chipset": "SM8750"
+    "chipset": "SM7125"
   },
   {
     "id": 1203,
@@ -14589,7 +14589,7 @@
     "manufacturer": "Realme",
     "serial": "1WH7XIJI5NJRBT8P",
     "build_id": "RMX.250805.012",
-    "chipset": "MT6789"
+    "chipset": "MT6765G"
   },
   {
     "id": 1217,
@@ -14733,7 +14733,7 @@
     "manufacturer": "Realme",
     "serial": "97O9BG7Z68N4M6PR",
     "build_id": "RMX.250123.379",
-    "chipset": "SM8845"
+    "chipset": "SM8250"
   },
   {
     "id": 1229,
@@ -14745,7 +14745,7 @@
     "manufacturer": "Realme",
     "serial": "BU6391MZOJ6X87X3",
     "build_id": "SKQ1.240703.470",
-    "chipset": "SM8845"
+    "chipset": "MT6895Z"
   },
   {
     "id": 1230,
@@ -14757,7 +14757,7 @@
     "manufacturer": "Realme",
     "serial": "F6GPGI5G3FF924XO",
     "build_id": "QKQ1.250331.187",
-    "chipset": "SM8845"
+    "chipset": "SM7475"
   },
   {
     "id": 1231,
@@ -14769,7 +14769,7 @@
     "manufacturer": "Realme",
     "serial": "Q0KCHID67FWWUP5G",
     "build_id": "QKQ1.251007.928",
-    "chipset": "SM8845"
+    "chipset": "SM8250"
   },
   {
     "id": 1232,
@@ -14913,7 +14913,7 @@
     "manufacturer": "Realme",
     "serial": "SZR18RGN4DZ7ZDR9",
     "build_id": "RMX.251215.751",
-    "chipset": "MT6785V"
+    "chipset": "SDM712"
   },
   {
     "id": 1244,
@@ -14961,7 +14961,7 @@
     "manufacturer": "Realme",
     "serial": "7DNN071NVEH65B3S",
     "build_id": "RKQ1.250501.136",
-    "chipset": "MT6769H"
+    "chipset": "MT6853V"
   },
   {
     "id": 1248,
@@ -14985,7 +14985,7 @@
     "manufacturer": "Realme",
     "serial": "OIXMDA0XR0K7LF45",
     "build_id": "RMX.240122.905",
-    "chipset": "MT6769H"
+    "chipset": "SM7250"
   },
   {
     "id": 1250,
@@ -15021,7 +15021,7 @@
     "manufacturer": "Realme",
     "serial": "ZJNOE669ZRKX9UJG",
     "build_id": "RKQ1.240717.657",
-    "chipset": "MT6769H"
+    "chipset": "SM7250"
   },
   {
     "id": 1253,
@@ -15057,7 +15057,7 @@
     "manufacturer": "Realme",
     "serial": "TILG8YMGXFMJY6Y1",
     "build_id": "RKQ1.240610.986",
-    "chipset": "SM8750"
+    "chipset": "MT6889Z"
   },
   {
     "id": 1256,
@@ -15069,7 +15069,7 @@
     "manufacturer": "Realme",
     "serial": "E02TTDICH9Q7LNL3",
     "build_id": "QKQ1.240916.863",
-    "chipset": "SM8845"
+    "chipset": "SM8475"
   },
   {
     "id": 1257,
@@ -15081,7 +15081,7 @@
     "manufacturer": "Realme",
     "serial": "U360E86VJXRYWPKF",
     "build_id": "SKQ1.240326.594",
-    "chipset": "SM8845"
+    "chipset": "SM8475"
   },
   {
     "id": 1258,
@@ -15117,7 +15117,7 @@
     "manufacturer": "Xiaomi",
     "serial": "5NOPU0SGCTEUORIX",
     "build_id": "SKQ1.241006.334",
-    "chipset": "SM4450"
+    "chipset": "MT6833"
   },
   {
     "id": 1261,
@@ -15129,7 +15129,7 @@
     "manufacturer": "Xiaomi",
     "serial": "OHFG43LU066VI0QP",
     "build_id": "SKQ1.250213.652",
-    "chipset": "MT6769H"
+    "chipset": "MT6762G"
   },
   {
     "id": 1262,
@@ -15153,7 +15153,7 @@
     "manufacturer": "Xiaomi",
     "serial": "UL1IIPC5EBEOE6UU",
     "build_id": "TKQ1.240512.668",
-    "chipset": "MT6769H"
+    "chipset": "MT6873"
   },
   {
     "id": 1264,
@@ -15165,7 +15165,7 @@
     "manufacturer": "Xiaomi",
     "serial": "H5RNDVAJRH9JSXAM",
     "build_id": "RKQ1.251102.286",
-    "chipset": "SM6225"
+    "chipset": "MT6769H"
   },
   {
     "id": 1265,
@@ -15177,7 +15177,7 @@
     "manufacturer": "Xiaomi",
     "serial": "AP05J5J5XOS1KISG",
     "build_id": "RKQ1.241019.791",
-    "chipset": "SM7150"
+    "chipset": "MT6873"
   },
   {
     "id": 1266,
@@ -15189,7 +15189,7 @@
     "manufacturer": "Xiaomi",
     "serial": "7YD98G6BD2FMXLAQ",
     "build_id": "QKQ1.240323.254",
-    "chipset": "SM6375"
+    "chipset": "MT6833"
   },
   {
     "id": 1267,
@@ -15333,7 +15333,7 @@
     "manufacturer": "Xiaomi",
     "serial": "JBZA79OEX8L8TG22",
     "build_id": "SKQ1.250208.059",
-    "chipset": "MT6769V"
+    "chipset": "MT6765G"
   },
   {
     "id": 1279,
@@ -15393,7 +15393,7 @@
     "manufacturer": "Xiaomi",
     "serial": "B64MAYHB4DZBJEH5",
     "build_id": "RKQ1.241027.804",
-    "chipset": "SM8750"
+    "chipset": "SM7150"
   },
   {
     "id": 1284,
@@ -15405,7 +15405,7 @@
     "manufacturer": "Xiaomi",
     "serial": "JQ0ROSYJYNM1KM47",
     "build_id": "RKQ1.250608.061",
-    "chipset": "SM8850"
+    "chipset": "SM8150"
   },
   {
     "id": 1285,
@@ -15417,7 +15417,7 @@
     "manufacturer": "Xiaomi",
     "serial": "O6F4CWR0E1JL5VMC",
     "build_id": "RKQ1.241007.136",
-    "chipset": "SM8750"
+    "chipset": "SM7150"
   },
   {
     "id": 1286,
@@ -15429,7 +15429,7 @@
     "manufacturer": "Xiaomi",
     "serial": "WZEBORNXLYIQOH7B",
     "build_id": "QKQ1.240918.768",
-    "chipset": "SM8750"
+    "chipset": "SM8250"
   },
   {
     "id": 1287,
@@ -15441,7 +15441,7 @@
     "manufacturer": "Xiaomi",
     "serial": "PMIBBFR83URKERR2",
     "build_id": "QKQ1.251209.637",
-    "chipset": "SM8850"
+    "chipset": "SM8350"
   },
   {
     "id": 1288,
@@ -15453,7 +15453,7 @@
     "manufacturer": "Xiaomi",
     "serial": "MOWQ379HUMQYDF8W",
     "build_id": "QKQ1.240414.067",
-    "chipset": "SM8750"
+    "chipset": "SM8250"
   },
   {
     "id": 1289,
@@ -15465,7 +15465,7 @@
     "manufacturer": "Xiaomi",
     "serial": "6XLQ1IBZMKBAU5QD",
     "build_id": "SKQ1.240807.828",
-    "chipset": "SM8750"
+    "chipset": "MT6895Z"
   },
   {
     "id": 1290,
@@ -15477,7 +15477,7 @@
     "manufacturer": "Xiaomi",
     "serial": "C2WQVYIT5N9Y7A5G",
     "build_id": "QKQ1.250520.762",
-    "chipset": "SM8850"
+    "chipset": "MT6983"
   },
   {
     "id": 1291,
@@ -15489,7 +15489,7 @@
     "manufacturer": "Xiaomi",
     "serial": "JRBJ4KZUDUAF2OOZ",
     "build_id": "SKQ1.241214.369",
-    "chipset": "SM8750"
+    "chipset": "SM8450"
   },
   {
     "id": 1292,
@@ -15501,7 +15501,7 @@
     "manufacturer": "Xiaomi",
     "serial": "PKN743KWLIQ4LKCI",
     "build_id": "PKQ1.250904.796",
-    "chipset": "SM8750"
+    "chipset": "MT6895Z"
   },
   {
     "id": 1293,
@@ -15513,7 +15513,7 @@
     "manufacturer": "Xiaomi",
     "serial": "HK2C660G6VLMVRTC",
     "build_id": "RKQ1.241120.399",
-    "chipset": "SM8750"
+    "chipset": "SM8475"
   },
   {
     "id": 1294,
@@ -15525,7 +15525,7 @@
     "manufacturer": "Xiaomi",
     "serial": "GP95UALKSIKY8HO6",
     "build_id": "SKQ1.251108.163",
-    "chipset": "SM8850"
+    "chipset": "SM8550"
   },
   {
     "id": 1295,
@@ -15537,7 +15537,7 @@
     "manufacturer": "Xiaomi",
     "serial": "BAP5DHTZS1XM82HK",
     "build_id": "QKQ1.241126.218",
-    "chipset": "SM8750"
+    "chipset": "MT6896Z"
   },
   {
     "id": 1296,
@@ -15549,7 +15549,7 @@
     "manufacturer": "Xiaomi",
     "serial": "A42GLT0CMLEJPDQT",
     "build_id": "TKQ1.250727.614",
-    "chipset": "SM8750"
+    "chipset": "SM8550"
   },
   {
     "id": 1297,
@@ -15561,7 +15561,7 @@
     "manufacturer": "Xiaomi",
     "serial": "HZDO488NKP3ADH7U",
     "build_id": "QKQ1.250912.376",
-    "chipset": "SM8750"
+    "chipset": "MT6896Z"
   },
   {
     "id": 1298,
@@ -15585,7 +15585,7 @@
     "manufacturer": "Xiaomi",
     "serial": "SUV075YGLZ0O41A7",
     "build_id": "RKQ1.240221.349",
-    "chipset": "SM8850"
+    "chipset": "SM8750"
   },
   {
     "id": 1300,
@@ -15621,7 +15621,7 @@
     "manufacturer": "Xiaomi",
     "serial": "2BLWW6XBEIS3TXL6",
     "build_id": "RKQ1.240602.904",
-    "chipset": "SM7150"
+    "chipset": "MT6891Z"
   },
   {
     "id": 1303,
@@ -15669,7 +15669,7 @@
     "manufacturer": "Xiaomi",
     "serial": "6FS90TV8UMW07CBN",
     "build_id": "SKQ1.240402.779",
-    "chipset": "MT6781"
+    "chipset": "MT6877T"
   },
   {
     "id": 1307,
@@ -15693,7 +15693,7 @@
     "manufacturer": "Xiaomi",
     "serial": "XTDKBNHMB8ZYBYBB",
     "build_id": "TKQ1.240731.842",
-    "chipset": "MT6781"
+    "chipset": "MT6877T"
   },
   {
     "id": 1309,
@@ -15729,7 +15729,7 @@
     "manufacturer": "Xiaomi",
     "serial": "FVBNG2PCDJQNZPJO",
     "build_id": "QKQ1.250622.287",
-    "chipset": "SM6225"
+    "chipset": "MT6833"
   },
   {
     "id": 1312,
@@ -15741,7 +15741,7 @@
     "manufacturer": "Xiaomi",
     "serial": "9Q8PAQS6IZ7FHB85",
     "build_id": "RKQ1.241104.661",
-    "chipset": "MT6781"
+    "chipset": "SM6375"
   },
   {
     "id": 1313,
@@ -15753,7 +15753,7 @@
     "manufacturer": "Xiaomi",
     "serial": "VM15WY9HT5Z21HQP",
     "build_id": "TKQ1.250515.675",
-    "chipset": "SM6225"
+    "chipset": "MT6781"
   },
   {
     "id": 1314,
@@ -15765,7 +15765,7 @@
     "manufacturer": "Xiaomi",
     "serial": "1OKRIXHFA4ZQ2LI2",
     "build_id": "PKQ1.251214.970",
-    "chipset": "MT6781"
+    "chipset": "MT6895Z"
   },
   {
     "id": 1315,
@@ -15777,7 +15777,7 @@
     "manufacturer": "Xiaomi",
     "serial": "JVDQREPGPCPYB37P",
     "build_id": "RKQ1.240927.570",
-    "chipset": "MT6781"
+    "chipset": "MT6895Z"
   },
   {
     "id": 1316,
@@ -15789,7 +15789,7 @@
     "manufacturer": "Xiaomi",
     "serial": "8UHBJKVHLX6AH1IV",
     "build_id": "PKQ1.241003.683",
-    "chipset": "SM4375"
+    "chipset": "SM6225"
   },
   {
     "id": 1317,
@@ -15801,7 +15801,7 @@
     "manufacturer": "Xiaomi",
     "serial": "Y60VJ1QLMIQGI3N3",
     "build_id": "RKQ1.250728.369",
-    "chipset": "SM4375"
+    "chipset": "MT6781"
   },
   {
     "id": 1318,
@@ -15825,7 +15825,7 @@
     "manufacturer": "Xiaomi",
     "serial": "94W96C6DDSL12UH7",
     "build_id": "RKQ1.250710.401",
-    "chipset": "SM7435"
+    "chipset": "MT6886"
   },
   {
     "id": 1320,
@@ -15837,7 +15837,7 @@
     "manufacturer": "Xiaomi",
     "serial": "4WMHMCN1CKCMM2U9",
     "build_id": "QKQ1.240529.822",
-    "chipset": "SM7435"
+    "chipset": "MT6833"
   },
   {
     "id": 1321,
@@ -15945,7 +15945,7 @@
     "manufacturer": "samsung",
     "serial": "RF8M40783556609",
     "build_id": "PPR1.241003.553",
-    "chipset": "S5E8535"
+    "chipset": "SDM439"
   },
   {
     "id": 1330,
@@ -15957,7 +15957,7 @@
     "manufacturer": "samsung",
     "serial": "RF8Q71761866000",
     "build_id": "SP1A.240424.173",
-    "chipset": "MT6835"
+    "chipset": "MT6739W"
   },
   {
     "id": 1331,
@@ -15969,7 +15969,7 @@
     "manufacturer": "samsung",
     "serial": "RF8S31627551805",
     "build_id": "TP1A.251012.148",
-    "chipset": "SM6225"
+    "chipset": "SDM450"
   },
   {
     "id": 1332,
@@ -16149,7 +16149,7 @@
     "manufacturer": "samsung",
     "serial": "RF8K00376824074",
     "build_id": "PPR1.251010.778",
-    "chipset": "SM6225"
+    "chipset": "SDM450"
   },
   {
     "id": 1347,
@@ -16161,7 +16161,7 @@
     "manufacturer": "samsung",
     "serial": "RF8B13870751528",
     "build_id": "RP1A.251106.162",
-    "chipset": "S5E8535"
+    "chipset": "MT6765"
   },
   {
     "id": 1348,
@@ -16197,7 +16197,7 @@
     "manufacturer": "samsung",
     "serial": "RF8L37489119371",
     "build_id": "PPR1.240711.611",
-    "chipset": "SM8450"
+    "chipset": "MT6833"
   },
   {
     "id": 1351,
@@ -16281,7 +16281,7 @@
     "manufacturer": "samsung",
     "serial": "RF8S69419631916",
     "build_id": "TP1A.250510.735",
-    "chipset": "SM6475"
+    "chipset": "MSM8916"
   },
   {
     "id": 1358,
@@ -16305,7 +16305,7 @@
     "manufacturer": "samsung",
     "serial": "RF8S72442214190",
     "build_id": "QP1A.250226.946",
-    "chipset": "SM6475"
+    "chipset": "MSM8916"
   },
   {
     "id": 1360,
@@ -16353,7 +16353,7 @@
     "manufacturer": "samsung",
     "serial": "RF8E42290271929",
     "build_id": "UP1A.240206.041",
-    "chipset": "S5E8535"
+    "chipset": "MT6768"
   },
   {
     "id": 1364,
@@ -16377,7 +16377,7 @@
     "manufacturer": "samsung",
     "serial": "RF8Q94219059177",
     "build_id": "UP1A.250121.990",
-    "chipset": "S5E8825"
+    "chipset": "MT6853"
   },
   {
     "id": 1366,
@@ -16461,7 +16461,7 @@
     "manufacturer": "samsung",
     "serial": "RF8C84457013645",
     "build_id": "SP1A.240606.843",
-    "chipset": "S5E8535"
+    "chipset": "MT6768"
   },
   {
     "id": 1373,
@@ -16473,7 +16473,7 @@
     "manufacturer": "samsung",
     "serial": "RF8R17512214228",
     "build_id": "TP1A.250922.697",
-    "chipset": "SM8450"
+    "chipset": "SM7225"
   },
   {
     "id": 1374,
@@ -16485,7 +16485,7 @@
     "manufacturer": "samsung",
     "serial": "RF8L25286985389",
     "build_id": "TP1A.240502.954",
-    "chipset": "S5E8855"
+    "chipset": "MSM8916"
   },
   {
     "id": 1375,
@@ -16497,7 +16497,7 @@
     "manufacturer": "samsung",
     "serial": "RF8X33014616105",
     "build_id": "TP1A.250901.915",
-    "chipset": "S5E8855"
+    "chipset": "MSM8939"
   },
   {
     "id": 1376,
@@ -16509,7 +16509,7 @@
     "manufacturer": "samsung",
     "serial": "RF8V93187613980",
     "build_id": "QP1A.250512.515",
-    "chipset": "S5E8855"
+    "chipset": "MSM8939"
   },
   {
     "id": 1377,
@@ -16605,7 +16605,7 @@
     "manufacturer": "samsung",
     "serial": "RF8Q40822260053",
     "build_id": "TP1A.240427.819",
-    "chipset": "MT6835"
+    "chipset": "SDM730"
   },
   {
     "id": 1385,
@@ -16617,7 +16617,7 @@
     "manufacturer": "samsung",
     "serial": "RF8S53298009702",
     "build_id": "PPR1.251223.574",
-    "chipset": "SM6225"
+    "chipset": "SDM710"
   },
   {
     "id": 1386,
@@ -16629,7 +16629,7 @@
     "manufacturer": "samsung",
     "serial": "RF8F37476948570",
     "build_id": "UP1A.250504.370",
-    "chipset": "S5E8835"
+    "chipset": "MSM8976"
   },
   {
     "id": 1387,
@@ -16641,7 +16641,7 @@
     "manufacturer": "samsung",
     "serial": "RF8R84625581301",
     "build_id": "QP1A.251217.857",
-    "chipset": "MT6835"
+    "chipset": "SM8150"
   },
   {
     "id": 1388,
@@ -16773,7 +16773,7 @@
     "manufacturer": "samsung",
     "serial": "RF8X21482787143",
     "build_id": "RP1A.241116.065",
-    "chipset": "SM8450"
+    "chipset": "SM7225"
   },
   {
     "id": 1399,
@@ -16809,7 +16809,7 @@
     "manufacturer": "samsung",
     "serial": "RF8X49010842287",
     "build_id": "UP1A.251210.954",
-    "chipset": "SM8450"
+    "chipset": "MT6833"
   },
   {
     "id": 1402,
@@ -16821,7 +16821,7 @@
     "manufacturer": "samsung",
     "serial": "RF8A23764690653",
     "build_id": "PPR1.250908.352",
-    "chipset": "SM8450"
+    "chipset": "SM7225"
   },
   {
     "id": 1403,
@@ -16881,7 +16881,7 @@
     "manufacturer": "samsung",
     "serial": "RF8U12475870824",
     "build_id": "PPR1.241129.519",
-    "chipset": "SM8750"
+    "chipset": "SM8150"
   },
   {
     "id": 1408,
@@ -16893,7 +16893,7 @@
     "manufacturer": "samsung",
     "serial": "RF8P00949319587",
     "build_id": "UP1A.240502.292",
-    "chipset": "SM8750"
+    "chipset": "SM8150"
   },
   {
     "id": 1409,
@@ -16917,7 +16917,7 @@
     "manufacturer": "samsung",
     "serial": "RF8O66977150403",
     "build_id": "UP1A.250719.977",
-    "chipset": "S5E8535"
+    "chipset": "SDM439"
   },
   {
     "id": 1411,
@@ -16929,7 +16929,7 @@
     "manufacturer": "samsung",
     "serial": "RF8Y22622363617",
     "build_id": "RP1A.241212.010",
-    "chipset": "S5E8535"
+    "chipset": "MT6762"
   },
   {
     "id": 1412,
@@ -16989,7 +16989,7 @@
     "manufacturer": "samsung",
     "serial": "RF8O13134417361",
     "build_id": "RP1A.240708.936",
-    "chipset": "S5E8535"
+    "chipset": "SDM450"
   },
   {
     "id": 1417,
@@ -17097,7 +17097,7 @@
     "manufacturer": "samsung",
     "serial": "RF8E67639403147",
     "build_id": "PPR1.240510.097",
-    "chipset": "SM8450"
+    "chipset": "SM7225"
   },
   {
     "id": 1426,
@@ -17145,7 +17145,7 @@
     "manufacturer": "samsung",
     "serial": "RF8T35325507364",
     "build_id": "SP1A.240418.177",
-    "chipset": "SM8450"
+    "chipset": "MT6853"
   },
   {
     "id": 1430,
@@ -17205,7 +17205,7 @@
     "manufacturer": "samsung",
     "serial": "RF8N42574464410",
     "build_id": "QP1A.250821.860",
-    "chipset": "SM8450"
+    "chipset": "SM7225"
   },
   {
     "id": 1435,
@@ -17217,7 +17217,7 @@
     "manufacturer": "samsung",
     "serial": "RF8W97545398219",
     "build_id": "PPR1.250127.618",
-    "chipset": "S5E8535"
+    "chipset": "SDM730"
   },
   {
     "id": 1436,
@@ -17229,7 +17229,7 @@
     "manufacturer": "samsung",
     "serial": "RF8B19297113411",
     "build_id": "UP1A.250802.581",
-    "chipset": "SM8450"
+    "chipset": "SM7325"
   },
   {
     "id": 1437,
@@ -17277,7 +17277,7 @@
     "manufacturer": "samsung",
     "serial": "RF8Z06618793447",
     "build_id": "UP1A.240714.125",
-    "chipset": "SM8450"
+    "chipset": "SM7450"
   },
   {
     "id": 1441,
@@ -17349,7 +17349,7 @@
     "manufacturer": "samsung",
     "serial": "RF8F78935044953",
     "build_id": "TP1A.250722.440",
-    "chipset": "SM8750"
+    "chipset": "APQ8084"
   },
   {
     "id": 1447,
@@ -17457,7 +17457,7 @@
     "manufacturer": "samsung",
     "serial": "RF8G04278324379",
     "build_id": "QP1A.251217.321",
-    "chipset": "SM8150"
+    "chipset": "SM8250"
   },
   {
     "id": 1456,
@@ -17553,7 +17553,7 @@
     "manufacturer": "samsung",
     "serial": "RF8X66881323802",
     "build_id": "TP1A.250328.818",
-    "chipset": "SM8150"
+    "chipset": "MSM8998"
   },
   {
     "id": 1464,
@@ -17565,7 +17565,7 @@
     "manufacturer": "samsung",
     "serial": "RF8R62659896963",
     "build_id": "TP1A.250109.891",
-    "chipset": "SM8150"
+    "chipset": "SDM845"
   },
   {
     "id": 1465,
@@ -17613,7 +17613,7 @@
     "manufacturer": "samsung",
     "serial": "RF8A28275689983",
     "build_id": "QP1A.250812.079",
-    "chipset": "SM8350"
+    "chipset": "SM8150"
   },
   {
     "id": 1469,
@@ -17733,7 +17733,7 @@
     "manufacturer": "samsung",
     "serial": "RF8C23590206886",
     "build_id": "QP1A.250204.807",
-    "chipset": "SM8450"
+    "chipset": "SM8250"
   },
   {
     "id": 1479,
@@ -18021,7 +18021,7 @@
     "manufacturer": "samsung",
     "serial": "RF8V89265381833",
     "build_id": "TP1A.240526.627",
-    "chipset": "SM8750"
+    "chipset": "MSM8974AC"
   },
   {
     "id": 1503,
@@ -18081,7 +18081,7 @@
     "manufacturer": "samsung",
     "serial": "RF8K54066910854",
     "build_id": "TP1A.240726.293",
-    "chipset": "SM8750"
+    "chipset": "MSM8996"
   },
   {
     "id": 1508,
@@ -18213,7 +18213,7 @@
     "manufacturer": "samsung",
     "serial": "RF8X82239033879",
     "build_id": "TP1A.250115.199",
-    "chipset": "MT8775"
+    "chipset": "SDM450"
   },
   {
     "id": 1519,
@@ -18225,7 +18225,7 @@
     "manufacturer": "samsung",
     "serial": "RF8U94753875021",
     "build_id": "PPR1.250914.943",
-    "chipset": "MT8775"
+    "chipset": "SDM450"
   },
   {
     "id": 1520,
@@ -18273,7 +18273,7 @@
     "manufacturer": "samsung",
     "serial": "RF8U13402884649",
     "build_id": "TP1A.241119.929",
-    "chipset": "SM6375"
+    "chipset": "SDM429"
   },
   {
     "id": 1524,
@@ -18525,7 +18525,7 @@
     "manufacturer": "samsung",
     "serial": "RF8F31544768136",
     "build_id": "SP1A.250218.954",
-    "chipset": "SM6375"
+    "chipset": "MSM8916"
   },
   {
     "id": 1545,
@@ -18693,7 +18693,7 @@
     "manufacturer": "samsung",
     "serial": "RF8C34399700875",
     "build_id": "QP1A.240120.646",
-    "chipset": "S5E8855"
+    "chipset": "MSM8976"
   },
   {
     "id": 1559,
@@ -18705,7 +18705,7 @@
     "manufacturer": "samsung",
     "serial": "RF8D34887780856",
     "build_id": "UP1A.251007.673",
-    "chipset": "SM6375"
+    "chipset": "MSM8976"
   },
   {
     "id": 1560,
@@ -18717,7 +18717,7 @@
     "manufacturer": "samsung",
     "serial": "RF8O71558632188",
     "build_id": "QP1A.240513.539",
-    "chipset": "S5E8535"
+    "chipset": "SM8150"
   },
   {
     "id": 1561,
@@ -19137,7 +19137,7 @@
     "manufacturer": "samsung",
     "serial": "RF8P77192348407",
     "build_id": "TP1A.250730.604",
-    "chipset": "S5E9955"
+    "chipset": "SM8150"
   },
   {
     "id": 1596,
@@ -19149,7 +19149,7 @@
     "manufacturer": "samsung",
     "serial": "RF8U97676462032",
     "build_id": "TP1A.250829.282",
-    "chipset": "S5E9955"
+    "chipset": "SM8250"
   },
   {
     "id": 1597,
@@ -19233,7 +19233,7 @@
     "manufacturer": "samsung",
     "serial": "RF8R16494835168",
     "build_id": "PPR1.250124.260",
-    "chipset": "SM8750"
+    "chipset": "SM8250"
   },
   {
     "id": 1604,
@@ -19329,7 +19329,7 @@
     "manufacturer": "Sharp",
     "serial": "INY5OJCMPY12UDZG",
     "build_id": "QKQ1.240715.097",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 1612,
@@ -19341,7 +19341,7 @@
     "manufacturer": "Sharp",
     "serial": "GU6NPGL20E8YARKT",
     "build_id": "QKQ1.250118.998",
-    "chipset": "SM8926"
+    "chipset": "MSM8926"
   },
   {
     "id": 1613,
@@ -19881,7 +19881,7 @@
     "manufacturer": "Sharp",
     "serial": "E9RQHWBAS0B48Q5Z",
     "build_id": "QKQ1.241025.402",
-    "chipset": "SM8998"
+    "chipset": "MSM8998"
   },
   {
     "id": 1658,
@@ -19977,7 +19977,7 @@
     "manufacturer": "Sharp",
     "serial": "BGBFHJMQRH2MVRT4",
     "build_id": "QKQ1.250113.138",
-    "chipset": "SM8994"
+    "chipset": "MSM8994"
   },
   {
     "id": 1666,
@@ -19989,7 +19989,7 @@
     "manufacturer": "Sharp",
     "serial": "5SLJ6GED6ZSYGEXE",
     "build_id": "QKQ1.250605.184",
-    "chipset": "SM8994"
+    "chipset": "MSM8994"
   },
   {
     "id": 1667,
@@ -20001,7 +20001,7 @@
     "manufacturer": "Sharp",
     "serial": "8G9ZRZ8URN1EHZOL",
     "build_id": "RKQ1.250602.032",
-    "chipset": "SM8994"
+    "chipset": "MSM8994"
   },
   {
     "id": 1668,
@@ -20157,7 +20157,7 @@
     "manufacturer": "Sharp",
     "serial": "NJNWNICYBWDO3RO0",
     "build_id": "RKQ1.240504.770",
-    "chipset": "SM8998"
+    "chipset": "MSM8998"
   },
   {
     "id": 1681,
@@ -20241,7 +20241,7 @@
     "manufacturer": "Sharp",
     "serial": "KVBZ33ZI1FT6ZTBD",
     "build_id": "PKQ1.240214.285",
-    "chipset": "SM8998"
+    "chipset": "MSM8998"
   },
   {
     "id": 1688,
@@ -20253,7 +20253,7 @@
     "manufacturer": "Sony",
     "serial": "RK7UI7U7K5GB76DP",
     "build_id": "61.2.250306.975",
-    "chipset": "SM8255"
+    "chipset": "MSM8255"
   },
   {
     "id": 1689,
@@ -20433,7 +20433,7 @@
     "manufacturer": "Sony",
     "serial": "R02KIOE2P1OC1VXQ",
     "build_id": "61.2.251004.786",
-    "chipset": "SM8250"
+    "chipset": "MSM8260"
   },
   {
     "id": 1704,
@@ -20445,7 +20445,7 @@
     "manufacturer": "Sony",
     "serial": "71CXKBIVRVA3BJBI",
     "build_id": "RKQ1.240531.323",
-    "chipset": "SM8450"
+    "chipset": "MSM8255"
   },
   {
     "id": 1705,
@@ -20457,7 +20457,7 @@
     "manufacturer": "Sony",
     "serial": "I3XMOA7U9WED02TH",
     "build_id": "62.1.251002.728",
-    "chipset": "SM8260"
+    "chipset": "MSM8255T"
   },
   {
     "id": 1706,
@@ -20469,7 +20469,7 @@
     "manufacturer": "Sony",
     "serial": "UNL6VZ38MCGXB310",
     "build_id": "SKQ1.241128.225",
-    "chipset": "SM8150"
+    "chipset": "MT6589"
   },
   {
     "id": 1707,
@@ -20481,7 +20481,7 @@
     "manufacturer": "Sony",
     "serial": "ZQVNXNI9ILUXJIZ8",
     "build_id": "SKQ1.250125.526",
-    "chipset": "SM8974AC"
+    "chipset": "MSM8926"
   },
   {
     "id": 1708,
@@ -20493,7 +20493,7 @@
     "manufacturer": "Sony",
     "serial": "Q91D44E1WCTGG3T1",
     "build_id": "QKQ1.240120.344",
-    "chipset": "SM8274"
+    "chipset": "MSM8926"
   },
   {
     "id": 1709,
@@ -20505,7 +20505,7 @@
     "manufacturer": "Sony",
     "serial": "5C6SZ2YRI3KBSP37",
     "build_id": "SKQ1.250722.334",
-    "chipset": "SM8274"
+    "chipset": "MT6752"
   },
   {
     "id": 1710,
@@ -20517,7 +20517,7 @@
     "manufacturer": "Sony",
     "serial": "DWW0VQX2ORM00BYI",
     "build_id": "SKQ1.241121.491",
-    "chipset": "SM8274"
+    "chipset": "MT6752"
   },
   {
     "id": 1711,
@@ -20529,7 +20529,7 @@
     "manufacturer": "Sony",
     "serial": "R7OD44JVQBK5RNF1",
     "build_id": "62.1.240218.988",
-    "chipset": "SM8150"
+    "chipset": "MSM7227A"
   },
   {
     "id": 1712,
@@ -20541,7 +20541,7 @@
     "manufacturer": "Sony",
     "serial": "NW80JQUDGTVGJ44X",
     "build_id": "RKQ1.240923.479",
-    "chipset": "SM8274"
+    "chipset": "MSM7227A"
   },
   {
     "id": 1713,
@@ -20553,7 +20553,7 @@
     "manufacturer": "Sony",
     "serial": "M1RR2HQTWFONHRH1",
     "build_id": "62.1.240809.551",
-    "chipset": "SM8150"
+    "chipset": "MSM8210"
   },
   {
     "id": 1714,
@@ -20565,7 +20565,7 @@
     "manufacturer": "Sony",
     "serial": "OQUYN7AGPCBXWR8G",
     "build_id": "62.1.250412.460",
-    "chipset": "MT6757"
+    "chipset": "MSM8210"
   },
   {
     "id": 1715,
@@ -20577,7 +20577,7 @@
     "manufacturer": "Sony",
     "serial": "9Q3LJZ72UN3BAAWN",
     "build_id": "62.1.250413.279",
-    "chipset": "MT6757"
+    "chipset": "MSM8210"
   },
   {
     "id": 1716,
@@ -20589,7 +20589,7 @@
     "manufacturer": "Sony",
     "serial": "6URT48TASR1DGWC5",
     "build_id": "QKQ1.250502.025",
-    "chipset": "SM8974AC"
+    "chipset": "MSM8926"
   },
   {
     "id": 1717,
@@ -20601,7 +20601,7 @@
     "manufacturer": "Sony",
     "serial": "8Y7DY8JD0SXUOFL0",
     "build_id": "RKQ1.240430.142",
-    "chipset": "SM8274"
+    "chipset": "MSM8226"
   },
   {
     "id": 1718,
@@ -20613,7 +20613,7 @@
     "manufacturer": "Sony",
     "serial": "O5YP0D4GZRKOXVH2",
     "build_id": "RKQ1.240427.514",
-    "chipset": "MT6762"
+    "chipset": "MT6732"
   },
   {
     "id": 1719,
@@ -20625,7 +20625,7 @@
     "manufacturer": "Sony",
     "serial": "WM005HBQ8HCA297K",
     "build_id": "SKQ1.240211.116",
-    "chipset": "SM8939"
+    "chipset": "MT6732"
   },
   {
     "id": 1720,
@@ -20637,7 +20637,7 @@
     "manufacturer": "Sony",
     "serial": "L3UUC0T724AG4STP",
     "build_id": "62.1.240225.455",
-    "chipset": "SM8150"
+    "chipset": "MT6735"
   },
   {
     "id": 1721,
@@ -20685,7 +20685,7 @@
     "manufacturer": "Sony",
     "serial": "QRSX9XIKH7UOIP2I",
     "build_id": "61.2.241211.550",
-    "chipset": "SM8150"
+    "chipset": "MSM7227A"
   },
   {
     "id": 1725,
@@ -20697,7 +20697,7 @@
     "manufacturer": "Sony",
     "serial": "R9SN30K3GMSYK3YR",
     "build_id": "61.2.250111.382",
-    "chipset": "SM8974"
+    "chipset": "MSM8974"
   },
   {
     "id": 1726,
@@ -20709,7 +20709,7 @@
     "manufacturer": "Sony",
     "serial": "4N3HX6BJDCG4YWT0",
     "build_id": "SKQ1.250221.075",
-    "chipset": "MT6737T"
+    "chipset": "MSM8230"
   },
   {
     "id": 1727,
@@ -20733,7 +20733,7 @@
     "manufacturer": "Sony",
     "serial": "D2JLVRNQU5RO9333",
     "build_id": "QKQ1.250602.292",
-    "chipset": "SM8974AB"
+    "chipset": "MT6737T"
   },
   {
     "id": 1729,
@@ -20769,7 +20769,7 @@
     "manufacturer": "Sony",
     "serial": "F1UATGU99E04742P",
     "build_id": "62.1.250626.141",
-    "chipset": "SM8227"
+    "chipset": "MSM8227"
   },
   {
     "id": 1732,
@@ -20781,7 +20781,7 @@
     "manufacturer": "Sony",
     "serial": "A0UUOPSX1O2WK3X1",
     "build_id": "61.2.251114.230",
-    "chipset": "SM8227"
+    "chipset": "MSM8227"
   },
   {
     "id": 1733,
@@ -20793,7 +20793,7 @@
     "manufacturer": "Sony",
     "serial": "9B5U3JVDYMNMQTEO",
     "build_id": "62.1.240520.933",
-    "chipset": "SM8939"
+    "chipset": "MSM8939"
   },
   {
     "id": 1734,
@@ -20805,7 +20805,7 @@
     "manufacturer": "Sony",
     "serial": "1RNHKA1I0HLK839V",
     "build_id": "61.2.251003.769",
-    "chipset": "SM8227"
+    "chipset": "MSM8926"
   },
   {
     "id": 1735,
@@ -20817,7 +20817,7 @@
     "manufacturer": "Sony",
     "serial": "NLB2UZQ4CAMNILGC",
     "build_id": "RKQ1.260120.847",
-    "chipset": "SM8939"
+    "chipset": "MSM8926"
   },
   {
     "id": 1736,
@@ -20829,7 +20829,7 @@
     "manufacturer": "Sony",
     "serial": "WKCUJQ5Z0RXJ7JLT",
     "build_id": "SKQ1.251001.625",
-    "chipset": "SM8939"
+    "chipset": "MSM8226"
   },
   {
     "id": 1737,
@@ -20841,7 +20841,7 @@
     "manufacturer": "Sony",
     "serial": "1UDVSEEJOMNKZ46K",
     "build_id": "RKQ1.240425.456",
-    "chipset": "SM8150"
+    "chipset": "MT6795"
   },
   {
     "id": 1738,
@@ -20853,7 +20853,7 @@
     "manufacturer": "Sony",
     "serial": "X1ND76M9GDXJTRU9",
     "build_id": "61.2.260112.083",
-    "chipset": "SM8939"
+    "chipset": "MT6795"
   },
   {
     "id": 1739,
@@ -20865,7 +20865,7 @@
     "manufacturer": "Sony",
     "serial": "OLW80IR3B3GP8GHQ",
     "build_id": "SKQ1.240312.271",
-    "chipset": "SM8255"
+    "chipset": "MSM8255"
   },
   {
     "id": 1740,
@@ -20877,7 +20877,7 @@
     "manufacturer": "Sony",
     "serial": "G73WW1H5TFDPAF0C",
     "build_id": "SKQ1.251205.477",
-    "chipset": "SM8250"
+    "chipset": "MSM7225A"
   },
   {
     "id": 1741,
@@ -20889,7 +20889,7 @@
     "manufacturer": "Sony",
     "serial": "8W9U3JL36EOGN6U1",
     "build_id": "62.1.251206.923",
-    "chipset": "MT6737T"
+    "chipset": "MSM8255"
   },
   {
     "id": 1742,
@@ -20913,7 +20913,7 @@
     "manufacturer": "Sony",
     "serial": "GSZ7CXXXQH00476W",
     "build_id": "RKQ1.241212.106",
-    "chipset": "MT6755"
+    "chipset": "MSM8255"
   },
   {
     "id": 1744,
@@ -20961,7 +20961,7 @@
     "manufacturer": "Sony",
     "serial": "SP7AYEHGPA47XZIR",
     "build_id": "RKQ1.240302.263",
-    "chipset": "MT6755"
+    "chipset": "MSM8255"
   },
   {
     "id": 1748,
@@ -20973,7 +20973,7 @@
     "manufacturer": "Sony",
     "serial": "MZPGPIA8VGAV15DQ",
     "build_id": "61.2.241003.793",
-    "chipset": "SM8260"
+    "chipset": "MSM8260"
   },
   {
     "id": 1749,
@@ -20985,7 +20985,7 @@
     "manufacturer": "Sony",
     "serial": "VUWZ6NZM5DW1IZQM",
     "build_id": "RKQ1.240403.845",
-    "chipset": "SM8260"
+    "chipset": "MSM8260"
   },
   {
     "id": 1750,
@@ -21009,7 +21009,7 @@
     "manufacturer": "Sony",
     "serial": "4JC8LY3YOV5VKZED",
     "build_id": "61.2.241130.125",
-    "chipset": "SM8260"
+    "chipset": "MSM8960T"
   },
   {
     "id": 1752,
@@ -21021,7 +21021,7 @@
     "manufacturer": "Sony",
     "serial": "VOJL2LBSTAAQ4G7O",
     "build_id": "SKQ1.251031.935",
-    "chipset": "SM8150"
+    "chipset": "MSM8260A"
   },
   {
     "id": 1753,
@@ -21033,7 +21033,7 @@
     "manufacturer": "Sony",
     "serial": "ULOWBN7CDJLOBV44",
     "build_id": "SKQ1.240104.792",
-    "chipset": "SM8974AC"
+    "chipset": "MSM8928"
   },
   {
     "id": 1754,
@@ -21045,7 +21045,7 @@
     "manufacturer": "Sony",
     "serial": "8B0BNWW7D73GVTQI",
     "build_id": "61.2.251002.217",
-    "chipset": "SM8250"
+    "chipset": "MSM7225AA"
   },
   {
     "id": 1755,
@@ -21057,7 +21057,7 @@
     "manufacturer": "Sony",
     "serial": "N5XVRACWO07BG7E3",
     "build_id": "QKQ1.250920.158",
-    "chipset": "SM8956"
+    "chipset": "MSM8260A"
   },
   {
     "id": 1756,
@@ -21081,7 +21081,7 @@
     "manufacturer": "Sony",
     "serial": "JINEHHU4YBCQ3ZFK",
     "build_id": "QKQ1.240626.513",
-    "chipset": "SM8550"
+    "chipset": "MSM8960"
   },
   {
     "id": 1758,
@@ -21093,7 +21093,7 @@
     "manufacturer": "Sony",
     "serial": "VIAWQV6ODYQ1RWB1",
     "build_id": "QKQ1.251022.825",
-    "chipset": "SM8956"
+    "chipset": "MSM8956"
   },
   {
     "id": 1759,
@@ -21105,7 +21105,7 @@
     "manufacturer": "Sony",
     "serial": "43AOOE6OJCNWZCPC",
     "build_id": "RKQ1.250711.900",
-    "chipset": "SM8956"
+    "chipset": "MSM8956"
   },
   {
     "id": 1760,
@@ -21117,7 +21117,7 @@
     "manufacturer": "Sony",
     "serial": "HGBUSUHO7GGB5W46",
     "build_id": "RKQ1.240723.463",
-    "chipset": "SM8996"
+    "chipset": "MSM8996"
   },
   {
     "id": 1761,
@@ -21189,7 +21189,7 @@
     "manufacturer": "Sony",
     "serial": "QMI0BNY347INZRL5",
     "build_id": "SKQ1.251021.328",
-    "chipset": "SM8996"
+    "chipset": "MSM8996"
   },
   {
     "id": 1767,
@@ -21201,7 +21201,7 @@
     "manufacturer": "Sony",
     "serial": "2ITHNFU224S4FA4K",
     "build_id": "QKQ1.250816.134",
-    "chipset": "SM8998"
+    "chipset": "MSM8998"
   },
   {
     "id": 1768,
@@ -21213,7 +21213,7 @@
     "manufacturer": "Sony",
     "serial": "GJP41RH40HISWXF7",
     "build_id": "61.2.240720.213",
-    "chipset": "SM8998"
+    "chipset": "MSM8998"
   },
   {
     "id": 1769,
@@ -21225,7 +21225,7 @@
     "manufacturer": "Sony",
     "serial": "UGYG5EIPJ9RWATJW",
     "build_id": "RKQ1.251017.150",
-    "chipset": "SM8998"
+    "chipset": "MSM8998"
   },
   {
     "id": 1770,
@@ -21237,7 +21237,7 @@
     "manufacturer": "Sony",
     "serial": "ATXMH7OI19GRUSYR",
     "build_id": "SKQ1.250927.325",
-    "chipset": "SM8996"
+    "chipset": "MSM8996"
   },
   {
     "id": 1771,
@@ -21249,7 +21249,7 @@
     "manufacturer": "Sony",
     "serial": "JZRTYY17G1CPAST2",
     "build_id": "61.2.251113.604",
-    "chipset": "SM8274"
+    "chipset": "MSM8274"
   },
   {
     "id": 1772,
@@ -21261,7 +21261,7 @@
     "manufacturer": "Sony",
     "serial": "KVS63A7CLYAGSJLI",
     "build_id": "61.2.240612.658",
-    "chipset": "SM8974"
+    "chipset": "MSM8974"
   },
   {
     "id": 1773,
@@ -21273,7 +21273,7 @@
     "manufacturer": "Sony",
     "serial": "6QCHRPC8L173LBHS",
     "build_id": "SKQ1.241024.125",
-    "chipset": "SM8974"
+    "chipset": "MSM8974"
   },
   {
     "id": 1774,
@@ -21285,7 +21285,7 @@
     "manufacturer": "Sony",
     "serial": "Y7S5MQBR96K9QFEB",
     "build_id": "SKQ1.240731.280",
-    "chipset": "SM8974"
+    "chipset": "MSM8974"
   },
   {
     "id": 1775,
@@ -21297,7 +21297,7 @@
     "manufacturer": "Sony",
     "serial": "E05JYBB9QJA8PTJ0",
     "build_id": "SKQ1.240610.364",
-    "chipset": "SM8974AB"
+    "chipset": "MSM8974AB"
   },
   {
     "id": 1776,
@@ -21309,7 +21309,7 @@
     "manufacturer": "Sony",
     "serial": "CHJKO93C6UTNM5LE",
     "build_id": "RKQ1.251129.053",
-    "chipset": "SM8274"
+    "chipset": "MSM8274"
   },
   {
     "id": 1777,
@@ -21321,7 +21321,7 @@
     "manufacturer": "Sony",
     "serial": "KU9G8T6AB8YOD11A",
     "build_id": "RKQ1.250127.551",
-    "chipset": "SM8974AB"
+    "chipset": "MSM8974AB"
   },
   {
     "id": 1778,
@@ -21333,7 +21333,7 @@
     "manufacturer": "Sony",
     "serial": "ARP678AIUMLS19RI",
     "build_id": "RKQ1.240220.474",
-    "chipset": "SM8974AC"
+    "chipset": "MSM8974AC"
   },
   {
     "id": 1779,
@@ -21345,7 +21345,7 @@
     "manufacturer": "Sony",
     "serial": "UJKABEZALZA88KQS",
     "build_id": "QKQ1.250711.774",
-    "chipset": "SM8974AC"
+    "chipset": "MSM8974AC"
   },
   {
     "id": 1780,
@@ -21357,7 +21357,7 @@
     "manufacturer": "Sony",
     "serial": "A274SQJUE7REIMTS",
     "build_id": "61.2.250111.594",
-    "chipset": "SM8274"
+    "chipset": "MSM8274"
   },
   {
     "id": 1781,
@@ -21369,7 +21369,7 @@
     "manufacturer": "Sony",
     "serial": "PQ63IEDP2X59UYW0",
     "build_id": "SKQ1.240413.582",
-    "chipset": "SM8974AC"
+    "chipset": "MSM8974AB"
   },
   {
     "id": 1782,
@@ -21381,7 +21381,7 @@
     "manufacturer": "Sony",
     "serial": "DX1SONIKEMZQHK5Z",
     "build_id": "61.2.240614.001",
-    "chipset": "SM8974AC"
+    "chipset": "MSM8974AC"
   },
   {
     "id": 1783,
@@ -21393,7 +21393,7 @@
     "manufacturer": "Sony",
     "serial": "LOC01KIHM53NXDZB",
     "build_id": "62.1.240516.475",
-    "chipset": "SM8274"
+    "chipset": "MSM8274"
   },
   {
     "id": 1784,
@@ -21405,7 +21405,7 @@
     "manufacturer": "Sony",
     "serial": "KD87VIAMUM7NJY49",
     "build_id": "SKQ1.260108.168",
-    "chipset": "SM8974AC"
+    "chipset": "MSM8974AC"
   },
   {
     "id": 1785,
@@ -21417,7 +21417,7 @@
     "manufacturer": "Sony",
     "serial": "T5D4MJ9LIHBY9JPA",
     "build_id": "SKQ1.251221.427",
-    "chipset": "SM8274"
+    "chipset": "MSM8274"
   },
   {
     "id": 1786,
@@ -21429,7 +21429,7 @@
     "manufacturer": "Sony",
     "serial": "RI0GL8XBMFC2MTIS",
     "build_id": "SKQ1.241120.764",
-    "chipset": "SM8994"
+    "chipset": "MSM8994"
   },
   {
     "id": 1787,
@@ -21441,7 +21441,7 @@
     "manufacturer": "Sony",
     "serial": "SMTH2H4O82SITLM7",
     "build_id": "RKQ1.250403.613",
-    "chipset": "SM8994"
+    "chipset": "MSM8994"
   },
   {
     "id": 1788,
@@ -21453,7 +21453,7 @@
     "manufacturer": "Sony",
     "serial": "LQGVOPDUIO0UFQ7Z",
     "build_id": "SKQ1.240507.230",
-    "chipset": "SM8274"
+    "chipset": "MSM8994"
   },
   {
     "id": 1789,
@@ -21465,7 +21465,7 @@
     "manufacturer": "Sony",
     "serial": "JT1RZVWKQJ8TRYET",
     "build_id": "RKQ1.240730.721",
-    "chipset": "SM8994"
+    "chipset": "MSM8994"
   },
   {
     "id": 1790,
@@ -21477,7 +21477,7 @@
     "manufacturer": "Sony",
     "serial": "W3PM2TYM55AWHGSS",
     "build_id": "SKQ1.240528.526",
-    "chipset": "SM8994"
+    "chipset": "MSM8994"
   },
   {
     "id": 1791,
@@ -21489,7 +21489,7 @@
     "manufacturer": "Sony",
     "serial": "Q3I2444LJCARQIHU",
     "build_id": "SKQ1.240229.633",
-    "chipset": "SM8974AB"
+    "chipset": "MSM8974AB"
   },
   {
     "id": 1792,
@@ -21501,7 +21501,7 @@
     "manufacturer": "Sony",
     "serial": "0DF6M02BPH4IAFLV",
     "build_id": "RKQ1.241216.325",
-    "chipset": "MT6762"
+    "chipset": "MT6752"
   },
   {
     "id": 1793,
@@ -21513,7 +21513,7 @@
     "manufacturer": "Sony",
     "serial": "9HA88IBOMENK1QZW",
     "build_id": "SKQ1.241104.210",
-    "chipset": "SM8939"
+    "chipset": "MT6752"
   },
   {
     "id": 1794,
@@ -21525,7 +21525,7 @@
     "manufacturer": "Sony",
     "serial": "XTL4I9XX0JTMYOHC",
     "build_id": "QKQ1.250211.698",
-    "chipset": "MT6762"
+    "chipset": "MT6582"
   },
   {
     "id": 1795,
@@ -21537,7 +21537,7 @@
     "manufacturer": "Sony",
     "serial": "QEDHJ56UFYM7XSMN",
     "build_id": "61.2.240919.437",
-    "chipset": "SM8939"
+    "chipset": "MT6582"
   },
   {
     "id": 1796,
@@ -21549,7 +21549,7 @@
     "manufacturer": "Sony",
     "serial": "KLNSJJAU5KTMH4JE",
     "build_id": "RKQ1.250213.259",
-    "chipset": "MT6762"
+    "chipset": "MT6732"
   },
   {
     "id": 1797,
@@ -21561,7 +21561,7 @@
     "manufacturer": "Sony",
     "serial": "1O2BWEOHRWQHKG2A",
     "build_id": "62.1.240811.594",
-    "chipset": "SM8939"
+    "chipset": "MSM8939"
   },
   {
     "id": 1798,
@@ -21573,7 +21573,7 @@
     "manufacturer": "Sony",
     "serial": "OHYVPXRBSSEFM1BY",
     "build_id": "RKQ1.241007.379",
-    "chipset": "SM8939"
+    "chipset": "MSM8939"
   },
   {
     "id": 1799,
@@ -21585,7 +21585,7 @@
     "manufacturer": "Sony Ericsson",
     "serial": "Q9QX3EEN8DYYQP1X",
     "build_id": "61.2.241204.237",
-    "chipset": "SM8255T"
+    "chipset": "MSM8255T"
   },
   {
     "id": 1800,
@@ -21597,7 +21597,7 @@
     "manufacturer": "Sony Ericsson",
     "serial": "B4ZPB95FBGN5QW4L",
     "build_id": "QKQ1.260131.185",
-    "chipset": "SM8255"
+    "chipset": "MSM8255"
   },
   {
     "id": 1801,
@@ -21609,7 +21609,7 @@
     "manufacturer": "Sony Ericsson",
     "serial": "8RL74BUA66YIZWWS",
     "build_id": "SKQ1.250612.922",
-    "chipset": "SM8255"
+    "chipset": "MSM8255"
   },
   {
     "id": 1802,
@@ -21621,7 +21621,7 @@
     "manufacturer": "Sony Ericsson",
     "serial": "EH193K0TLIYUIOG1",
     "build_id": "61.2.240914.861",
-    "chipset": "SM8255"
+    "chipset": "MSM8255"
   },
   {
     "id": 1803,
@@ -21633,7 +21633,7 @@
     "manufacturer": "Sony Ericsson",
     "serial": "IAWDI3KJJ6QKGFJW",
     "build_id": "61.2.260121.380",
-    "chipset": "SM8255"
+    "chipset": "MSM8255"
   },
   {
     "id": 1804,
@@ -21645,7 +21645,7 @@
     "manufacturer": "Sony Ericsson",
     "serial": "FVOFUJN5I3K9B3SX",
     "build_id": "62.1.240311.013",
-    "chipset": "SM7227"
+    "chipset": "MSM7227"
   },
   {
     "id": 1805,
@@ -21657,7 +21657,7 @@
     "manufacturer": "Sony Ericsson",
     "serial": "UXBCMRVOLBM94FJH",
     "build_id": "SKQ1.250304.452",
-    "chipset": "SM7227"
+    "chipset": "MSM7227"
   },
   {
     "id": 1806,
@@ -21765,7 +21765,7 @@
     "manufacturer": "TECNO",
     "serial": "435H30QGAVWSJI8H",
     "build_id": "QKQ1.240907.829",
-    "chipset": "MT6769Z"
+    "chipset": "MT6762"
   },
   {
     "id": 1815,
@@ -21813,7 +21813,7 @@
     "manufacturer": "TECNO",
     "serial": "NSUSAZ6LSMXRE90X",
     "build_id": "QKQ1.250906.131",
-    "chipset": "MT6761"
+    "chipset": "MT6580W"
   },
   {
     "id": 1819,
@@ -21873,7 +21873,7 @@
     "manufacturer": "TECNO",
     "serial": "H62N23JVGKBPQNO7",
     "build_id": "RP1A.250116.974",
-    "chipset": "MT6789"
+    "chipset": "MT6762"
   },
   {
     "id": 1824,
@@ -21933,7 +21933,7 @@
     "manufacturer": "TECNO",
     "serial": "N2B1WOPZ1X147VAT",
     "build_id": "RKQ1.241017.285",
-    "chipset": "MT6769Z"
+    "chipset": "MT6580"
   },
   {
     "id": 1829,
@@ -21981,7 +21981,7 @@
     "manufacturer": "TECNO",
     "serial": "AUDPD0T9GJBAKV9M",
     "build_id": "RP1A.240818.025",
-    "chipset": "MT6789"
+    "chipset": "MT6761"
   },
   {
     "id": 1833,
@@ -21993,7 +21993,7 @@
     "manufacturer": "TECNO",
     "serial": "1YAQTEB33Z18Q5ZN",
     "build_id": "QKQ1.251102.971",
-    "chipset": "MT6789"
+    "chipset": "MT6762"
   },
   {
     "id": 1834,
@@ -22245,7 +22245,7 @@
     "manufacturer": "TECNO",
     "serial": "2YVMI0GQQYX6PBGN",
     "build_id": "RKQ1.240317.924",
-    "chipset": "MT6762D"
+    "chipset": "MT6761"
   },
   {
     "id": 1855,
@@ -22653,7 +22653,7 @@
     "manufacturer": "Ulefone",
     "serial": "UZ9Z3OE4UTWTFYIY",
     "build_id": "RKQ1.240705.866",
-    "chipset": "MT6835"
+    "chipset": "MT6762V"
   },
   {
     "id": 1889,
@@ -22677,7 +22677,7 @@
     "manufacturer": "Ulefone",
     "serial": "951BR7JV7EA1LB0R",
     "build_id": "SKQ1.240827.022",
-    "chipset": "MT6835"
+    "chipset": "MT6761"
   },
   {
     "id": 1891,
@@ -22917,7 +22917,7 @@
     "manufacturer": "Vertu",
     "serial": "38EIYNV8F17TAGSD",
     "build_id": "SKQ1.240628.961",
-    "chipset": "MSM8974 v3"
+    "chipset": "MSM8974AB"
   },
   {
     "id": 1911,
@@ -22929,7 +22929,7 @@
     "manufacturer": "Vertu",
     "serial": "99AO23HNHDP250T9",
     "build_id": "SKQ1.241017.295",
-    "chipset": "MSM8974 v3"
+    "chipset": "MSM8974AA"
   },
   {
     "id": 1912,
@@ -22993,7 +22993,7 @@
   },
   {
     "id": 1917,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO 10 Pro",
     "device": "PD2218",
     "model": "V2218A",
@@ -23005,7 +23005,7 @@
   },
   {
     "id": 1918,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO 11",
     "device": "I2212",
     "model": "I2212",
@@ -23017,7 +23017,7 @@
   },
   {
     "id": 1919,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO 12",
     "device": "I2220",
     "model": "I2220",
@@ -23029,7 +23029,7 @@
   },
   {
     "id": 1920,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO 13",
     "device": "I2401",
     "model": "I2401",
@@ -23041,7 +23041,7 @@
   },
   {
     "id": 1921,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Neo 10R",
     "device": "I2221",
     "model": "I2221",
@@ -23053,7 +23053,7 @@
   },
   {
     "id": 1922,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Neo10",
     "device": "PD2425",
     "model": "V2425A",
@@ -23065,7 +23065,7 @@
   },
   {
     "id": 1923,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Neo10 Pro",
     "device": "PD2426",
     "model": "V2426A",
@@ -23077,7 +23077,7 @@
   },
   {
     "id": 1924,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Neo5S",
     "device": "PD2154",
     "model": "V2154A",
@@ -23089,7 +23089,7 @@
   },
   {
     "id": 1925,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Neo6",
     "device": "PD2196",
     "model": "V2196A",
@@ -23101,7 +23101,7 @@
   },
   {
     "id": 1926,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Neo6 SE",
     "device": "PD2199",
     "model": "V2199A",
@@ -23113,7 +23113,7 @@
   },
   {
     "id": 1927,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Neo7",
     "device": "I2214",
     "model": "I2214",
@@ -23125,7 +23125,7 @@
   },
   {
     "id": 1928,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Neo7 Pro",
     "device": "I2217",
     "model": "I2217",
@@ -23137,7 +23137,7 @@
   },
   {
     "id": 1929,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Neo7 Racing Edition",
     "device": "PD2232",
     "model": "V2232A",
@@ -23149,7 +23149,7 @@
   },
   {
     "id": 1930,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Neo7 SE",
     "device": "PD2238",
     "model": "V2238A",
@@ -23161,7 +23161,7 @@
   },
   {
     "id": 1931,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Neo8",
     "device": "PD2301",
     "model": "V2301A",
@@ -23173,7 +23173,7 @@
   },
   {
     "id": 1932,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Neo8 Pro",
     "device": "PD2302",
     "model": "V2302A",
@@ -23185,7 +23185,7 @@
   },
   {
     "id": 1933,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Neo9",
     "device": "PD2338",
     "model": "V2338A",
@@ -23197,7 +23197,7 @@
   },
   {
     "id": 1934,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Neo9 Pro",
     "device": "I2304",
     "model": "I2304",
@@ -23209,7 +23209,7 @@
   },
   {
     "id": 1935,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Z10 5G",
     "device": "I2407",
     "model": "I2407",
@@ -23221,7 +23221,7 @@
   },
   {
     "id": 1936,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Z10 Turbo Pro",
     "device": "PD2453",
     "model": "V2453A",
@@ -23233,7 +23233,7 @@
   },
   {
     "id": 1937,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Z10R 5G",
     "device": "I2410",
     "model": "I2410",
@@ -23245,7 +23245,7 @@
   },
   {
     "id": 1938,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Z5",
     "device": "2018",
     "model": "I2018",
@@ -23253,11 +23253,11 @@
     "manufacturer": "Vivo",
     "serial": "H97K8WN7U06LH5A2",
     "build_id": "RKQ1.240805.173",
-    "chipset": "SM8850"
+    "chipset": "SDM712"
   },
   {
     "id": 1939,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Z6 Lite 5G",
     "device": "I2208",
     "model": "I2208",
@@ -23269,7 +23269,7 @@
   },
   {
     "id": 1940,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Z6 Pro",
     "device": "I2126",
     "model": "I2126",
@@ -23281,7 +23281,7 @@
   },
   {
     "id": 1941,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Z6x",
     "device": "PD2164U",
     "model": "V2164KA",
@@ -23293,7 +23293,7 @@
   },
   {
     "id": 1942,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Z7x",
     "device": "PD2272",
     "model": "V2272A",
@@ -23305,7 +23305,7 @@
   },
   {
     "id": 1943,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Z8x",
     "device": "PD2312",
     "model": "V2312A",
@@ -23317,7 +23317,7 @@
   },
   {
     "id": 1944,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Z9 Turbo",
     "device": "PD2352",
     "model": "V2352A",
@@ -23325,11 +23325,11 @@
     "manufacturer": "Vivo",
     "serial": "SQ3B3RQO8VS4PC9F",
     "build_id": "TP1A.250318.062",
-    "chipset": "SM8845"
+    "chipset": "SM8635"
   },
   {
     "id": 1945,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Z9 Turbo Long Battery Life Edition",
     "device": "PD2352",
     "model": "V2352GA",
@@ -23337,11 +23337,11 @@
     "manufacturer": "Vivo",
     "serial": "S825EMTCAEUZ548D",
     "build_id": "RP1A.240519.332",
-    "chipset": "SM8845"
+    "chipset": "SM8635"
   },
   {
     "id": 1946,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Z9 Turbo+",
     "device": "PD2417",
     "model": "V2417A",
@@ -23349,11 +23349,11 @@
     "manufacturer": "Vivo",
     "serial": "C0CKSVUYCLFIOZKO",
     "build_id": "SKQ1.250430.863",
-    "chipset": "SM8845"
+    "chipset": "MT6989"
   },
   {
     "id": 1947,
-    "brand": "Vivo",
+    "brand": "iQOO",
     "marketing_name": "iQOO Z9x 5G",
     "device": "I2219",
     "model": "I2219",
@@ -23365,7 +23365,7 @@
   },
   {
     "id": 1948,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "V30e",
     "device": "V2339",
     "model": "V2339",
@@ -23377,7 +23377,7 @@
   },
   {
     "id": 1949,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1611",
     "device": "1611",
     "model": "vivo 1611",
@@ -23389,7 +23389,7 @@
   },
   {
     "id": 1950,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1714",
     "device": "1714",
     "model": "vivo 1714",
@@ -23401,7 +23401,7 @@
   },
   {
     "id": 1951,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1716",
     "device": "1716",
     "model": "vivo 1716",
@@ -23413,7 +23413,7 @@
   },
   {
     "id": 1952,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1718",
     "device": "1718",
     "model": "vivo 1718",
@@ -23425,7 +23425,7 @@
   },
   {
     "id": 1953,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1720",
     "device": "PD1710F_EX",
     "model": "vivo 1720",
@@ -23437,7 +23437,7 @@
   },
   {
     "id": 1954,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1721",
     "device": "PD1709F_EX",
     "model": "vivo 1721",
@@ -23449,7 +23449,7 @@
   },
   {
     "id": 1955,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1723",
     "device": "1723",
     "model": "vivo 1723",
@@ -23461,7 +23461,7 @@
   },
   {
     "id": 1956,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1724",
     "device": "1724",
     "model": "vivo 1724",
@@ -23473,7 +23473,7 @@
   },
   {
     "id": 1957,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1725",
     "device": "1725",
     "model": "vivo 1725",
@@ -23485,7 +23485,7 @@
   },
   {
     "id": 1958,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1726",
     "device": "1726",
     "model": "vivo 1726",
@@ -23497,7 +23497,7 @@
   },
   {
     "id": 1959,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1816",
     "device": "1816",
     "model": "vivo 1816",
@@ -23509,7 +23509,7 @@
   },
   {
     "id": 1960,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1817",
     "device": "1817",
     "model": "vivo 1817",
@@ -23521,7 +23521,7 @@
   },
   {
     "id": 1961,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1819",
     "device": "1819",
     "model": "vivo 1819",
@@ -23533,7 +23533,7 @@
   },
   {
     "id": 1962,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1820",
     "device": "1820",
     "model": "vivo 1820",
@@ -23545,7 +23545,7 @@
   },
   {
     "id": 1963,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1901",
     "device": "1901",
     "model": "vivo 1901",
@@ -23557,7 +23557,7 @@
   },
   {
     "id": 1964,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1902",
     "device": "1902",
     "model": "vivo 1902",
@@ -23569,7 +23569,7 @@
   },
   {
     "id": 1965,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1906",
     "device": "1906",
     "model": "vivo 1906",
@@ -23581,7 +23581,7 @@
   },
   {
     "id": 1966,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1907",
     "device": "1907",
     "model": "vivo 1907",
@@ -23593,7 +23593,7 @@
   },
   {
     "id": 1967,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1907",
     "device": "1907N",
     "model": "vivo 1907",
@@ -23605,7 +23605,7 @@
   },
   {
     "id": 1968,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1909",
     "device": "1909",
     "model": "vivo 1909",
@@ -23617,7 +23617,7 @@
   },
   {
     "id": 1969,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1910",
     "device": "1910",
     "model": "vivo 1910",
@@ -23629,7 +23629,7 @@
   },
   {
     "id": 1970,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1912",
     "device": "1912",
     "model": "vivo 1912",
@@ -23641,7 +23641,7 @@
   },
   {
     "id": 1971,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1913",
     "device": "1913",
     "model": "vivo 1913",
@@ -23653,7 +23653,7 @@
   },
   {
     "id": 1972,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1914",
     "device": "1811",
     "model": "vivo 1914",
@@ -23665,7 +23665,7 @@
   },
   {
     "id": 1973,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1915",
     "device": "1915",
     "model": "vivo 1915",
@@ -23677,7 +23677,7 @@
   },
   {
     "id": 1974,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1916",
     "device": "1916",
     "model": "vivo 1916",
@@ -23689,7 +23689,7 @@
   },
   {
     "id": 1975,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1917",
     "device": "1917",
     "model": "vivo 1917",
@@ -23701,7 +23701,7 @@
   },
   {
     "id": 1976,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1919",
     "device": "1919",
     "model": "vivo 1919",
@@ -23713,7 +23713,7 @@
   },
   {
     "id": 1977,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1920",
     "device": "1920",
     "model": "vivo 1920",
@@ -23725,7 +23725,7 @@
   },
   {
     "id": 1978,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1921",
     "device": "1921",
     "model": "vivo 1921",
@@ -23737,7 +23737,7 @@
   },
   {
     "id": 1979,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1929",
     "device": "2015",
     "model": "vivo 1929",
@@ -23749,7 +23749,7 @@
   },
   {
     "id": 1980,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1933",
     "device": "1933",
     "model": "vivo 1933",
@@ -23761,7 +23761,7 @@
   },
   {
     "id": 1981,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1935",
     "device": "1935",
     "model": "vivo 1935",
@@ -23773,7 +23773,7 @@
   },
   {
     "id": 1982,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1937",
     "device": "1937",
     "model": "vivo 1937",
@@ -23785,7 +23785,7 @@
   },
   {
     "id": 1983,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1938",
     "device": "1938",
     "model": "vivo 1938",
@@ -23797,7 +23797,7 @@
   },
   {
     "id": 1984,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 1940",
     "device": "1938",
     "model": "vivo 1940",
@@ -23809,7 +23809,7 @@
   },
   {
     "id": 1985,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 2015",
     "device": "2015",
     "model": "vivo 2015",
@@ -23821,7 +23821,7 @@
   },
   {
     "id": 1986,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 2015_21",
     "device": "2015",
     "model": "vivo 2015_21",
@@ -23833,7 +23833,7 @@
   },
   {
     "id": 1987,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 2018",
     "device": "2018",
     "model": "vivo 2018",
@@ -23845,7 +23845,7 @@
   },
   {
     "id": 1988,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo 2019",
     "device": "1938",
     "model": "vivo 2019",
@@ -23857,7 +23857,7 @@
   },
   {
     "id": 1989,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Pad Air",
     "device": "DPD2305",
     "model": "PA2353",
@@ -23869,7 +23869,7 @@
   },
   {
     "id": 1990,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Pad SE",
     "device": "DPD2424",
     "model": "PA2511",
@@ -23881,7 +23881,7 @@
   },
   {
     "id": 1991,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Pad2",
     "device": "DPD2221",
     "model": "PA2373",
@@ -23893,7 +23893,7 @@
   },
   {
     "id": 1992,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Pad3",
     "device": "DPD2345",
     "model": "PA2455",
@@ -23905,7 +23905,7 @@
   },
   {
     "id": 1993,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Pad5 Pro",
     "device": "DPD2429",
     "model": "PA2573",
@@ -23917,7 +23917,7 @@
   },
   {
     "id": 1994,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo S1",
     "device": "PD1831",
     "model": "V1831A",
@@ -23925,11 +23925,11 @@
     "manufacturer": "Vivo",
     "serial": "IPOVJOTQMPJUFN24",
     "build_id": "TP1A.251022.378",
-    "chipset": "SM4450"
+    "chipset": "MT6768"
   },
   {
     "id": 1995,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo S15e",
     "device": "PD2190",
     "model": "V2190A",
@@ -23941,7 +23941,7 @@
   },
   {
     "id": 1996,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo S16",
     "device": "PD2244",
     "model": "V2244A",
@@ -23953,7 +23953,7 @@
   },
   {
     "id": 1997,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo S16e",
     "device": "PD2239",
     "model": "V2239A",
@@ -23965,7 +23965,7 @@
   },
   {
     "id": 1998,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo S17e",
     "device": "PD2285",
     "model": "V2285A",
@@ -23977,7 +23977,7 @@
   },
   {
     "id": 1999,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo S19",
     "device": "PD2364",
     "model": "V2364A",
@@ -23989,7 +23989,7 @@
   },
   {
     "id": 2000,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo T2",
     "device": "PD2199",
     "model": "V2199GA",
@@ -24001,7 +24001,7 @@
   },
   {
     "id": 2001,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo T3 Pro 5G",
     "device": "V2404",
     "model": "V2404",
@@ -24013,7 +24013,7 @@
   },
   {
     "id": 2002,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo T4 5G",
     "device": "V2502",
     "model": "V2502",
@@ -24025,7 +24025,7 @@
   },
   {
     "id": 2003,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo V50 Lite",
     "device": "V2441",
     "model": "V2441",
@@ -24037,7 +24037,7 @@
   },
   {
     "id": 2004,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo V50e",
     "device": "V2428",
     "model": "V2428",
@@ -24049,7 +24049,7 @@
   },
   {
     "id": 2005,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo X21A",
     "device": "PD1728",
     "model": "vivo X21A",
@@ -24061,7 +24061,7 @@
   },
   {
     "id": 2006,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo X21i A",
     "device": "PD1801",
     "model": "vivo X21i A",
@@ -24073,7 +24073,7 @@
   },
   {
     "id": 2007,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo X21UD A",
     "device": "PD1728UD",
     "model": "vivo X21UD A",
@@ -24085,7 +24085,7 @@
   },
   {
     "id": 2008,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo X9Plus",
     "device": "PD1619",
     "model": "vivo X9Plus",
@@ -24097,7 +24097,7 @@
   },
   {
     "id": 2009,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo X9s",
     "device": "PD1616B",
     "model": "vivo PD1616B",
@@ -24105,11 +24105,11 @@
     "manufacturer": "Vivo",
     "serial": "T5MQ88JJSY1QMM61",
     "build_id": "SKQ1.241010.748",
-    "chipset": "MT6835"
+    "chipset": "MSM8976"
   },
   {
     "id": 2010,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y100i Long Battery Life Edition",
     "device": "PD2312",
     "model": "V2312BA",
@@ -24121,7 +24121,7 @@
   },
   {
     "id": 2011,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y19e",
     "device": "V2430",
     "model": "V2431",
@@ -24133,7 +24133,7 @@
   },
   {
     "id": 2012,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y19s",
     "device": "V2419",
     "model": "V2423",
@@ -24145,7 +24145,7 @@
   },
   {
     "id": 2013,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y22",
     "device": "V2207",
     "model": "V2207",
@@ -24153,11 +24153,11 @@
     "manufacturer": "Vivo",
     "serial": "PJETE7O9SOSKWZDB",
     "build_id": "SKQ1.240814.005",
-    "chipset": "MT6769Z"
+    "chipset": "MT6582"
   },
   {
     "id": 2014,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y29",
     "device": "V2434",
     "model": "V2434",
@@ -24169,7 +24169,7 @@
   },
   {
     "id": 2015,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y29 5G",
     "device": "V2420",
     "model": "V2420",
@@ -24181,7 +24181,7 @@
   },
   {
     "id": 2016,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y36c",
     "device": "PD2357",
     "model": "V2357A",
@@ -24193,7 +24193,7 @@
   },
   {
     "id": 2017,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y37m",
     "device": "PD2357",
     "model": "V2357EA",
@@ -24205,7 +24205,7 @@
   },
   {
     "id": 2018,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y65",
     "device": "1719",
     "model": "vivo 1719",
@@ -24213,11 +24213,11 @@
     "manufacturer": "Vivo",
     "serial": "2SHDS5GDHRNHU1M2",
     "build_id": "TP1A.240327.195",
-    "chipset": "MT6765"
+    "chipset": "MSM8917"
   },
   {
     "id": 2019,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y66i A",
     "device": "PD1621B",
     "model": "vivo Y66i A",
@@ -24229,7 +24229,7 @@
   },
   {
     "id": 2020,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y69A",
     "device": "PD1705",
     "model": "vivo Y69A",
@@ -24241,7 +24241,7 @@
   },
   {
     "id": 2021,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y71A",
     "device": "PD1731",
     "model": "vivo Y71A",
@@ -24253,7 +24253,7 @@
   },
   {
     "id": 2022,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y75A",
     "device": "PD1718",
     "model": "vivo Y75A",
@@ -24265,7 +24265,7 @@
   },
   {
     "id": 2023,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y75s",
     "device": "PD2069",
     "model": "V2069BA",
@@ -24277,7 +24277,7 @@
   },
   {
     "id": 2024,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y75s",
     "device": "PD1708C",
     "model": "vivo Y75s",
@@ -24289,7 +24289,7 @@
   },
   {
     "id": 2025,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y77",
     "device": "PD2219",
     "model": "V2219A",
@@ -24301,7 +24301,7 @@
   },
   {
     "id": 2026,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Y83A",
     "device": "PD1803",
     "model": "vivo Y83A",
@@ -24313,7 +24313,7 @@
   },
   {
     "id": 2027,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Z1i",
     "device": "PD1730D",
     "model": "vivo Y89",
@@ -24321,11 +24321,11 @@
     "manufacturer": "Vivo",
     "serial": "O2NM3ITW23CY2IAG",
     "build_id": "RKQ1.240427.611",
-    "chipset": "SM4450"
+    "chipset": "SDM636"
   },
   {
     "id": 2028,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "vivo Z3x",
     "device": "PD1730G",
     "model": "vivo Z3x",
@@ -24333,11 +24333,11 @@
     "manufacturer": "Vivo",
     "serial": "ZLXGIZX1O9LVS8HJ",
     "build_id": "RP1A.250111.705",
-    "chipset": "SM4450"
+    "chipset": "SDM660"
   },
   {
     "id": 2029,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "X100",
     "device": "PD2309",
     "model": "V2309A",
@@ -24349,7 +24349,7 @@
   },
   {
     "id": 2030,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "X100 Pro",
     "device": "PD2324",
     "model": "V2324A",
@@ -24361,7 +24361,7 @@
   },
   {
     "id": 2031,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "X100 Ultra",
     "device": "PD2366",
     "model": "V2366GA",
@@ -24373,7 +24373,7 @@
   },
   {
     "id": 2032,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "X100s Pro",
     "device": "PD2324",
     "model": "V2324HA",
@@ -24385,7 +24385,7 @@
   },
   {
     "id": 2033,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "X200 Ultra",
     "device": "PD2454",
     "model": "V2454A",
@@ -24397,7 +24397,7 @@
   },
   {
     "id": 2034,
-    "brand": "Vivo",
+    "brand": "vivo",
     "marketing_name": "Y17s",
     "device": "V2310",
     "model": "V2310",
@@ -24417,7 +24417,7 @@
     "manufacturer": "Vodafone",
     "serial": "LSCI2K0YM9PDADV0",
     "build_id": "SKQ1.240905.407",
-    "chipset": "SM8909"
+    "chipset": "MSM8909"
   },
   {
     "id": 2036,
@@ -24525,7 +24525,7 @@
     "manufacturer": "Wiko",
     "serial": "ZQ6PX83MCZXV9R66",
     "build_id": "RKQ1.250929.374",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 2045,
@@ -24633,7 +24633,7 @@
     "manufacturer": "Wiko",
     "serial": "L7JUPWA3216T8N16",
     "build_id": "SKQ1.250422.043",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 2054,
@@ -24645,7 +24645,7 @@
     "manufacturer": "Wiko",
     "serial": "77OC8UK5MWGLY0XB",
     "build_id": "SKQ1.251128.805",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 2055,
@@ -24681,7 +24681,7 @@
     "manufacturer": "Wiko",
     "serial": "4XGCSP5ZYM842FNN",
     "build_id": "QKQ1.250913.231",
-    "chipset": "MT6582"
+    "chipset": "MT6580"
   },
   {
     "id": 2058,
@@ -24693,7 +24693,7 @@
     "manufacturer": "Wiko",
     "serial": "KVMMAFJUAMW27NX0",
     "build_id": "QKQ1.240814.220",
-    "chipset": "SM8940"
+    "chipset": "MSM8940"
   },
   {
     "id": 2059,
@@ -24717,7 +24717,7 @@
     "manufacturer": "Wiko",
     "serial": "ZUS9ITT82V4EM2CP",
     "build_id": "SKQ1.241116.317",
-    "chipset": "SM8916"
+    "chipset": "MT6735P"
   },
   {
     "id": 2061,
@@ -24729,7 +24729,7 @@
     "manufacturer": "Wiko",
     "serial": "2HNYPLGC6M5NC4GQ",
     "build_id": "RKQ1.240926.948",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 2062,
@@ -24741,7 +24741,7 @@
     "manufacturer": "Wiko",
     "serial": "1EF8X52KBLEX0Z09",
     "build_id": "RKQ1.250315.397",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 2063,
@@ -24813,7 +24813,7 @@
     "manufacturer": "Wiko",
     "serial": "UW9MCHO1B2DMHXWW",
     "build_id": "RKQ1.250921.057",
-    "chipset": "MT6739WA"
+    "chipset": "MSM8917"
   },
   {
     "id": 2069,
@@ -24825,7 +24825,7 @@
     "manufacturer": "Wiko",
     "serial": "8PZRDN0Y3CJB80G5",
     "build_id": "QKQ1.260121.730",
-    "chipset": "SM8917"
+    "chipset": "MSM8917"
   },
   {
     "id": 2070,
@@ -24849,7 +24849,7 @@
     "manufacturer": "Wiko",
     "serial": "R84TYUMGUDLYJXEH",
     "build_id": "RKQ1.250810.002",
-    "chipset": "SM8917"
+    "chipset": "MSM8917"
   },
   {
     "id": 2072,
@@ -24861,7 +24861,7 @@
     "manufacturer": "Wiko",
     "serial": "WR9T60GXMFW9KUSM",
     "build_id": "SKQ1.250201.412",
-    "chipset": "SM8937"
+    "chipset": "MSM8937"
   },
   {
     "id": 2073,
@@ -24969,7 +24969,7 @@
     "manufacturer": "Wiko",
     "serial": "GVMNM4HLXR8E2X2Q",
     "build_id": "QKQ1.251024.238",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 2082,
@@ -24993,7 +24993,7 @@
     "manufacturer": "Wiko",
     "serial": "KUMFFNGABLJGYWBX",
     "build_id": "SKQ1.251024.451",
-    "chipset": "SM8917"
+    "chipset": "MSM8917"
   },
   {
     "id": 2084,
@@ -25005,7 +25005,7 @@
     "manufacturer": "Wiko",
     "serial": "XMIYUH5Q07S56Y79",
     "build_id": "QKQ1.240607.947",
-    "chipset": "SM8940"
+    "chipset": "MSM8940"
   },
   {
     "id": 2085,
@@ -25017,7 +25017,7 @@
     "manufacturer": "Xiaomi",
     "serial": "VCQ8ZRR8CBXOHEQU",
     "build_id": "TKQ1.251005.938",
-    "chipset": "SM8850"
+    "chipset": "SM8250"
   },
   {
     "id": 2086,
@@ -25029,7 +25029,7 @@
     "manufacturer": "Xiaomi",
     "serial": "N5TAG8YH8N8X55NT",
     "build_id": "TKQ1.240924.410",
-    "chipset": "SM8850"
+    "chipset": "SM8250"
   },
   {
     "id": 2087,
@@ -25041,7 +25041,7 @@
     "manufacturer": "Xiaomi",
     "serial": "KH438D8R7UU5NQMW",
     "build_id": "RKQ1.241103.549",
-    "chipset": "SM8850"
+    "chipset": "SM8350"
   },
   {
     "id": 2088,
@@ -25053,7 +25053,7 @@
     "manufacturer": "Xiaomi",
     "serial": "34T969QM3CRZ67WQ",
     "build_id": "TKQ1.240428.455",
-    "chipset": "SM8850"
+    "chipset": "SM8350"
   },
   {
     "id": 2089,
@@ -25065,7 +25065,7 @@
     "manufacturer": "Xiaomi",
     "serial": "IATKUFILL53HIG5P",
     "build_id": "SKQ1.250420.355",
-    "chipset": "SM8850"
+    "chipset": "SM8350"
   },
   {
     "id": 2090,
@@ -25077,7 +25077,7 @@
     "manufacturer": "Xiaomi",
     "serial": "B8ZKOPAQ41ZNMOLJ",
     "build_id": "SKQ1.250425.133",
-    "chipset": "SM8750"
+    "chipset": "MSM8996"
   },
   {
     "id": 2091,
@@ -25089,7 +25089,7 @@
     "manufacturer": "Xiaomi",
     "serial": "YT0KJ8JNTA52ZA9Y",
     "build_id": "UKQ1.250109.571",
-    "chipset": "SM8850"
+    "chipset": "SDM845"
   },
   {
     "id": 2092,
@@ -25101,7 +25101,7 @@
     "manufacturer": "Xiaomi",
     "serial": "0Q53ZMYSSNIA0KKO",
     "build_id": "QKQ1.250724.224",
-    "chipset": "SM8850"
+    "chipset": "SDM730"
   },
   {
     "id": 2093,
@@ -25113,7 +25113,7 @@
     "manufacturer": "Xiaomi",
     "serial": "QXU8VWIWBSH0PPWT",
     "build_id": "UKQ1.251010.206",
-    "chipset": "SM7675"
+    "chipset": "Tegra K1"
   },
   {
     "id": 2094,
@@ -25125,7 +25125,7 @@
     "manufacturer": "Xiaomi",
     "serial": "PXPEGFEIQ9RTVXJK",
     "build_id": "RKQ1.241112.782",
-    "chipset": "SM7675"
+    "chipset": "MT8176"
   },
   {
     "id": 2095,
@@ -25137,7 +25137,7 @@
     "manufacturer": "Xiaomi",
     "serial": "8JTETIRT9WMKQOHX",
     "build_id": "TKQ1.241105.882",
-    "chipset": "SM7675"
+    "chipset": "SDM660"
   },
   {
     "id": 2096,
@@ -25149,7 +25149,7 @@
     "manufacturer": "Xiaomi",
     "serial": "M7W4NNZ5376M7SKP",
     "build_id": "PKQ1.260103.596",
-    "chipset": "SM6375"
+    "chipset": "SDM450"
   },
   {
     "id": 2097,
@@ -25161,7 +25161,7 @@
     "manufacturer": "Xiaomi",
     "serial": "SE2VNRA1JA3BK2QH",
     "build_id": "PKQ1.240928.580",
-    "chipset": "SM6375"
+    "chipset": "MSM8917"
   },
   {
     "id": 2098,
@@ -25173,7 +25173,7 @@
     "manufacturer": "Xiaomi",
     "serial": "3447DL83ORMPW5M6",
     "build_id": "RKQ1.240308.712",
-    "chipset": "SM6475"
+    "chipset": "SDM636"
   },
   {
     "id": 2099,
@@ -25185,7 +25185,7 @@
     "manufacturer": "Xiaomi",
     "serial": "3EM9KETWIBV2EQUF",
     "build_id": "RKQ1.250603.238",
-    "chipset": "SM6475"
+    "chipset": "MSM8940"
   },
   {
     "id": 2100,
@@ -25197,7 +25197,7 @@
     "manufacturer": "Xiaomi",
     "serial": "C5CJZC73XY8IUZH5",
     "build_id": "QKQ1.240212.094",
-    "chipset": "MT6769H"
+    "chipset": "MSM8953"
   },
   {
     "id": 2101,
@@ -25209,7 +25209,7 @@
     "manufacturer": "Xiaomi",
     "serial": "34F3MEWT64FIQAX7",
     "build_id": "UKQ1.250930.471",
-    "chipset": "SM8850"
+    "chipset": "SM7325"
   },
   {
     "id": 2102,
@@ -25221,7 +25221,7 @@
     "manufacturer": "Xiaomi",
     "serial": "7JIEH8B4Z6RVJSVB",
     "build_id": "RKQ1.241102.083",
-    "chipset": "SM8850"
+    "chipset": "SM7325"
   },
   {
     "id": 2103,
@@ -25233,7 +25233,7 @@
     "manufacturer": "Xiaomi",
     "serial": "6M5YYDU97T8GFDY5",
     "build_id": "UKQ1.240528.823",
-    "chipset": "SM8750"
+    "chipset": "MT6877T"
   },
   {
     "id": 2104,
@@ -25245,7 +25245,7 @@
     "manufacturer": "Xiaomi",
     "serial": "UDQ1EXW5PCF85KH5",
     "build_id": "RKQ1.250211.191",
-    "chipset": "SM8850"
+    "chipset": "MT6877T"
   },
   {
     "id": 2105,
@@ -25257,7 +25257,7 @@
     "manufacturer": "Xiaomi",
     "serial": "5GE6OHB6G6YPD08F",
     "build_id": "TKQ1.240214.737",
-    "chipset": "SM8750"
+    "chipset": "SM8450"
   },
   {
     "id": 2106,
@@ -25269,7 +25269,7 @@
     "manufacturer": "Xiaomi",
     "serial": "Z02A9MK1RV0ZB18S",
     "build_id": "RKQ1.240920.595",
-    "chipset": "SM8850"
+    "chipset": "SM7325"
   },
   {
     "id": 2107,
@@ -25281,7 +25281,7 @@
     "manufacturer": "Xiaomi",
     "serial": "AW95ZE6XOGNNC6F9",
     "build_id": "UKQ1.240113.277",
-    "chipset": "SM8850"
+    "chipset": "SM8450"
   },
   {
     "id": 2108,
@@ -25293,7 +25293,7 @@
     "manufacturer": "Xiaomi",
     "serial": "DN4QO7DA95A866KU",
     "build_id": "TKQ1.240512.252",
-    "chipset": "SM8850"
+    "chipset": "MT6983"
   },
   {
     "id": 2109,
@@ -25305,7 +25305,7 @@
     "manufacturer": "Xiaomi",
     "serial": "0TVZW9RR0UEY35L6",
     "build_id": "UKQ1.250427.386",
-    "chipset": "SM8750"
+    "chipset": "SM8475"
   },
   {
     "id": 2110,
@@ -25317,7 +25317,7 @@
     "manufacturer": "Xiaomi",
     "serial": "JZGFEMTV4QORD0QF",
     "build_id": "UKQ1.240910.717",
-    "chipset": "SM8850"
+    "chipset": "SM8475"
   },
   {
     "id": 2111,
@@ -25329,7 +25329,7 @@
     "manufacturer": "Xiaomi",
     "serial": "2D8K2SI9SQ6MQESF",
     "build_id": "QKQ1.250128.400",
-    "chipset": "SM8850"
+    "chipset": "SM8475"
   },
   {
     "id": 2112,
@@ -25341,7 +25341,7 @@
     "manufacturer": "Xiaomi",
     "serial": "KC2H4EBKATW522HY",
     "build_id": "TKQ1.250101.007",
-    "chipset": "SM8750"
+    "chipset": "SM8250"
   },
   {
     "id": 2113,
@@ -25353,7 +25353,7 @@
     "manufacturer": "Xiaomi",
     "serial": "1DY7PGFH0OJM8UM1",
     "build_id": "PKQ1.250922.625",
-    "chipset": "SM8850"
+    "chipset": "SM8550"
   },
   {
     "id": 2114,
@@ -25365,7 +25365,7 @@
     "manufacturer": "Xiaomi",
     "serial": "5UYYHG95619A9JRK",
     "build_id": "SKQ1.260107.935",
-    "chipset": "SM8850"
+    "chipset": "SM8550"
   },
   {
     "id": 2115,
@@ -25389,7 +25389,7 @@
     "manufacturer": "Xiaomi",
     "serial": "998AOYFB4RAJBX0L",
     "build_id": "PKQ1.240520.586",
-    "chipset": "SM8650"
+    "chipset": "SM8635"
   },
   {
     "id": 2117,
@@ -25401,7 +25401,7 @@
     "manufacturer": "Xiaomi",
     "serial": "LAHP6NNV1Q00J48W",
     "build_id": "RKQ1.241112.042",
-    "chipset": "SM8850"
+    "chipset": "SM8650"
   },
   {
     "id": 2118,
@@ -25485,7 +25485,7 @@
     "manufacturer": "Xiaomi",
     "serial": "H8R4HYGAQJS4SQOS",
     "build_id": "UKQ1.240314.113",
-    "chipset": "SM8750"
+    "chipset": "SM7325"
   },
   {
     "id": 2125,
@@ -25497,7 +25497,7 @@
     "manufacturer": "Xiaomi",
     "serial": "6TK00JKZW21IQUGE",
     "build_id": "RKQ1.251206.523",
-    "chipset": "SM8750"
+    "chipset": "SM7325"
   },
   {
     "id": 2126,
@@ -25509,7 +25509,7 @@
     "manufacturer": "Xiaomi",
     "serial": "XA877CGL3VKNR9SE",
     "build_id": "PKQ1.251209.330",
-    "chipset": "SM8250"
+    "chipset": "MT6896Z"
   },
   {
     "id": 2127,
@@ -25521,7 +25521,7 @@
     "manufacturer": "Xiaomi",
     "serial": "OLWBS8TDHXUDN0F7",
     "build_id": "TKQ1.250818.141",
-    "chipset": "SM8650"
+    "chipset": "SM8635"
   },
   {
     "id": 2128,
@@ -25533,7 +25533,7 @@
     "manufacturer": "Xiaomi",
     "serial": "COJ0E1N2FPVQMIWM",
     "build_id": "TKQ1.241130.058",
-    "chipset": "SM8750"
+    "chipset": "SM7450"
   },
   {
     "id": 2129,
@@ -25545,7 +25545,7 @@
     "manufacturer": "Xiaomi",
     "serial": "04RVOEOB1X8Y2VMO",
     "build_id": "UKQ1.250816.115",
-    "chipset": "SM6375"
+    "chipset": "SM8650"
   },
   {
     "id": 2130,
@@ -25557,7 +25557,7 @@
     "manufacturer": "Xiaomi",
     "serial": "V00BHCFNERGE44X2",
     "build_id": "RKQ1.240803.807",
-    "chipset": "SM6375"
+    "chipset": "SM8350"
   },
   {
     "id": 2131,
@@ -25569,7 +25569,7 @@
     "manufacturer": "Xiaomi",
     "serial": "MBHB89PMDA5YPXGL",
     "build_id": "SKQ1.250714.099",
-    "chipset": "SM7675"
+    "chipset": "SM8150"
   },
   {
     "id": 2132,
@@ -25581,7 +25581,7 @@
     "manufacturer": "Xiaomi",
     "serial": "4FXOIXTR4UHDUKJ3",
     "build_id": "QKQ1.250430.170",
-    "chipset": "SM7675"
+    "chipset": "SM8250"
   },
   {
     "id": 2133,
@@ -25593,7 +25593,7 @@
     "manufacturer": "Xiaomi",
     "serial": "5VHYQZU146FLHL8D",
     "build_id": "TKQ1.251121.068",
-    "chipset": "SM7675"
+    "chipset": "SM8475"
   },
   {
     "id": 2134,
@@ -25617,7 +25617,7 @@
     "manufacturer": "Xiaomi",
     "serial": "4SHSV19ELBZRF5CL",
     "build_id": "RKQ1.240202.256",
-    "chipset": "SM7675"
+    "chipset": "SM8635"
   },
   {
     "id": 2136,
@@ -25701,7 +25701,7 @@
     "manufacturer": "YU",
     "serial": "KAH4WLEEOONWTK4R",
     "build_id": "SKQ1.250522.283",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 2143,
@@ -25725,7 +25725,7 @@
     "manufacturer": "YU",
     "serial": "6F6UAGBU15LV73UE",
     "build_id": "SKQ1.250614.374",
-    "chipset": "SM8916"
+    "chipset": "MSM8916"
   },
   {
     "id": 2145,
@@ -25737,7 +25737,7 @@
     "manufacturer": "YU",
     "serial": "K6WO65EYWSAQQVA6",
     "build_id": "SKQ1.250827.196",
-    "chipset": "SM8939"
+    "chipset": "MSM8939"
   },
   {
     "id": 2146,
@@ -25749,7 +25749,7 @@
     "manufacturer": "YU",
     "serial": "DB771Y5G9YJTXX9G",
     "build_id": "SKQ1.240610.033",
-    "chipset": "SM8937"
+    "chipset": "MSM8937"
   },
   {
     "id": 2147,
@@ -25773,7 +25773,7 @@
     "manufacturer": "YU",
     "serial": "34AOEGLRXXJ4QDND",
     "build_id": "SKQ1.241230.846",
-    "chipset": "SM8939"
+    "chipset": "MSM8939"
   },
   {
     "id": 2149,
@@ -25953,7 +25953,7 @@
     "manufacturer": "ZTE",
     "serial": "VAUP163UFOKV71A6",
     "build_id": "RKQ1.240929.524",
-    "chipset": "SM8450"
+    "chipset": "SM8475"
   },
   {
     "id": 2164,
@@ -25965,7 +25965,7 @@
     "manufacturer": "ZTE",
     "serial": "TGN17QRVDYSFLRHP",
     "build_id": "RKQ1.260129.870",
-    "chipset": "SM8450"
+    "chipset": "SM8250"
   },
   {
     "id": 2165,
@@ -25977,6 +25977,6 @@
     "manufacturer": "Zuk",
     "serial": "POHIT01GVPTDKE0T",
     "build_id": "SKQ1.250121.154",
-    "chipset": "SM8996"
+    "chipset": "MSM8996"
   }
 ]
