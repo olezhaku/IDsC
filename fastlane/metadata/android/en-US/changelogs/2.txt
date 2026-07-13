@@ -1,0 +1,25 @@
+Added:
+
+- Added LSPosed/Xposed module support for MTP device name spoofing
+- Added animations
+- Added improved device profile handling
+
+Changed:
+
+- Rewritten the application as a native Android app using Kotlin and Jetpack Compose
+- Updated project structure for the native Android release workflow
+- Improved device profile management and system property handling
+- Updated device database and fingerprint information
+
+Fixed:
+
+- Fixed floating action button bottom padding
+- Fixed release minification removing required Xposed hook classes
+- Fixed device board generation
+
+Notes:
+
+- This release targets rooted Android devices.
+- MTP name spoofing requires enabling the module in LSPosed/Xposed.
+- Applied profiles modify device identity-related system properties.
+- Some changes may require a reboot to take effect.

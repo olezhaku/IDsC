@@ -90,5 +90,5 @@ dependencies {
     debugImplementation(libs.androidx.compose.ui.tooling)
     implementation(libs.androidx.navigation.compose)
     implementation(libs.androidx.compose.material.icons.extended)
-    compileOnly(libs.xposed)
+    compileOnly(files("libs/api-82.jar"))
 }

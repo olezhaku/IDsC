@@ -28,8 +28,8 @@ It can also expose the selected profile name over MTP when the Xposed module is 
 ## Screenshots
 
 <p>
-  <img src="./docs/screenshots/device-search.png" width="240" alt="Device profile search" />
-  <img src="./docs/screenshots/device-details.png" width="240" alt="Selected device profile details" />
+  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/01.png" width="240" alt="Device profile search" />
+  <img src="./fastlane/metadata/android/en-US/images/phoneScreenshots/02.png" width="240" alt="Selected device profile details" />
 </p>
 
 <p>

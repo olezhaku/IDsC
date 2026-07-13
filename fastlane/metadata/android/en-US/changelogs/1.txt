@@ -1,0 +1,24 @@
+Initial public release of IDsC.
+
+Highlights:
+
+- Expo/React Native Android app for rooted device identity spoofing
+- Built-in catalog of device profiles
+- Script generation for applying selected device properties
+- Persistent boot-time script support to keep changes after reboot
+- Android native project included in the repository
+- Open-source project setup with README and GPL-3.0-or-later license
+- Android release build configured for ARM64 (arm64-v8a)
+
+Included:
+
+- Device profile selection UI
+- Shell execution flow for applying generated scripts
+- Build metadata and device identity property rewriting
+- App icon and Android launcher resources
+- APK build limited to arm64-v8a to reduce package size
+
+Notes:
+
+- Intended for rooted Android devices only
+- Test on a non-critical device before daily use
